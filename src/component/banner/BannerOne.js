@@ -11,9 +11,9 @@ const BannerOne = () => {
                     <div className="col-lg-6">
                         <div className="banner-content">
                             <AnimationOnScroll animateIn="fadeInUp" animateOnce={true} delay={100}>
-                                <h1 className="title">Build beautiful website &amp; mobile apps.</h1>
-                                <span className="subtitle">Create live segments and target the right people for messages based on their behaviors.</span>
-                                <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">Get Started</Link>
+                                <h1 className="title">Dijital Medya Uygulama Geliştirme.</h1>
+                                <span className="subtitle">Deneyimli Ürün Geliştirme Ekibimizle Projelerinizi Hızlandırın: İnternet Vitrininde Tecrübemizle Şekillenen Hedef Odaklı Projeler!</span>
+                                <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-fill-primary btn-large">İletişim</Link>
                             </AnimationOnScroll>
                         </div>
                     </div>

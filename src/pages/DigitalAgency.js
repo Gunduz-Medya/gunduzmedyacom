@@ -20,7 +20,7 @@ const DigitalAgency = () => {
 
     return (
         <>
-        <SEO title="Digital Agency"/>
+        <SEO title="Dijital Medya Projeleri"/>
         <ColorSwitcher />
         <main className="main-wrapper">
             <HeaderOne />
@@ -28,10 +28,9 @@ const DigitalAgency = () => {
             <div className="section section-padding-2 bg-color-dark">
                 <div className="container">
                     <SectionTitle 
-                        subtitle="What We Can Do For You"
-                        title="Services we can help you with"
-                        description="Nulla facilisi. Nullam in magna id dolor 
-                        blandit rutrum eget vulputate augue sed eu imperdiet."
+                        subtitle="Hizmetlerimiz"
+                        title="Dijital Ürünler Tasarlıyor ve Geliştiriyoruz"
+                        description="10 yılın ve 100'den fazla ürünün ardından, ekibimiz sizi etkileyici sonuçlarla buluşturan yazılım geliştirme hizmetleri sunmaya hazır. Hayal ettiğiniz her türlü projeyi bizimle gerçekleştirebilirsiniz!"
                         textAlignment="heading-light-left"
                         textColor=""
                     />

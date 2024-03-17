@@ -28,11 +28,11 @@ const ComingSoon = () => {
                   </div>
                   <div className="countdown-section">
                     <span className="countdown-number">{minutes}</span>
-                    <span className="countdown-unit">Hours</span>
+                    <span className="countdown-unit">Minutes</span>
                   </div>
                   <div className="countdown-section">
                     <span className="countdown-number">{seconds}</span>
-                    <span className="countdown-unit">Hours</span>
+                    <span className="countdown-unit">Seconds</span>
                   </div>
               </div>
           )

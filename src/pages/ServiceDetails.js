@@ -22,7 +22,7 @@ const ServiceDetails = () => {
     const params = useParams();
     const serviceSlug = params.slug;
 
-    const getServiceData = allServiceData.filter(data => slugify(data.title) === serviceSlug);
+    const getServiceData = allServiceData.filter(data => slugify(data.url) === serviceSlug);
     const detailsService = getServiceData[0];
 
     return (

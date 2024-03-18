@@ -10,10 +10,10 @@ const AboutOne = () => {
                     <div className="col-lg-6">
                         <div className="about-us">
                             <div className="section-heading heading-left mb-0">
-                                <span className="subtitle">About Us</span>
-                                <h2 className="title mb--40">We do design, code &amp; develop.</h2>
-                                <p>Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque. </p>
-                                <p>Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero. </p>
+                                <span className="subtitle">Hakkımızda</span>
+                                <h2 className="title mb--40">Tasarlıyor, geliştiriyor ve üretiyoruz.</h2>
+                                <p>Eğlence yaratıcılığı doğurur. Ve yaratıcılık dudak uçuklatan ürünleri doğurur. Bu nedenle, sıkı çalışmamızın bizi gururlandırmasını sağlamak için eğlenceyi işimizin hayati bir parçası haline getiriyoruz.</p>
+                                <p>Herkesi içgüdülerine güvenmeye ve açıkça rahatça konuşabilmeye teşvik ediyoruz. Çünkü burada hiyerarşi yok. Her ses duyulur ve en iyi fikir kazanır.</p>
                             </div>
                         </div>
                     </div>

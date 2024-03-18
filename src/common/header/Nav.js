@@ -23,7 +23,7 @@ const Nav = () => {
                     <ul className="axil-submenu">
                         <li><Link to={process.env.PUBLIC_URL + "/service-one"}>Service</Link></li>
                         <li><Link to={process.env.PUBLIC_URL + "/service-two"}>Service Two</Link></li>
-                        <li><Link to={process.env.PUBLIC_URL + "/service-details/design"}>Service Details</Link></li>
+                        <li><Link to={process.env.PUBLIC_URL + "/service-details/development"}>Service Details</Link></li>
                     </ul>
                 </li>
                 <li className="menu-item-has-children">

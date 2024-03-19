@@ -35,7 +35,7 @@ const ServicePropOne = ({colSize, serviceStyle, itemShow, marginTop}) => {
 								<Link to={process.env.PUBLIC_URL + `/service-details/${slugify(data.url)}`}>{data.title}</Link>
 							</h5>
 							<p>{data.description}</p>
-							<Link to={process.env.PUBLIC_URL + `/service-details/${slugify(data.url)}`} className="more-btn">Find out more</Link>
+							<Link to={process.env.PUBLIC_URL + `/service-details/${slugify(data.url)}`} className="more-btn">Detaylar</Link>
 						</div>
 					</div>
 			 	</div>

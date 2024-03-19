@@ -37,19 +37,19 @@ const FormOne = () => {
     return (
         <form ref={form} onSubmit={sendEmail} className="axil-contact-form">
         <div className="form-group">
-            <label>Name</label>
+            <label>Adınız</label>
             <input type="text" className="form-control" name="contact-name" placeholder="John Smith" required />
         </div>
         <div className="form-group">
-            <label>Email</label>
+            <label>Email Adresiniz</label>
             <input type="email" className="form-control" name="contact-email" placeholder="example@mail.com" required />
         </div>
         <div className="form-group mb--40">
-            <label>Phone</label>
+            <label>Almak İstediğiniz Hizmet</label>
             <input type="tel" className="form-control" name="contact-phone" placeholder="+123456789" required />
         </div>
         <div className="form-group">
-            <button type="submit" className="axil-btn btn-fill-primary btn-fluid btn-primary" name="submit-btn">Get Free Quote</button>
+            <button type="submit" className="axil-btn btn-fill-primary btn-fluid btn-primary" name="submit-btn">Teklif Al</button>
         </div>
         <div className="form-group">
             {result ? <Result /> : null}

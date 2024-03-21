@@ -53,7 +53,7 @@ const FooterOne = ({parentClass}) => {
                                             <ul className="list-unstyled">
                                                 {getServiceData.slice(0, 6).map((data, index) => (
                                                     <li key={index}>
-                                                        <Link to={process.env.PUBLIC_URL + `/service-details/${slugify(data.title)}`}>{data.title}</Link>
+                                                        <Link to={process.env.PUBLIC_URL + `/service-details/${slugify(data.url)}`}>{data.title}</Link>
                                                     </li>
                                                 ))}
                                             </ul>

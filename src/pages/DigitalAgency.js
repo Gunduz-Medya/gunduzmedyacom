@@ -46,9 +46,9 @@ const DigitalAgency = () => {
             </div>
             <AboutOne />
             <ProjectOne />
-            <CounterUpOne />
-            <TestimonialOne />
-            <div className="section bg-color-light section-padding">
+            {/* <CounterUpOne /> */}
+            {/* <TestimonialOne /> */}
+            {/* <div className="section bg-color-light section-padding">
                 <div className="container">
                     <SectionTitle 
                         subtitle="Pricing Plan"
@@ -64,7 +64,7 @@ const DigitalAgency = () => {
                     <li className="shape shape-1"><img src={process.env.PUBLIC_URL + "/images/others/line-1.png"} alt="shape" /></li>
                     <li className="shape shape-2"><img src={process.env.PUBLIC_URL + "/images/others/bubble-4.png"} alt="shape" /></li>
                 </ul>
-            </div>
+            </div> */}
             <BrandOne />
             <BlogOne />
             <CtaLayoutOne /> 

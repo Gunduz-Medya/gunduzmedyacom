@@ -64,9 +64,9 @@ const ProjectOne = ({parentClass, colSize, itemShow, columnGap}) => {
 			<div className={`section section-padding-2 ${parentClass ? parentClass : ""}`}>
                 <div className="container">
                 <SectionTitle 
-                        subtitle="Our Project"
-                        title="Some of our <br>
-                        finest work."
+                        subtitle="Projelerimiz"
+                        title="Projelerimizden <br>
+                        örnekler."
                         textAlignment="heading-left mb--40"
                         textColor=""
                     />

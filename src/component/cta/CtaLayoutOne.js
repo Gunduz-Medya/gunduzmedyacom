@@ -10,10 +10,10 @@ const CtaLayoutOne = () => {
             <div className="container">
                 <div className="call-to-action">
                     <div className="section-heading heading-light">
-                        <span className="subtitle">Let's Work Together</span>
-                        <h2 className="title">Need a successful project?</h2>
+                        <span className="subtitle">Teklif Alın</span>
+                        <h2 className="title">Bizimle çalışmak ister misiniz?</h2>
                         <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-large btn-fill-white">
-                            Estimate Project
+                            Proje Teklifi
                         </Link>
                     </div>
                     <div className="thumbnail">

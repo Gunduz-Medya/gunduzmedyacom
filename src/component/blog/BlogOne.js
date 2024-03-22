@@ -8,9 +8,9 @@ const BlogOne = () => {
         <div className="section section-padding-equal">
             <div className="container">
                 <SectionTitle 
-                    subtitle="What's Going On"
-                    title="Latest stories"
-                    description="News From Abstrak And Around The World Of Web Design And Complete Solution of Online Digital Marketing"
+                    subtitle="Neler Oluyor?"
+                    title="Faydalı İçerikler"
+                    description="Daha fazla bilgi edinmek için zengin ve faydalı içeriklerle dolu blog yazılarımıza göz atın."
                     textAlignment=""
                     textColor=""
                 />

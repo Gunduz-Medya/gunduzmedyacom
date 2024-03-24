@@ -66,13 +66,13 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/corporate-agency"} element={<CorporateAgency />}/>
 
 				{/* Blogs */}
-				<Route path={process.env.PUBLIC_URL + "/blog-grid/"} element={<BlogGridView />}/>
+				<Route path={process.env.PUBLIC_URL + "/blog/"} element={<BlogGridView />}/>
 				<Route path={process.env.PUBLIC_URL + "/category/:slug"} element={<BlogCategory />}/>
 				<Route path={process.env.PUBLIC_URL + "/archive/:slug"} element={<BlogArchive />}/>
 				<Route path={process.env.PUBLIC_URL + "/blog-details/:id"} element={<BlogDetails />}/>
 
 				{/* Service */}
-				<Route path={process.env.PUBLIC_URL + "/service-one/"} element={<ServiceOne />}/>
+				<Route path={process.env.PUBLIC_URL + "/hizmetler/"} element={<ServiceOne />}/>
 				<Route path={process.env.PUBLIC_URL + "/service-two/"} element={<ServiceTwo />}/>
 				<Route path={process.env.PUBLIC_URL + "/service-details/:slug"} element={<ServiceDetails />}/>
 
@@ -85,12 +85,12 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/project-details/:slug"} element={<ProjectDetails />}/>
 
 				{/* Pages  */}
-				<Route path={process.env.PUBLIC_URL + "/about-us"} element={<AboutUs />}/>
+				<Route path={process.env.PUBLIC_URL + "/hakkimizda"} element={<AboutUs />}/>
 				<Route path={process.env.PUBLIC_URL + "/our-office"} element={<OurOffice />}/>
 				<Route path={process.env.PUBLIC_URL + "/our-clients"} element={<OurClients />}/>
 				<Route path={process.env.PUBLIC_URL + "/team"} element={<Team />}/>
 				<Route path={process.env.PUBLIC_URL + "/team-details/:slug"} element={<TeamDetails />}/>
-				<Route path={process.env.PUBLIC_URL + "/case-study"} element={<CaseStudy />}/>
+				<Route path={process.env.PUBLIC_URL + "/projeler"} element={<CaseStudy />}/>
 				<Route path={process.env.PUBLIC_URL + "/case-details/:slug"} element={<CaseDetails />}/>
 				<Route path={process.env.PUBLIC_URL + "/testimonials"} element={<Testimonials />}/>
 				<Route path={process.env.PUBLIC_URL + "/pricing-table"} element={<PricingTable />}/>

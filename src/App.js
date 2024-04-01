@@ -74,7 +74,7 @@ const App = () => {
 				{/* Service */}
 				<Route path={process.env.PUBLIC_URL + "/hizmetler/"} element={<ServiceOne />}/>
 				<Route path={process.env.PUBLIC_URL + "/service-two/"} element={<ServiceTwo />}/>
-				<Route path={process.env.PUBLIC_URL + "/service-details/:slug"} element={<ServiceDetails />}/>
+				<Route path={process.env.PUBLIC_URL + "/hizmetler/:slug"} element={<ServiceDetails />}/>
 
 				{/* Project  */}
 				<Route path={process.env.PUBLIC_URL + "/project-grid-one"} element={<ProjectGridOne />}/>
@@ -95,7 +95,7 @@ const App = () => {
 				<Route path={process.env.PUBLIC_URL + "/testimonials"} element={<Testimonials />}/>
 				<Route path={process.env.PUBLIC_URL + "/pricing-table"} element={<PricingTable />}/>
 				<Route path={process.env.PUBLIC_URL + "/typography"} element={<Typography />}/>
-				<Route path={process.env.PUBLIC_URL + "/contact"} element={<Contact />}/>
+				<Route path={process.env.PUBLIC_URL + "/iletisim"} element={<Contact />}/>
 				<Route path={process.env.PUBLIC_URL + "/404"} element={<ErrorPage />}/>
 				<Route path={process.env.PUBLIC_URL + "/coming-soon"} element={<ComingSoon />}/>
 				<Route path={process.env.PUBLIC_URL + "/privacy-policy"} element={<PrivacyPolicy />}/>

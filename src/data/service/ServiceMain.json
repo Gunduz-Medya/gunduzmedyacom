@@ -1,9 +1,9 @@
 [
     {
-        "image": "/images/icon/icon-1.png",
-        "title": "Tasarım",
-        "url": "tasarim",
-        "description": "Yaratıcı çözümlerle tasarım hizmetimiz, işletmenizin kimliğini ve ürünlerini en etkili şekilde temsil ederek, sizi rakiplerinizden ayıran bir marka haline getiriyor.",
+        "image": "/images/icon/icon-2.png",
+        "title": "Yazılım Geliştirme",
+        "url": "yazilim-gelistirme",
+        "description": "Deneyimli ekip ve müşteri odaklı yaklaşımımızla, işletmenizin özel ihtiyaçlarına uygun hızlı, güvenilir ve ölçeklenebilir yazılım çözümleri sunuyoruz.",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
@@ -38,10 +38,10 @@
         }
     },
     {
-        "image": "/images/icon/icon-2.png",
-        "title": "Yazılım Geliştirme",
-        "url": "yazilim-gelistirme",
-        "description": "Deneyimli ekip ve müşteri odaklı yaklaşımımızla, işletmenizin özel ihtiyaçlarına uygun hızlı, güvenilir ve ölçeklenebilir yazılım çözümleri sunuyoruz.",
+        "image": "/images/icon/icon-1.png",
+        "title": "Tasarım",
+        "url": "tasarim",
+        "description": "Yaratıcı çözümlerle tasarım hizmetimiz, işletmenizin kimliğini ve ürünlerini en etkili şekilde temsil ederek, sizi rakiplerinizden ayıran bir marka haline getiriyor.",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",

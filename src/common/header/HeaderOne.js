@@ -40,9 +40,9 @@ const HeaderOne = () => {
                     <div className="container">
                         <div className="header-navbar">
                             <div className="header-logo">
-                                <Logo limage="/images/logo.svg"
-                                dimage="/images/logo-3.svg"
-                                simage="/images/logo-2.svg"
+                                <Logo limage="/images/gunduzmedya-logo.png"
+                                dimage="/images/gunduzmedya-logo-dark.png"
+                                simage="/images/gunduzmedya-logo.png"
                                 />
                             </div>
                             <div className="header-main-nav">

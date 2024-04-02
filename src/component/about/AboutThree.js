@@ -4,28 +4,28 @@ import SectionTitle from '../../elements/section-title/SectionTitle';
 const Datas = [
     {
         id: 1,
-        title: "Exceed clients’ and colleagues’ expectations",
-        para: "Ut id orci ultricies, gravida arcu ac, elementum eros. Curabitur tortor ipsum, imperdiet eget odio ac, faucibus ultricies nisl. Maecenas scelerisque dignissim elit."
+        title: "İnsan deneyimleri önceliğimizdir",
+        para: "Çarpıcı dijital ürünler oluşturmak bizim gücümüzdür. Ancak kendimizle gurur duyduğumuz şey, yetenekli ve benzer düşüncelere sahip insanları bir araya getirerek yaratıcı güçlerini serbest bırakmalarına ve açık ve güvenli bir işyerinde birleştirmelerine olanak sağlamaktır."
     },
     {
         id: 2,
-        title: "Take ownership and question the status quo in a constructive manner",
-        para: "Nulla facilisi. Vestibulum vel urna eget magna condimentum faucibus. Sed arcu mi, semper sed suscipit vel, rhoncus vel justo."
+        title: "Topluluğumuza bağlıyız",
+        para: "Ancak başkalarını kaldırarak yükselebileceğimize inanıyoruz. İşte bu nedenle topluluğumuzdaki bağları güçlendirmek için düzenli olarak etkinlikler düzenliyor, bilgi ve deneyimlerimizi paylaşarak yeniliği ateşliyoruz."
     },
     {
         id: 3,
-        title: "Be brave, curious and experiment – learn from all successes and failures",
-        para: "Quisque aliquet quis est in faucibus. Aenean eget lorem ac risus placerat convallis eget a eros. Suspendisse dignissim ultrices tellus, id placerat mauris lacinia a."
+        title: "Eğlenceyi bir öncelik haline getirin",
+        para: "Eğlence yaratıcılığı doğurur. Ve yaratıcılık dudak uçuklatan ürünleri doğurur. Bu nedenle, sıkı çalışmamızın bizi gururlandırmasını sağlamak için eğlenceyi işimizin hayati bir parçası haline getiriyoruz."
     },
     {
         id: 4,
-        title: "Act in a way that makes all of us proud",
-        para: "Proin dignissim facilisis tortor a mattis. Morbi non maximus nunc, ut mattis tellus. In hac habitasse platea dictumst. Mauris viverra enim tellus, vel ultrices dolor aliquam non."
+        title: "Birbirimize güveniyoruz",
+        para: "Güvenilir ürünler geliştirmek için açık iletişim ve verimli işbirliği temelinde ekip arkadaşlarımız ve müşterilerimizle güven oluşturmaya kendimizi adadık."
     },
     {
         id: 5,
-        title: "Build an inclusive, transparent and socially responsible culture",
-        para: "Maecenas eros sapien, egestas at elit nec, eleifend sagittis orci."
+        title: "Çeşitliliği kucakla",
+        para: "Dünyanın her yerinden gelen yetenekleri memnuniyetle karşılayan ve herkese eşit fırsatlar sunan, çeşitlilik içeren ve kapsayıcı bir kültür oluşturmaya çalışıyoruz."
     }
 ]
 
@@ -36,13 +36,13 @@ const AboutThree = () => {
     return (
         <div className="section section-padding bg-color-dark pb--80 pb_lg--40 pb_md--20">
             <div className="container">
-                <SectionTitle 
+                {/* <SectionTitle 
                     subtitle="Our Valus"
                     title="Why should you work with us?"
                     description="Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue sed eu leo eget risus imperdiet."
                     textAlignment="heading-left heading-light-left mb--100"
                     textColor=""
-                />
+                /> */}
 
                 <div className="row">
                     {Datas.map((data) => (

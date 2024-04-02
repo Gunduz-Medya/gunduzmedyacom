@@ -15,15 +15,15 @@ const AboutUs = () => {
 
     return (
         <>
-        <SEO title="About us" />
-        <ColorSwitcher />
+            <SEO title="Hakkımızda" />
+            <ColorSwitcher />
             <main className="main-wrapper">
                 <HeaderOne />
-                <BcrumbBannerOne 
-                title="One of the fastest growing agency"
-                paragraph ="We design and develop web and mobile applications for our clients worldwide."
-                styleClass="thumbnail-4"
-                mainThumb="/images/banner/banner-thumb-3.png"
+                <BcrumbBannerOne
+                    title="Eğlence yaratıcılığı teşvik eder."
+                    paragraph="Farklı geçmişlere sahip, dinamik ve hırslı bireylerden oluşan sıkı bağlı bir grup olarak, yapmamız gereken her işte en iyisi olma isteğimiz bizi bir arada tutan bağdır."
+                    styleClass="thumbnail-4"
+                    mainThumb="/images/banner/banner-thumb-3.png"
                 />
                 <AboutFour />
                 <AboutThree />

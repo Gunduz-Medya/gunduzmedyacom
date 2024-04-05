@@ -3,29 +3,43 @@
     {
         "id": 1,
         "thumb": "/images/others/process-1.png",
-        "subtitle": "Step One",
-        "title": "Discover",
-        "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        "subtitle": "Şeffaf",
+        "title": "Sürpriz yok",
+        "paragraph": "Açık iletişim ve şeffaf uygulama sayesinde size öngörülebilir bir ürün geliştirme süreci sunacağız. Projeniz beklendiği anda yayına girecek ve her zaman tahmini bütçeniz dahilinde kalacaktır."
     },
     {
         "id": 2,
         "thumb": "/images/others/process-2.png",
-        "subtitle": "Step Two",
-        "title": "Prototype",
-        "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        "subtitle": "Öngörülebilir",
+        "title": "Uygulanabilir sonuçlar",
+        "paragraph": "Görev açısından kritik içgörüleri ortaya çıkarmak ve hemen harekete geçebileceğiniz veriye dayalı sonuçlar bulmamıza yardımcı olacak doğru inovasyon fırsatlarını tespit etmek için derinlemesine bir pazar ve iş analizi gerçekleştireceğiz."
     },
     {
         "id": 3,
         "thumb": "/images/others/process-3.png",
-        "subtitle": "Step Three",
-        "title": "Test",
-        "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        "subtitle": "Güncel",
+        "title": "Startup Zihniyeti",
+        "paragraph": "Çevik metodolojilerden ve en son teknolojilerden yararlanarak, size yalnızca başlangıç hızında teslim edilen bir ürün sunmakla kalmayıp, aynı zamanda sektörünüzde esnek ve güncel kalmanızı sağlayacak bir başlangıç zihniyetini de sağlayacağız."
     },
     {
         "id": 4,
         "thumb": "/images/others/process-4.png",
-        "subtitle": "Step four",
-        "title": "Build",
-        "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        "subtitle": "Yüksek Kaliteli",
+        "title": "Küresel standartlar",
+        "paragraph": "Dijital ürününüzü tasarlarken, geliştirirken ve sonuçta bakımını yaparken, size dünya standartlarında mükemmellik standartlarını karşılayan yüksek kaliteli, bakımı yapılabilir kod ve temel UI/UX ilkelerine dayanan sürdürülebilir ürün geliştirme hizmetleri sunacağımızdan emin olacağız."
+    },
+    {
+        "id": 5,
+        "thumb": "/images/others/process-4.png",
+        "subtitle": "Bilinçli",
+        "title": "Test edilen deneyim",
+        "paragraph": "Kemerimizin altındaki 200'den fazla ürünle artık şunları yapabiliyoruz, Zorlukları ortaya çıkarmak ve üstesinden gelmek için doğru soruları sormak bilinçli kararlar vermenize yardımcı olmak için projenizin karşılaştığı durumlar."
+    },
+    {
+        "id": 6,
+        "thumb": "/images/others/process-4.png",
+        "subtitle": "İhtiyaca Göre",
+        "title": "Maksimum verimlilik",
+        "paragraph": "Doğru yaklaşım ve ihtiyaçlarınıza göre uyarlanmış özel bir iş akışıyla, aylarca süren çalışmayı yalnızca birkaç haftaya indireceğiz ve gereksiz maliyetleri azaltarak, kararlaştırılan zaman çizelgesi içinde başlamaya hazır bir ürün oluşturacağız."
     }
 ]

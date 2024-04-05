@@ -17,10 +17,10 @@ const AboutFive = () => {
                 <div className="col-lg-5">
                     <div className="about-team">
                     <div className="section-heading heading-left">
-                        <span className="subtitle">Our Team</span>
-                        <h2>Alone we can do so little; together we can do so much.</h2>  
-                        <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero.</p>
-                        <Link to="#" className="axil-btn btn-large btn-fill-primary">Our Team</Link>
+                        <span className="subtitle">Kusursuz Ürünler</span>
+                        <h2>İleri Teknoloji Çözümleriyle Desteklenen Hizmetlerimiz</h2>  
+                        <p>Yıllar geçtikçe farklı dinamiklere ve zorluklara sahip onlarca sektörde yüzlerce ürün geliştirdik. Ve muhtemelen sizinkinde de büyük başarılara imza attık!</p>
+                        <Link to={process.env.PUBLIC_URL + "/projeler"} className="axil-btn btn-large btn-fill-primary">Projelerimiz</Link>
                     </div>
                     </div>
                 </div>

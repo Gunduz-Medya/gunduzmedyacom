@@ -10,7 +10,7 @@ const BreadCrumbOne = ({title, page}) => {
                 <div className="breadcrumb">
                     <ul className="list-unstyled">
                         <li>
-                            <Link to={process.env.PUBLIC_URL + "/"}>Home</Link>
+                            <Link to={process.env.PUBLIC_URL + "/"}>Anasayfa</Link>
                         </li>
                         <li className="active" dangerouslySetInnerHTML={{__html: page}}></li>
                     </ul>

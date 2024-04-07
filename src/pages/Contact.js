@@ -13,7 +13,7 @@ import ContactLocation from '../component/contact/ContactLocation';
 const Contact = () => {
     return (
         <>
-            <SEO title="Blog Grid" />
+            <SEO title="İletişim" />
             <ColorSwitcher />
             <main className="main-wrapper">
                 <HeaderOne />
@@ -33,14 +33,14 @@ const Contact = () => {
                         </div>
                         <div className="col-xl-5 col-lg-6 offset-xl-1">
                             <div className="contact-info mb--100 mb_md--30 mt_md--0 mt--150">
-                                <h4 className="title">Phone</h4>
-                                <p>Our customer care is open from Mon-Fri, 10:00 am to 6:00 pm</p>
-                                <h4 className="phone-number"><a href="tel:1234567890">(123) 456 7890</a></h4>
+                                <h4 className="title">Telefon</h4>
+                                <p>Telefonlara mümkün olduğunca cevap vermeye çalışıyoruz :)</p>
+                                <h4 className="phone-number"><a href="tel:+905330323217">0 (533) 032 3217</a></h4>
                             </div>
                             <div className="contact-info mb--30">
-                                <h4 className="title">Email</h4>
-                                <p>Our support team will get back to in 48-h during standard business hours.</p>
-                                <h4 className="phone-number"><a href="mailto:info@example.com">info@example.com</a></h4>
+                                <h4 className="title">Eposta</h4>
+                                <p>Her konuda bize yazabilirsiniz. Epostalarınıza maksimum 24 saat içerisinde dönüş yapıyoruz.</p>
+                                <h4 className="phone-number"><a href="mailto:baris@gunduzmedya.com">baris@gunduzmedya.com</a></h4>
                             </div>
                         </div>
                     </div>
@@ -55,8 +55,8 @@ const Contact = () => {
             <div className="section section-padding bg-color-dark overflow-hidden">
                 <div className="container">
                     <SectionTitle 
-                        subtitle="Find Us"
-                        title="Our office"
+                        subtitle="Gündüz Medya"
+                        title="Ofislerimiz"
                         description=""
                         textAlignment="heading-light-left"
                         textColor=""

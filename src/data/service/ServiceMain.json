@@ -4,6 +4,7 @@
         "title": "Yazılım Geliştirme",
         "url": "yazilim-gelistirme",
         "description": "Deneyimli ekip ve müşteri odaklı yaklaşımımızla, işletmenizin özel ihtiyaçlarına uygun hızlı, güvenilir ve ölçeklenebilir yazılım çözümleri sunuyoruz.",
+        "cate" : "Development",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
@@ -42,6 +43,7 @@
         "title": "Tasarım",
         "url": "tasarim",
         "description": "Yaratıcı çözümlerle tasarım hizmetimiz, işletmenizin kimliğini ve ürünlerini en etkili şekilde temsil ederek, sizi rakiplerinizden ayıran bir marka haline getiriyor.",
+        "cate": "Design",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
@@ -79,6 +81,7 @@
         "image": "/images/icon/icon-3.png",
         "title": "Dijital Reklamlar",
         "url": "dijital-reklamlar",
+        "cate":"Marketing",
         "description": "Markanızı hedef kitlenize ulaştırmak için özelleştirilmiş dijital reklam stratejileriyle, etkileyici sonuçlar elde etmenizi sağlıyoruz.",
         "process": {
             "sectionSub": "Process",
@@ -118,6 +121,7 @@
         "title": "İş Geliştirme",
         "url": "is-gelistirme",
         "description": "İşletmenizin büyümesini desteklemek için stratejik danışmanlık ve yenilikçi çözümlerle iş geliştirme sürecinizi optimize ediyoruz.",
+        "cate": "Business",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
@@ -156,6 +160,7 @@
         "title": "Teknoloji",
         "url": "teknoloji",
         "description": "En son teknolojileri kullanarak işletmenizin dijital dönüşümünü sağlayarak, verimliliği arttırmanıza ve rekabet avantajı elde etmenize yardımcı oluyoruz.",
+        "cate": "Business",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
@@ -194,6 +199,7 @@
         "title": "İçerik Üretimi",
         "url": "icerik-uretimi",
         "description": "Yaratıcı yaklaşımlarla özgün içerikler üreterek, markanızın hikayesini en etkili şekilde anlatmanıza ve hedef kitlenizi etkilemenize yardımcı oluyoruz.",
+        "cate": "Content",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
@@ -389,7 +395,7 @@
         "title": "Video Üretimi",
         "url": "video-uretimi",
         "description": "Kreatif yaklaşımlarla hazırlanan özgün videolarla, markanızı etkili bir şekilde tanıtarak izleyicilerinizi etkilemenize yardımcı oluyoruz.",
-        "cate": "Design",
+        "cate": "Content",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
@@ -429,7 +435,7 @@
         "title": "İçerik Kontrolü",
         "url": "icerik-kontrolu",
         "description": "Kapsamlı ve titiz içerik kontrolü ile markanızın güvenilirliğini artırarak, kaliteli içeriklerinizi hedef kitlenize güvenle sunmanıza yardımcı oluyoruz.",
-        "cate": "Development",
+        "cate": "Content",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
@@ -546,7 +552,7 @@
         "title": "SEO",
         "url": "seo",
         "description": "Stratejik anahtar kelime optimizasyonu ve organik arama motoru sıralamalarını iyileştirme yöntemleriyle, işletmenizin çevrimiçi görünürlüğünü artırarak hedef kitlenize daha etkili bir şekilde ulaşmanızı sağlıyoruz.",
-        "cate": "Online Marketing",
+        "cate": "Marketing",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
@@ -585,7 +591,7 @@
         "title": "Email Pazarlama",
         "url": "email-pazarlama",
         "description": "Hedef kitlenize özelleştirilmiş içeriklerle doğrudan ulaşarak etkili pazarlama kampanyaları yürütmenize olanak sağlıyoruz.",
-        "cate": "Online Marketing",
+        "cate": "Marketing",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
@@ -624,7 +630,7 @@
         "title": "Dış Mekan Pazarlama",
         "url": "dis-mekan-pazarlama",
         "description": "Açık hava reklamcılığı ve etkinlik yönetimi ile markanızı geniş kitlelere tanıtarak görsel etkiyi maksimize ediyoruz.",
-        "cate": "Online Marketing",
+        "cate": "Marketing",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
@@ -663,7 +669,7 @@
         "title": "Sosyal Medya Yönetimi",
         "url": "sosyal-medya-yonetimi",
         "description": "Sosyal medya platformlarında etkileşimi artırarak, markanızın görünürlüğünü ve müşteri bağlılığını artırmak için stratejik içerikler ve yönetim sağlıyoruz.",
-        "cate": "Online Marketing",
+        "cate": "Marketing",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
@@ -702,7 +708,7 @@
         "title": "Dijital Medya Stratejileri",
         "url": "dijital-medya-stratejileri",
         "description": "Müşteri odaklı dijital medya stratejileri ile markanızın çevrimiçi varlığını güçlendirerek, hedef kitlenizle daha derin ve etkili bağlantılar kurmanıza olanak sağlıyoruz.",
-        "cate": "Business",
+        "cate": "Marketing",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
@@ -819,7 +825,7 @@
         "title": "Hosting",
         "url": "hosting",
         "description": "Müşteri ihtiyaçlarına özel olarak belirlenen en uygun hosting çözümleriyle, web sitenizin performansını ve güvenliğini en üst düzeye çıkarmanıza yardımcı oluyoruz.",
-        "cate": "Technology",
+        "cate": "Business",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
@@ -858,7 +864,7 @@
         "title": "Veri Analizi",
         "url": "veri-analizi",
         "description": "Kapsamlı veri analizi ve anlamlı içgörülerle, işletmenizin stratejik kararlarını veriye dayalı olarak yönlendirmenize yardımcı oluyoruz.",
-        "cate": "Technology",
+        "cate": "Business",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",

@@ -17,154 +17,154 @@ const ServiceOne = () => {
 
     const designData = allData.filter(data => slugify(data.cate ? data.cate : "") === "design");
     const developmentData = allData.filter(data => slugify(data.cate ? data.cate : "") === "development");
-    const marketingData = allData.filter(data => slugify(data.cate ? data.cate : "") === "online-marketing");
+    const marketingData = allData.filter(data => slugify(data.cate ? data.cate : "") === "marketing");
     const businessData = allData.filter(data => slugify(data.cate ? data.cate : "") === "business");
-    const technologyData = allData.filter(data => slugify(data.cate ? data.cate : "") === "technology");
-    const strategyData = allData.filter(data => slugify(data.cate ? data.cate : "") === "content-strategy");
+    /* const technologyData = allData.filter(data => slugify(data.cate ? data.cate : "") === "technology"); */
+    const strategyData = allData.filter(data => slugify(data.cate ? data.cate : "") === "content");
 
 
 
     return (
         <>
-        <SEO title="Service One" />
-        <ColorSwitcher />
-        <main className="main-wrapper">
-            <HeaderOne />
-            <BcrumbBannerOne 
-                title="Best solutions for your business"
-                paragraph ="Give your business a unique logo to stand out from crowd. We’ll create logo specifically for your company.
-                "
-                styleClass=""
-                mainThumb="/images/banner/banner-thumb-4.png"
-            />
-            <div className="service-scroll-navigation-area">
+            <SEO title="Service One" />
+            <ColorSwitcher />
+            <main className="main-wrapper">
+                <HeaderOne />
+                <BcrumbBannerOne
+                    title="Global ürünler tasarlıyor ve geliştiriyoruz"
+                    paragraph="Yüzlerce ürün ve 10 yıllık tecrübeyle, tam döngülü yazılım geliştirme hizmetleri sunuyoruz."
+                    styleClass=""
+                    mainThumb="/images/banner/banner-thumb-4.png"
+                />
+                <div className="service-scroll-navigation-area">
 
-                {/* Service Nav */}
-                
-                <nav id="onepagenav" className="service-scroll-nav navbar onepagefixed">
-                    <div className="container">
-                        <ul className="nav nav-pills">
-                        <li className="nav-item">
-                            <a className="nav-link" href="#section1">Design</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="#section2">Development</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="#section3">Online Marketing</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="#section4">Business</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="#section5">Technology</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="#section6">Content Strategy</a>
-                        </li>
-                        </ul>
+                    {/* Service Nav */}
+
+                    <nav id="onepagenav" className="service-scroll-nav navbar onepagefixed">
+                        <div className="container">
+                            <ul className="nav nav-pills">
+                                <li className="nav-item">
+                                    <a className="nav-link" href="#section2">Yazılım Geliştirme</a>
+                                </li>
+                                <li className="nav-item">
+                                    <a className="nav-link" href="#section1">Tasarım Hizmetleri</a>
+                                </li>
+                                <li className="nav-item">
+                                    <a className="nav-link" href="#section3">Reklam ve Pazarlama</a>
+                                </li>
+                                <li className="nav-item">
+                                    <a className="nav-link" href="#section4">İş Geliştirme ve Danışmanlık</a>
+                                </li>
+                                {/* <li className="nav-item">
+                                    <a className="nav-link" href="#section5">Technology</a>
+                                </li> */}
+                                <li className="nav-item">
+                                    <a className="nav-link" href="#section6">İçerik Üretimi</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+
+                    <div className="section section-padding bg-color-light" id="section2">
+                        <div className="container">
+                            <SectionTitle
+                                subtitle="Hizmetlerimiz"
+                                title="Yazılım Geliştirme"
+                                description=""
+                                textAlignment="heading-left"
+                                textColor=""
+
+                            />
+                            <div className="row">
+                                <ServiceProp colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" serviceData={developmentData} />
+                            </div>
+                        </div>
                     </div>
-                </nav>
 
-                <div className="section section-padding" id="section1">
-                    <div className="container">
-                        <SectionTitle 
-                            subtitle="Service"
-                            title="Design"
-                            description=""
-                            textAlignment="heading-left"
-                            textColor=""
-                        
-                        />
-                        <div className="row">
-                            <ServiceProp colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" serviceData={designData}/>
+                    <div className="section section-padding" id="section1">
+                        <div className="container">
+                            <SectionTitle
+                                subtitle="Hizmetlerimiz"
+                                title="Tasarım Hizmetleri"
+                                description=""
+                                textAlignment="heading-left"
+                                textColor=""
+
+                            />
+                            <div className="row">
+                                <ServiceProp colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" serviceData={designData} />
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div className="section section-padding bg-color-light" id="section3">
+                        <div className="container">
+                            <SectionTitle
+                                subtitle="Hizmetlerimiz"
+                                title="Reklam ve Pazarlama"
+                                description=""
+                                textAlignment="heading-left"
+                                textColor=""
+
+                            />
+                            <div className="row">
+                                <ServiceProp colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" serviceData={marketingData} />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="section section-padding" id="section4">
+                        <div className="container">
+                            <SectionTitle
+                                subtitle="Hizmetlerimiz"
+                                title="İş Geliştirme ve Danışmanlık"
+                                description=""
+                                textAlignment="heading-left"
+                                textColor=""
+
+                            />
+                            <div className="row">
+                                <ServiceProp colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" serviceData={businessData} />
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* <div className="section section-padding" id="section5">
+                        <div className="container">
+                            <SectionTitle
+                                subtitle="Service"
+                                title="Technology"
+                                description=""
+                                textAlignment="heading-left"
+                                textColor=""
+
+                            />
+                            <div className="row">
+                                <ServiceProp colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" serviceData={technologyData} />
+                            </div>
+                        </div>
+                    </div> */}
+
+                    <div className="section section-padding bg-color-light" id="section6">
+                        <div className="container">
+                            <SectionTitle
+                                subtitle="Hizmetlerimiz"
+                                title="İçerik Üretimi"
+                                description=""
+                                textAlignment="heading-left"
+                                textColor=""
+
+                            />
+                            <div className="row">
+                                <ServiceProp colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" serviceData={strategyData} />
+                            </div>
                         </div>
                     </div>
                 </div>
-
-                <div className="section section-padding bg-color-light" id="section2">
-                    <div className="container">
-                        <SectionTitle 
-                            subtitle="Service"
-                            title="Development"
-                            description=""
-                            textAlignment="heading-left"
-                            textColor=""
-                        
-                        />
-                        <div className="row">
-                            <ServiceProp colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" serviceData={developmentData}/>
-                        </div>
-                    </div>
-                </div>
-
-                <div className="section section-padding" id="section3">
-                    <div className="container">
-                        <SectionTitle 
-                            subtitle="Service"
-                            title="Online Marketing"
-                            description=""
-                            textAlignment="heading-left"
-                            textColor=""
-                        
-                        />
-                        <div className="row">
-                            <ServiceProp colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" serviceData={marketingData}/>
-                        </div>
-                    </div>
-                </div>
-
-                <div className="section section-padding bg-color-light" id="section4">
-                    <div className="container">
-                        <SectionTitle 
-                            subtitle="Service"
-                            title="Business"
-                            description=""
-                            textAlignment="heading-left"
-                            textColor=""
-                        
-                        />
-                        <div className="row">
-                            <ServiceProp colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" serviceData={businessData}/>
-                        </div>
-                    </div>
-                </div>
-
-                <div className="section section-padding" id="section5">
-                    <div className="container">
-                        <SectionTitle 
-                            subtitle="Service"
-                            title="Technology"
-                            description=""
-                            textAlignment="heading-left"
-                            textColor=""
-                        
-                        />
-                        <div className="row">
-                            <ServiceProp colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" serviceData={technologyData}/>
-                        </div>
-                    </div>
-                </div>
-
-                <div className="section section-padding bg-color-light" id="section6">
-                    <div className="container">
-                        <SectionTitle 
-                            subtitle="Service"
-                            title="Content strategy"
-                            description=""
-                            textAlignment="heading-left"
-                            textColor=""
-                        
-                        />
-                        <div className="row">
-                            <ServiceProp colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" serviceData={strategyData}/>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <CtaLayoutOne />
-            <FooterOne parentClass="" />
-        </main>
+                <CtaLayoutOne />
+                <FooterOne parentClass="" />
+            </main>
         </>
     )
 }

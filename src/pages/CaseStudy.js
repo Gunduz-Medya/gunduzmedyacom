@@ -17,8 +17,8 @@ const CaseStudy = () => {
             <main className="main-wrapper">
                 <HeaderOne />
                 <BcrumbBannerOne 
-                title="Case Study"
-                paragraph ="We design and develop web and mobile applications for our clients worldwide."
+                title="Projelerimiz"
+                paragraph ="İnternette olmaktan keyif aldığımız her an, üretmekten keyif aldığımız projeler geliştiriyoruz."
                 styleClass="thumbnail-3"
                 mainThumb="/images/banner/banner-thumb-5.png"
                 />

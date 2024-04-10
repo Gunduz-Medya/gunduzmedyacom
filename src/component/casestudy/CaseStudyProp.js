@@ -26,7 +26,7 @@ const CaseStudyProp = () => {
                     <span className="subtitle">{data.subtitle}</span>
                     <h2 className="title">{data.title}</h2>
                     <p>{data.excerpt}</p>
-                    <Link to={process.env.PUBLIC_URL + `/case-details/${slugify(data.title)}`} className="axil-btn btn-fill-primary btn-large">Read Case Study</Link>
+                    <Link to={process.env.PUBLIC_URL + `/case-details/${slugify(data.title)}`} className="axil-btn btn-fill-primary btn-large">Detaylar</Link>
                 </div>
                 <div className="case-study-counterup">
                     <div className="single-counterup">
@@ -78,7 +78,7 @@ const CaseStudyProp = () => {
                     <span className="subtitle">{data.subtitle}</span>
                     <h2 className="title">{data.title}</h2>
                     <p>{data.excerpt}</p>
-                    <Link to={process.env.PUBLIC_URL + `/case-details/${slugify(data.title)}`} className="axil-btn btn-fill-primary btn-large">Read Case Study</Link>
+                    <Link to={process.env.PUBLIC_URL + `/case-details/${slugify(data.title)}`} className="axil-btn btn-fill-primary btn-large">Detaylar</Link>
                 </div>
                 <div className="case-study-counterup">
                     <div className="single-counterup">

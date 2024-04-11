@@ -53,7 +53,7 @@ const CaseStudyProp = () => {
                             </TrackVisibility>
                             <span className="symbol">+</span>
                         </div>
-                        <span className="counter-title">Monthly website visits</span>
+                        <span className="counter-title">Aylık Ziyaret</span>
                     </div>
                 </div>
                 </div>

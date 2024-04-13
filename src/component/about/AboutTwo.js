@@ -12,7 +12,7 @@ const AboutTwo = () => {
                     <div className="col-lg-6">
                         <div className="why-choose-us">
                             <div className="section-heading heading-left">
-                                <span className="subtitle">About Us</span>
+                                <span className="subtitle">Gündüz Medya</span>
                                 <h3 className="title">Why branding matters?</h3>
                                 <p>Ut condimentum enim nec diam convallis mollis. Sed felis quam, semper dapibus purus sed, rhoncus ullamcorper lacus.</p>
                             </div>

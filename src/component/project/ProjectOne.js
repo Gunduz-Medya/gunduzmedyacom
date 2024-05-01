@@ -7,15 +7,15 @@ import ProjectData from "../../data/project/ProjectData.json";
 const filters = [
 	{
 		id: 1,
-		label: "All Works",
+		label: "Tümü",
     },
     {
 		id: 2,
-		label: "Branding",
+		label: "Web Tasarım",
     },
     {
 		id: 3,
-		label: "Mobile",
+		label: "Mobil Uygulama",
     }
 ];
 
@@ -26,7 +26,7 @@ const AllData = ProjectData;
 const ProjectOne = ({parentClass, colSize, itemShow, columnGap}) => {
 
 	const [getAllItems] = useState(AllData);
-	const [visiableProject] = useState(itemShow ? itemShow : 6);
+	const [visiableProject] = useState(itemShow ? itemShow : 4);
     const [activeFilter, setActiveFilter] = useState("");
 	const [visibleItems, setVisibleItems] = useState([]);
 	

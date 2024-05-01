@@ -22,8 +22,6 @@ const AboutUs = () => {
                 <BcrumbBannerOne
                     title="Eğlence yaratıcılığı teşvik eder."
                     paragraph="Farklı geçmişlere sahip, dinamik ve hırslı bireylerden oluşan sıkı bağlı bir grup olarak, yapmamız gereken her işte en iyisi olma isteğimiz bizi bir arada tutan bağdır."
-                    styleClass="thumbnail-4"
-                    mainThumb="/images/banner/banner-thumb-3.png"
                 />
                 <AboutFour />
                 <AboutThree />

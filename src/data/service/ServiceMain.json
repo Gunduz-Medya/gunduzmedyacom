@@ -6,34 +6,34 @@
         "description": "Deneyimli ekip ve müşteri odaklı yaklaşımımızla, işletmenizin özel ihtiyaçlarına uygun hızlı, güvenilir ve ölçeklenebilir yazılım çözümleri sunuyoruz.",
         "cate" : "Development",
         "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Yazılım Geliştirme Süreçlerimiz",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "Yazılım Geliştirme",
+            "para":"Yazılım geliştirme süreçleri, sağlam ve güvenilir ürünlerin oluşturulmasını sağlayarak, projelerin başarılı bir şekilde yönetilmesini ve müşteri memnuniyetinin artırılmasını sağlar.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "subtitle": "Adım Bir",
+                    "title": "Keşfetme",
+                    "paragraph": "Yazılım geliştirme sürecinin ilk adımı, müşteri gereksinimlerini anlamak ve belirlemektir. Bu aşamada, yazılım ekibi müşterilerle etkileşime girer, gereksinimleri analiz eder ve proje hedeflerini netleştirir. Ayrıca, mevcut sistemlerin ve kaynakların incelenmesi, teknik ve finansal olarak uygun bir çözümün belirlenmesi de bu aşamanın bir parçasıdır."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "subtitle": "Adım İki",
+                    "title": "Tasarım",
+                    "paragraph": "Keşfetme aşamasında belirlenen gereksinimler ve hedefler doğrultusunda, yazılımın tasarımı yapılır. Bu aşamada, sistem mimarisi, veri modelleme, kullanıcı arayüzü tasarımı gibi konular ele alınır. Tasarım aşaması, yazılımın genel yapısını belirleyerek, geliştirme sürecinin temelini oluşturur."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "subtitle": "Adım Üç",
+                    "title": "Geliştirme",
+                    "paragraph": "Tasarım aşamasında oluşturulan plan ve belgeler doğrultusunda, yazılım kodlaması gerçekleştirilir. Yazılım geliştiriciler, belirlenen gereksinimlere uygun olarak kod yazarak, sistemdeki fonksiyonları ve özellikleri oluştururlar. Bu aşamada, yazılım geliştirme sürecinin en uzun ve detaylı kısmıdır."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "subtitle": "Adım Dört",
+                    "title": "Test",
+                    "paragraph": "Yazılım geliştirme sürecinin son aşaması, yazılımın doğruluğunu ve işlevselliğini değerlendirmek amacıyla test edilmesidir. Bu aşamada, yazılımın farklı test teknikleri kullanılarak, hata ayıklama ve performans değerlendirme işlemleri gerçekleştirilir. Test aşaması, yazılımın kalitesini artırmak ve kullanıma hazır hale getirmek için önemlidir."
                 }
             ]
         }

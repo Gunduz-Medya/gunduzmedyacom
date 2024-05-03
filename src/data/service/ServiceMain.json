@@ -4,11 +4,11 @@
         "title": "Yazılım Geliştirme",
         "url": "yazilim-gelistirme",
         "description": "Deneyimli ekip ve müşteri odaklı yaklaşımımızla, işletmenizin özel ihtiyaçlarına uygun hızlı, güvenilir ve ölçeklenebilir yazılım çözümleri sunuyoruz.",
-        "cate" : "Development",
+        "cate": "Development",
         "process": {
             "sectionSub": "Süreçlerimiz",
             "sectionTitle": "Yazılım Geliştirme",
-            "para":"Yazılım geliştirme süreçleri, sağlam ve güvenilir ürünlerin oluşturulmasını sağlayarak, projelerin başarılı bir şekilde yönetilmesini ve müşteri memnuniyetinin artırılmasını sağlar.",
+            "para": "Yazılım geliştirme süreçleri, sağlam ve güvenilir ürünlerin oluşturulmasını sağlayarak, projelerin başarılı bir şekilde yönetilmesini ve müşteri memnuniyetinin artırılmasını sağlar.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
@@ -47,7 +47,7 @@
         "process": {
             "sectionSub": "Süreçlerimiz",
             "sectionTitle": "Mobil Uygulama Geliştirme",
-            "para":"Mobil uygulama geliştirme süreçleri, kullanıcı ihtiyaçlarını anlamak, etkili bir tasarım oluşturmak, güvenilir bir şekilde kodlamak ve kaliteli bir test süreciyle uygulamanın başarılı ve kullanıcı dostu bir şekilde hayata geçirilmesini sağlar.",
+            "para": "Mobil uygulama geliştirme süreçleri, kullanıcı ihtiyaçlarını anlamak, etkili bir tasarım oluşturmak, güvenilir bir şekilde kodlamak ve kaliteli bir test süreciyle uygulamanın başarılı ve kullanıcı dostu bir şekilde hayata geçirilmesini sağlar.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
@@ -78,6 +78,45 @@
         }
     },
     {
+        "image": "/images/icon/icon-33.png",
+        "title": "E-Ticaret",
+        "url": "e-ticaret",
+        "description": "Müşteri odaklı e-ticaret çözümleriyle, işletmenizin çevrimiçi satışlarını artırarak dijital ticarette başarılı olmanızı sağlıyoruz.",
+        "cate": "Development",
+        "process": {
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "E-Ticaret",
+            "para": "E-ticaret süreçleri, işletmelerin çevrimiçi varlığını oluşturarak daha geniş bir müşteri kitlesine ulaşmasını, satışları artırmasını ve rekabet avantajı elde etmesini sağlar.",
+            "steps": [
+                {
+                    "thumb": "/images/others/process-1.png",
+                    "subtitle": "Adım Bir",
+                    "title": "Analiz",
+                    "paragraph": "E-ticaret sürecinin başlangıcı, işletmenin hedeflerini, pazarını ve müşteri ihtiyaçlarını anlamayı içerir. Bu aşamada, pazar araştırması yapılır, müşteri segmentleri belirlenir ve rekabet analizi gerçekleştirilir. Ayrıca, işletmenin mevcut süreçleri incelenir ve çevrimiçi satış stratejisi oluşturulur."
+                },
+                {
+                    "thumb": "/images/others/process-2.png",
+                    "subtitle": "Adım İki",
+                    "title": "Tasarım",
+                    "paragraph": "Analiz aşamasında belirlenen bilgilere dayanarak, e-ticaret platformunun kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) tasarlanır. Bu aşamada, alışveriş sepeti, ödeme işlemleri ve hesap yönetimi gibi anahtar özelliklerin yanı sıra site navigasyonu ve görsel tasarım da planlanır. Ayrıca, mobil uyumluluk ve SEO (arama motoru optimizasyonu) gibi faktörler de dikkate alınır."
+                },
+                {
+                    "thumb": "/images/others/process-3.png",
+                    "subtitle": "Adım Üç",
+                    "title": "Geliştirme",
+                    "paragraph": "Tasarım aşamasında oluşturulan planlar doğrultusunda, e-ticaret platformu kodlanır ve geliştirilir. Bu aşamada, çevrimiçi alışveriş için gerekli olan işlevlerin yazılımı gerçekleştirilir. Sepet yönetimi, ödeme geçidi entegrasyonu, ürün yönetimi ve stok takibi gibi özelliklerin yanı sıra kullanıcı hesapları ve yönetim paneli gibi arka uç özellikleri de geliştirilir."
+                },
+                {
+                    "id": 4,
+                    "thumb": "/images/others/process-4.png",
+                    "subtitle": "Adım Dört",
+                    "title": "Test",
+                    "paragraph": "E-ticaret platformunun doğruluğunu, güvenilirliğini ve kullanılabilirliğini değerlendirmek amacıyla test edilir. Bu aşamada, farklı tarayıcılarda ve cihazlarda platformun performansı test edilir, ödeme işlemleri denenir ve kullanıcı geri bildirimleri dikkate alınır. Test aşaması, e-ticaret platformunun hatasız ve kullanıcı dostu bir şekilde çalışmasını sağlamak için önemlidir."
+                }
+            ]
+        }
+    },
+    {
         "image": "/images/icon/icon-1.png",
         "title": "Tasarım",
         "url": "tasarim",
@@ -86,7 +125,7 @@
         "process": {
             "sectionSub": "Süreçlerimiz",
             "sectionTitle": "Mobil Uygulama Geliştirme",
-            "para":"Mobil uygulama geliştirme süreçleri, kullanıcı ihtiyaçlarını anlamak, etkili bir tasarım oluşturmak, güvenilir bir şekilde kodlamak ve kaliteli bir test süreciyle uygulamanın başarılı ve kullanıcı dostu bir şekilde hayata geçirilmesini sağlar.",
+            "para": "Mobil uygulama geliştirme süreçleri, kullanıcı ihtiyaçlarını anlamak, etkili bir tasarım oluşturmak, güvenilir bir şekilde kodlamak ve kaliteli bir test süreciyle uygulamanın başarılı ve kullanıcı dostu bir şekilde hayata geçirilmesini sağlar.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
@@ -120,35 +159,35 @@
         "image": "/images/icon/icon-3.png",
         "title": "Dijital Reklamlar",
         "url": "dijital-reklamlar",
-        "cate":"Marketing",
+        "cate": "Marketing",
         "description": "Markanızı hedef kitlenize ulaştırmak için özelleştirilmiş dijital reklam stratejileriyle, etkileyici sonuçlar elde etmenizi sağlıyoruz.",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -164,30 +203,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -203,30 +242,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -242,37 +281,36 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
             ]
         }
     },
-
     {
         "image": "/images/icon/icon-29.png",
         "title": "Marka Tasarımı",
@@ -282,30 +320,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Logo & Branding design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -321,30 +359,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -360,30 +398,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -399,30 +437,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -438,37 +476,36 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
             ]
         }
     },
-
     {
         "image": "/images/icon/icon-31.png",
         "title": "İçerik Kontrolü",
@@ -478,70 +515,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                }
-            ]
-        }
-    },
-    
-    {
-        "image": "/images/icon/icon-33.png",
-        "title": "E-Ticaret",
-        "url": "e-ticaret",
-        "description": "Müşteri odaklı e-ticaret çözümleriyle, işletmenizin çevrimiçi satışlarını artırarak dijital ticarette başarılı olmanızı sağlıyoruz.",
-        "cate": "Development",
-        "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
-            "steps": [
-                {
-                    "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "id": 4,
-                    "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -557,30 +554,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -596,30 +593,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -635,30 +632,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -674,30 +671,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -713,30 +710,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -752,30 +749,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -791,30 +788,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -830,30 +827,30 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
@@ -869,35 +866,34 @@
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",
-            "para":"Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
-                    "subtitle": "Step One",
+                    "subtitle": "Adım Bir",
                     "title": "Discover",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
-                    "subtitle": "Step Two",
+                    "subtitle": "Adım İki",
                     "title": "Prototype",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
-                    "subtitle": "Step Three",
+                    "subtitle": "Adım Üç",
                     "title": "Test",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
-                    "subtitle": "Step four",
+                    "subtitle": "Adım Dört",
                     "title": "Build",
                     "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
                 }
             ]
         }
     }
-    
 ]

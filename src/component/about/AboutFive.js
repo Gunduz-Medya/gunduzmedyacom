@@ -18,7 +18,7 @@ const AboutFive = () => {
                     <div className="about-team">
                     <div className="section-heading heading-left">
                         <span className="subtitle">Kusursuz Ürünler</span>
-                        <h2>İleri Teknoloji Çözümleriyle Desteklenen Hizmetlerimiz</h2>  
+                        <h2>İleri Teknoloji Çözümleriyle Desteklenen Projelerimiz</h2>  
                         <p>Yıllar geçtikçe farklı dinamiklere ve zorluklara sahip onlarca sektörde yüzlerce ürün geliştirdik. Ve muhtemelen sizinkinde de büyük başarılara imza attık!</p>
                         <Link to={process.env.PUBLIC_URL + "/projeler"} className="axil-btn btn-large btn-fill-primary">Projelerimiz</Link>
                     </div>

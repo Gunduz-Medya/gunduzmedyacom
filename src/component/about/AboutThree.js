@@ -36,13 +36,13 @@ const AboutThree = () => {
     return (
         <div className="section section-padding bg-color-dark pb--80 pb_lg--40 pb_md--20">
             <div className="container">
-                {/* <SectionTitle 
-                    subtitle="Our Valus"
-                    title="Why should you work with us?"
-                    description="Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue sed eu leo eget risus imperdiet."
+                <SectionTitle 
+                    subtitle="Vizyonumuz"
+                    title="Vizyon Başlığı"
+                    description=""
                     textAlignment="heading-left heading-light-left mb--100"
                     textColor=""
-                /> */}
+                />
 
                 <div className="row">
                     {Datas.map((data) => (

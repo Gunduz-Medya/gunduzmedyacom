@@ -17,7 +17,7 @@ const AboutFour = () => {
                     <div className="col-xl-5 col-lg-6">
                         <div className="case-study-featured">
                             <div className="section-heading heading-left">
-                                <span className="subtitle">Hakkımızda</span>
+                                <span className="subtitle">Misyonumuz</span>
                                 <h2 className="title">Dünya standartlarında ürün geliştirme</h2>
                                 <p>Firmamız, teknolojik ürün geliştirme konusunda uzmanlaşmış olup, müşteri odaklı çözümler sunar. En son teknolojileri kullanarak yenilikçi ürünler geliştirmeyi hedefler ve müşteri memnuniyetini ön planda tutarız.</p>
                                 <p>Profesyonel ekibimizle, müşterilerimizin başarılarına katkıda bulunmayı amaçlarız.</p>

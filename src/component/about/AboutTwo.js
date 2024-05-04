@@ -30,7 +30,7 @@ const AboutTwo = () => {
                                     </Accordion.Body>
                                 </Accordion.Item>
                                 <Accordion.Item eventKey="3">
-                                    <Accordion.Header><FaCode /> Gelişim</Accordion.Header>
+                                    <Accordion.Header><FaCode /> Geliştirme</Accordion.Header>
                                     <Accordion.Body>
                                     Markalaşma, markanızı zaman içinde geliştirmeyi ve evrimleştirmeyi içeren sürekli bir süreçtir. Müşteri ilişkileri kurma, sadakati destekleme ve pazar ve tüketici tercihlerindeki değişikliklere uyum sağlama işine dahildir. Etkili gelişim, markanızın hedef kitlenizle ilgili ve etkileyici olmasını sağlar.
                                     </Accordion.Body>

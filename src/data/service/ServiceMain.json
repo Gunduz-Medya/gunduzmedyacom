@@ -117,40 +117,40 @@
         }
     },
     {
-        "image": "/images/icon/icon-1.png",
-        "title": "Tasarım",
-        "url": "tasarim",
-        "description": "Yaratıcı çözümlerle tasarım hizmetimiz, işletmenizin kimliğini ve ürünlerini en etkili şekilde temsil ederek, sizi rakiplerinizden ayıran bir marka haline getiriyor.",
+        "image": "/images/icon/icon-29.png",
+        "title": "Marka Tasarımı",
+        "url": "marka-tasarimi",
+        "description": "Müşteri odaklı tasarım yaklaşımımızla, markanızın kişiliğini yansıtan etkileyici görsel kimlikler oluşturarak, iz bırakmanızı sağlıyoruz",
         "cate": "Design",
         "process": {
             "sectionSub": "Süreçlerimiz",
-            "sectionTitle": "Mobil Uygulama Geliştirme",
-            "para": "Mobil uygulama geliştirme süreçleri, kullanıcı ihtiyaçlarını anlamak, etkili bir tasarım oluşturmak, güvenilir bir şekilde kodlamak ve kaliteli bir test süreciyle uygulamanın başarılı ve kullanıcı dostu bir şekilde hayata geçirilmesini sağlar.",
+            "sectionTitle": "Marka Tasarımı",
+            "para": "Marka tasarımı süreçleri, işletmelerin görsel olarak etkileyici ve anlamlı bir kimlik oluşturarak hedef kitlelerine çekici bir şekilde sunulmasını sağlar.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
                     "subtitle": "Adım Bir",
-                    "title": "Analiz",
-                    "paragraph": "Mobil uygulama geliştirme sürecinin ilk adımı, uygulamanın hedefini ve gereksinimlerini belirlemektir. Bu aşamada, müşteri ihtiyaçları analiz edilir, pazar araştırması yapılır ve rekabet analizi gerçekleştirilir. Uygulamanın kullanıcı tabanı, işlevselliği ve benzersiz satış noktaları bu aşamada belirlenir."
+                    "title": "Sektör Analizi",
+                    "paragraph": "Marka tasarımı sürecinin ilk adımı, işletmenin faaliyet gösterdiği sektörü ve hedef kitlesini anlamaktır. Bu aşamada, pazar araştırması yapılır, rekabet analizi gerçekleştirilir ve sektördeki eğilimler ve müşteri davranışları incelenir. Bu analiz, markanın rakiplerinden farklılaşmasını ve hedef kitleye daha etkili bir şekilde ulaşmasını sağlar."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
                     "subtitle": "Adım İki",
-                    "title": "Tasarım",
-                    "paragraph": "Keşfetme aşamasında belirlenen gereksinimler ve hedefler doğrultusunda, mobil uygulamanın kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) tasarlanır. Bu aşamada, wireframe'ler, mockup'lar ve prototipler oluşturularak uygulamanın görsel ve işlevsel yapısı planlanır."
+                    "title": "Trendler",
+                    "paragraph": "Sektör analizi sonrasında, güncel trendler ve pazar eğilimleri belirlenir. Bu aşamada, renkler, fontlar, grafikler ve diğer görsel öğeler gibi marka tasarımında kullanılacak unsurların sektördeki popülerlikleri ve müşteri beklentileri göz önünde bulundurulur. Trendler, markanın modern ve yenilikçi bir görünüm kazanmasına yardımcı olur."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
                     "subtitle": "Adım Üç",
-                    "title": "Geliştirme",
-                    "paragraph": "Tasarım aşamasında oluşturulan plan ve belgeler doğrultusunda, mobil uygulamanın kodlaması gerçekleştirilir. Yazılım geliştiriciler, belirlenen gereksinimlere uygun olarak mobil platformlar için uygun programlama dilleri ve araçlar kullanarak uygulamanın işlevlerini ve özelliklerini geliştirirler."
+                    "title": "Tasarım",
+                    "paragraph": "Trendlerin ve sektör analizinin ışığında, markanın görsel kimliği tasarlanır. Logo, renk paleti, tipografi ve diğer marka unsurları oluşturulur veya yeniden tasarlanır. Bu aşamada, markanın kişiliğine ve hedef kitlesine uygun bir tasarım oluşturulur, böylece marka tutarlı ve tanınabilir bir görünüme sahip olur."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
                     "subtitle": "Adım Dört",
                     "title": "Test",
-                    "paragraph": "Mobil uygulama geliştirme sürecinin son aşaması, uygulamanın doğruluğunu, güvenilirliğini ve kullanılabilirliğini değerlendirmek amacıyla test edilmesidir. Bu aşamada, farklı cihazlarda ve işletim sistemlerinde uygulamanın performansı test edilir, hata ayıklama işlemleri gerçekleştirilir ve kullanıcı geri bildirimleri dikkate alınır. Test aşaması, mobil uygulamanın kalitesini artırmak ve kullanıcı memnuniyetini sağlamak için önemlidir."
+                    "paragraph": "Tasarım aşamasında oluşturulan marka unsurları, hedef kitlenin tepkilerini değerlendirmek amacıyla test edilir. Bu aşamada, odak grupları veya anketler gibi yöntemlerle marka unsurlarının etkiliğini ve cazibesini ölçmek için geri bildirim toplanır. Testler, markanın hedeflenen mesajı ilettiğinden ve hedef kitlenin beğenisini kazandığından emin olmak için önemlidir."
                 }
             ]
         }
@@ -311,45 +311,7 @@
             ]
         }
     },
-    {
-        "image": "/images/icon/icon-29.png",
-        "title": "Marka Tasarımı",
-        "url": "marka-tasarimi",
-        "description": "Müşteri odaklı tasarım yaklaşımımızla, markanızın kişiliğini yansıtan etkileyici görsel kimlikler oluşturarak, iz bırakmanızı sağlıyoruz",
-        "cate": "Design",
-        "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Logo & Branding design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
-            "steps": [
-                {
-                    "thumb": "/images/others/process-1.png",
-                    "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-2.png",
-                    "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-3.png",
-                    "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "id": 4,
-                    "thumb": "/images/others/process-4.png",
-                    "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                }
-            ]
-        }
-    },
+
     {
         "image": "/images/icon/icon-27.png",
         "title": "Website Tasarımı",

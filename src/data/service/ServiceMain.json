@@ -195,6 +195,45 @@
         }
     },
     {
+        "image": "/images/icon/icon-28.png",
+        "title": "Mobil Uygulama Tasarımı",
+        "url": "mobil-uygulama-tasarimi",
+        "description": "Kullanıcı dostu arayüz tasarımları ve benzersiz kullanıcı deneyimi odaklı yaklaşımımızla, markanız için özelleştirilmiş ve etkileyici mobil uygulamalar geliştiriyoruz.",
+        "cate": "Design",
+        "process": {
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "Mobil Uygulama Tasarımı",
+            "para": "Mobil uygulama tasarımı süreçleri, kullanıcıların ihtiyaçlarını karşılayarak etkili bir kullanıcı deneyimi sunar ve uygulamanın başarısını artırır.",
+            "steps": [
+                {
+                    "thumb": "/images/others/process-1.png",
+                    "subtitle": "Adım Bir",
+                    "title": "Sektör Analizi",
+                    "paragraph": "Mobil uygulama tasarımı sürecinin başlangıcı, uygulamanın faaliyet göstereceği sektörü ve hedef kitlesini analiz etmeyi içerir. Bu aşamada, sektördeki rekabet durumu, kullanıcı davranışları ve ihtiyaçları incelenir. Sektör analizi, uygulamanın stratejik hedeflerine ve kullanıcı beklentilerine uygun olarak planlanmasını sağlar."
+                },
+                {
+                    "thumb": "/images/others/process-2.png",
+                    "subtitle": "Adım İki",
+                    "title": "Trendler",
+                    "paragraph": "Sektör analizi sonrasında, güncel mobil uygulama trendleri ve kullanıcı tercihleri dikkate alınır. Bu aşamada, mobil arayüz tasarımında popüler renkler, görsel stiller, kullanıcı deneyimi trendleri ve mobil platformların özellikleri göz önünde bulundurulur. Trendler, uygulamanın modern ve kullanıcı dostu bir görünüme sahip olmasını sağlar."
+                },
+                {
+                    "thumb": "/images/others/process-3.png",
+                    "subtitle": "Adım Üç",
+                    "title": "Tasarım",
+                    "paragraph": "Trendler ve sektör analizinin ışığında, mobil uygulamanın kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) tasarlanır. Bu aşamada, wireframe'ler, mockup'lar ve prototipler oluşturularak uygulamanın yapısı ve kullanıcı etkileşimleri planlanır. Tasarım aşaması, kullanıcıların uygulamayı kolayca kullanmasını sağlamak ve marka kimliğini etkili bir şekilde iletmek için önemlidir."
+                },
+                {
+                    "id": 4,
+                    "thumb": "/images/others/process-4.png",
+                    "subtitle": "Adım Dört",
+                    "title": "Geliştirme",
+                    "paragraph": "Tasarım aşamasında oluşturulan planlar doğrultusunda, mobil uygulamanın kodlaması gerçekleştirilir. Frontend ve backend geliştirme süreçleriyle, tasarlanan uygulamanın işlevselliği sağlanır. Bu aşamada, mobil platformların gereksinimleri ve kullanıcı deneyimi optimize edilerek uygulamanın performansı artırılır. Geliştirme süreci, uygulamanın kullanıcılar tarafından kolayca erişilebilir ve etkili bir şekilde çalışmasını sağlar."
+                }
+            ]
+        }
+    },
+    {
         "image": "/images/icon/icon-3.png",
         "title": "Dijital Reklamlar",
         "url": "dijital-reklamlar",
@@ -317,45 +356,6 @@
         "url": "icerik-uretimi",
         "description": "Yaratıcı yaklaşımlarla özgün içerikler üreterek, markanızın hikayesini en etkili şekilde anlatmanıza ve hedef kitlenizi etkilemenize yardımcı oluyoruz.",
         "cate": "Content",
-        "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
-            "steps": [
-                {
-                    "thumb": "/images/others/process-1.png",
-                    "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-2.png",
-                    "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-3.png",
-                    "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "id": 4,
-                    "thumb": "/images/others/process-4.png",
-                    "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                }
-            ]
-        }
-    },
-    {
-        "image": "/images/icon/icon-28.png",
-        "title": "Mobil Uygulama Tasarımı",
-        "url": "mobil-uygulama-tasarimi",
-        "description": "Kullanıcı dostu arayüz tasarımları ve benzersiz kullanıcı deneyimi odaklı yaklaşımımızla, markanız için özelleştirilmiş ve etkileyici mobil uygulamalar geliştiriyoruz.",
-        "cate": "Design",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",

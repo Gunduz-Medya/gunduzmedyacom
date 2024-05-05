@@ -273,236 +273,79 @@
         }
     },
     {
+        "image": "/images/icon/icon-39.png",
+        "title": "Dijital Medya Stratejileri",
+        "url": "dijital-medya-stratejileri",
+        "description": "Müşteri odaklı dijital medya stratejileri ile markanızın çevrimiçi varlığını güçlendirerek, hedef kitlenizle daha derin ve etkili bağlantılar kurmanıza olanak sağlıyoruz.",
+        "cate": "Marketing",
+        "process": {
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "Dijital Medya Stratejileri",
+            "para": "Dijital medya stratejileri süreçleri, markaların çevrimiçi varlıklarını güçlendirerek hedef kitleyle etkileşimi artırır ve marka bilinirliğini, bağlılığını ve satışları artırır.",
+            "steps": [
+                {
+                    "thumb": "/images/others/process-1.png",
+                    "subtitle": "Adım Bir",
+                    "title": "Sektör Analizi",
+                    "paragraph": "Dijital medya stratejileri sürecinin ilk adımı, işletmenin faaliyet gösterdiği sektörü ve çevrimiçi rekabeti analiz etmektir. Bu aşamada, sektördeki rakiplerin dijital varlıkları incelenir, sektördeki eğilimler ve yenilikler araştırılır ve pazarlama fırsatları belirlenir. Sektör analizi, stratejinin sektöre özgü ihtiyaçlara ve rekabet ortamına uygun olmasını sağlar."
+                },
+                {
+                    "thumb": "/images/others/process-2.png",
+                    "subtitle": "Adım İki",
+                    "title": "Trendler",
+                    "paragraph": "Sektör analizi sonrasında, güncel dijital medya trendleri ve platformlarının kullanım alışkanlıkları göz önüne alınır. Bu aşamada, sosyal medya platformlarındaki değişen algoritmalar, video içerik trendleri, influencer pazarlaması gibi önemli trendler incelenir. Trendler, stratejinin zamanla güncel kalmasını ve hedef kitleye etkili bir şekilde ulaşmasını sağlar."
+                },
+                {
+                    "thumb": "/images/others/process-3.png",
+                    "subtitle": "Adım Üç",
+                    "title": "Hedef Kitle Analizi",
+                    "paragraph": "Stratejinin başarılı olabilmesi için hedef kitlenin ihtiyaçları, tercihleri ve davranışları derinlemesine analiz edilir. Bu aşamada, demografik özellikler, sosyal medya kullanım alışkanlıkları, çevrimiçi davranışlar ve satın alma alışkanlıkları gibi veriler incelenir. Hedef kitle analizi, stratejinin daha kişiselleştirilmiş ve etkili olmasını sağlar."
+                },
+                {
+                    "id": 4,
+                    "thumb": "/images/others/process-4.png",
+                    "subtitle": "Adım Dört",
+                    "title": "Reklam Modelleri Analizi",
+                    "paragraph": "Hedef kitle analizine dayanarak, en uygun reklam modellerinin belirlenmesi gereklidir. Bu aşamada, arama motoru reklamları, sosyal medya reklamları, içerik pazarlaması, influencer işbirlikleri gibi farklı reklam modellerinin avantajları ve dezavantajları incelenir. Reklam modelleri analizi, bütçenin en etkili şekilde kullanılmasını ve stratejinin hedeflere ulaşmasını sağlar."
+                }
+            ]
+        }
+    },
+    {
         "image": "/images/icon/icon-3.png",
         "title": "Dijital Reklamlar",
         "url": "dijital-reklamlar",
         "cate": "Marketing",
         "description": "Markanızı hedef kitlenize ulaştırmak için özelleştirilmiş dijital reklam stratejileriyle, etkileyici sonuçlar elde etmenizi sağlıyoruz.",
         "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "Dijital Reklam",
+            "para": "Dijital reklam süreçleri, markaların çevrimiçi varlığını güçlendirerek hedef kitleye daha etkili bir şekilde ulaşmasını ve satışları artırmasını sağlar.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
                     "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Sektör Analizi",
+                    "paragraph": "Dijital reklam sürecinin başlangıcı, işletmenin faaliyet gösterdiği sektörü ve çevrimiçi rekabeti analiz etmektir. Bu aşamada, sektördeki rakiplerin reklam stratejileri, pazar payları ve hedef kitleleri incelenir. Ayrıca, sektöre özgü eğilimler ve fırsatlar belirlenir."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
                     "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Trendler",
+                    "paragraph": "Sektör analizi sonrasında, güncel dijital reklam trendleri ve platformlarının kullanım alışkanlıkları göz önünde bulundurulur. Bu aşamada, sosyal medya platformlarının algoritmalarındaki değişiklikler, video içerik trendleri, influencer pazarlaması gibi önemli trendler incelenir. Trendler, reklam stratejisinin güncel kalmasını ve hedef kitleyle etkili bir iletişim kurmasını sağlar."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
                     "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Hedef Kitle Analizi",
+                    "paragraph": "Stratejinin etkili olabilmesi için hedef kitlenin ihtiyaçları, tercihleri ve davranışları derinlemesine analiz edilir. Bu aşamada, demografik özellikler, çevrimiçi davranışlar, alışveriş alışkanlıkları gibi veriler incelenir. Hedef kitle analizi, reklamların daha kişiselleştirilmiş ve hedefe yönelik olmasını sağlar."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
                     "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                }
-            ]
-        }
-    },
-    {
-        "image": "/images/icon/icon-4.png",
-        "title": "İş Geliştirme",
-        "url": "is-gelistirme",
-        "description": "İşletmenizin büyümesini desteklemek için stratejik danışmanlık ve yenilikçi çözümlerle iş geliştirme sürecinizi optimize ediyoruz.",
-        "cate": "Business",
-        "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
-            "steps": [
-                {
-                    "thumb": "/images/others/process-1.png",
-                    "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-2.png",
-                    "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-3.png",
-                    "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "id": 4,
-                    "thumb": "/images/others/process-4.png",
-                    "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                }
-            ]
-        }
-    },
-    {
-        "image": "/images/icon/icon-5.png",
-        "title": "Teknoloji",
-        "url": "teknoloji",
-        "description": "En son teknolojileri kullanarak işletmenizin dijital dönüşümünü sağlayarak, verimliliği arttırmanıza ve rekabet avantajı elde etmenize yardımcı oluyoruz.",
-        "cate": "Business",
-        "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
-            "steps": [
-                {
-                    "thumb": "/images/others/process-1.png",
-                    "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-2.png",
-                    "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-3.png",
-                    "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "id": 4,
-                    "thumb": "/images/others/process-4.png",
-                    "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                }
-            ]
-        }
-    },
-    {
-        "image": "/images/icon/icon-6.png",
-        "title": "İçerik Üretimi",
-        "url": "icerik-uretimi",
-        "description": "Yaratıcı yaklaşımlarla özgün içerikler üreterek, markanızın hikayesini en etkili şekilde anlatmanıza ve hedef kitlenizi etkilemenize yardımcı oluyoruz.",
-        "cate": "Content",
-        "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
-            "steps": [
-                {
-                    "thumb": "/images/others/process-1.png",
-                    "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-2.png",
-                    "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-3.png",
-                    "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "id": 4,
-                    "thumb": "/images/others/process-4.png",
-                    "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                }
-            ]
-        }
-    },
-    
-    {
-        "image": "/images/icon/icon-30.png",
-        "title": "Video Üretimi",
-        "url": "video-uretimi",
-        "description": "Kreatif yaklaşımlarla hazırlanan özgün videolarla, markanızı etkili bir şekilde tanıtarak izleyicilerinizi etkilemenize yardımcı oluyoruz.",
-        "cate": "Content",
-        "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
-            "steps": [
-                {
-                    "thumb": "/images/others/process-1.png",
-                    "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-2.png",
-                    "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-3.png",
-                    "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "id": 4,
-                    "thumb": "/images/others/process-4.png",
-                    "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                }
-            ]
-        }
-    },
-    {
-        "image": "/images/icon/icon-31.png",
-        "title": "İçerik Kontrolü",
-        "url": "icerik-kontrolu",
-        "description": "Kapsamlı ve titiz içerik kontrolü ile markanızın güvenilirliğini artırarak, kaliteli içeriklerinizi hedef kitlenize güvenle sunmanıza yardımcı oluyoruz.",
-        "cate": "Content",
-        "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
-            "steps": [
-                {
-                    "thumb": "/images/others/process-1.png",
-                    "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-2.png",
-                    "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-3.png",
-                    "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "id": 4,
-                    "thumb": "/images/others/process-4.png",
-                    "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Reklam Modelleri Analizi",
+                    "paragraph": "Hedef kitle analizi doğrultusunda, en uygun reklam modellerinin belirlenmesi gerekir. Bu aşamada, arama motoru reklamları, sosyal medya reklamları, içerik pazarlaması, programatik reklam gibi farklı reklam modellerinin avantajları ve dezavantajları incelenir. Reklam modelleri analizi, bütçenin en etkili şekilde kullanılmasını ve reklamların hedef kitleye en iyi şekilde ulaşmasını sağlar."
                 }
             ]
         }
@@ -514,34 +357,34 @@
         "description": "Stratejik anahtar kelime optimizasyonu ve organik arama motoru sıralamalarını iyileştirme yöntemleriyle, işletmenizin çevrimiçi görünürlüğünü artırarak hedef kitlenize daha etkili bir şekilde ulaşmanızı sağlıyoruz.",
         "cate": "Marketing",
         "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "SEO",
+            "para": "SEO süreçleri, web sitelerinin arama motorlarında üst sıralara çıkmasını sağlayarak organik trafik ve görünürlüğün artmasını sağlar.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
                     "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Sektör Analizi",
+                    "paragraph": "SEO sürecinin başlangıcı, işletmenin faaliyet gösterdiği sektördeki rekabet ortamını ve pazar dinamiklerini anlamakla başlar. Bu aşamada, sektördeki anahtar oyuncuların ve rakiplerin dijital varlıkları, anahtar kelime stratejileri ve gerçekleştirdikleri SEO çalışmaları incelenir. Sektör analizi, stratejinin sektöre özgü ihtiyaçlarına ve rekabet koşullarına uygun olmasını sağlar."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
                     "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Trendler",
+                    "paragraph": "Sektör analizi sonrasında, güncel SEO trendleri ve arama motoru algoritmalarındaki değişiklikler göz önünde bulundurulur. Bu aşamada, arama motorlarının tercih ettiği içerik türleri, mobil uyumluluk gereksinimleri, yerel SEO stratejileri gibi önemli trendler incelenir. Trendler, stratejinin güncel ve etkili kalmasını sağlar."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
                     "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Hedef Kitle Analizi",
+                    "paragraph": "SEO stratejisinin etkili olabilmesi için hedef kitlenin ihtiyaçları ve arama davranışları detaylı bir şekilde analiz edilir. Bu aşamada, hedef kitleye yönelik anahtar kelimeler, arama hacmi, coğrafi konum ve demografik özellikler gibi veriler incelenir. Hedef kitle analizi, stratejinin kullanıcı odaklı ve hedeflenen sonuçları elde etmesini sağlar."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
                     "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Çalışma Modelleri",
+                    "paragraph": "Hedef kitle analizi doğrultusunda, en uygun SEO çalışma modelleri belirlenir. Bu aşamada, on-page SEO, off-page SEO, teknik SEO gibi farklı optimizasyon teknikleri ve stratejileri değerlendirilir. Ayrıca, SEO çalışmalarının içerik oluşturma, bağlantı kurma ve web sitesi tekniklerini iyileştirme gibi unsurları da içerir. Çalışma modelleri analizi, stratejinin hedeflere uygun ve başarılı olmasını sağlar."
                 }
             ]
         }
@@ -553,73 +396,34 @@
         "description": "Hedef kitlenize özelleştirilmiş içeriklerle doğrudan ulaşarak etkili pazarlama kampanyaları yürütmenize olanak sağlıyoruz.",
         "cate": "Marketing",
         "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "Email Pazarlama",
+            "para": "Email Pazarlama süreçleri, işletmelerin hedef kitleleriyle kişisel ve etkili iletişim kurarak marka bilinirliğini artırmasını, müşteri bağlılığını güçlendirmesini ve satışları artırmasını sağlar.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
                     "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Sektör Analizi",
+                    "paragraph": "Email pazarlama sürecinin başlangıcı, işletmenin faaliyet gösterdiği sektörü ve rakiplerini analiz etmeyi içerir. Bu aşamada, sektördeki anahtar oyuncuların email pazarlama stratejileri, kampanyaları ve etkileşim oranları incelenir. Sektör analizi, işletmenin kendi pazarlama stratejisini oluştururken sektör trendlerini ve rekabet koşullarını göz önünde bulundurmasını sağlar."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
                     "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Trendler",
+                    "paragraph": "Sektör analizi sonrasında, güncel email pazarlama trendleri ve en iyi uygulamalar göz önünde bulundurulur. Bu aşamada, kişiselleştirme, otomasyon, interaktif içerikler gibi önemli trendler incelenir. Trendler, email kampanyalarının daha etkili olmasını ve hedef kitleyle daha iyi etkileşim kurmasını sağlar."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
                     "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Hedef Kitle Analizi",
+                    "paragraph": "Email pazarlama stratejisinin etkili olabilmesi için hedef kitlenin ihtiyaçları, tercihleri ve davranışları analiz edilir. Bu aşamada, demografik özellikler, alışveriş alışkanlıkları, geçmiş etkileşimler gibi veriler incelenir. Hedef kitle analizi, kişiselleştirilmiş içeriklerin oluşturulması ve doğru zamanlama stratejilerinin belirlenmesi için önemlidir."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
                     "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                }
-            ]
-        }
-    },
-    {
-        "image": "/images/icon/icon-37.png",
-        "title": "Dış Mekan Pazarlama",
-        "url": "dis-mekan-pazarlama",
-        "description": "Açık hava reklamcılığı ve etkinlik yönetimi ile markanızı geniş kitlelere tanıtarak görsel etkiyi maksimize ediyoruz.",
-        "cate": "Marketing",
-        "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
-            "steps": [
-                {
-                    "thumb": "/images/others/process-1.png",
-                    "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-2.png",
-                    "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-3.png",
-                    "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "id": 4,
-                    "thumb": "/images/others/process-4.png",
-                    "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Çalışma Modelleri",
+                    "paragraph": "Hedef kitle analizi doğrultusunda, en uygun email pazarlama çalışma modelleri belirlenir. Bu aşamada, otomasyon sistemleri, segmentasyon teknikleri, A/B testleri gibi farklı stratejiler değerlendirilir. Ayrıca, kampanya planlaması, içerik oluşturma ve ölçümleme teknikleri de çalışma modelleri analizine dahildir. Çalışma modelleri analizi, email pazarlama stratejisinin hedeflere uygun ve başarılı olmasını sağlar."
                 }
             ]
         }
@@ -631,73 +435,34 @@
         "description": "Sosyal medya platformlarında etkileşimi artırarak, markanızın görünürlüğünü ve müşteri bağlılığını artırmak için stratejik içerikler ve yönetim sağlıyoruz.",
         "cate": "Marketing",
         "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "Sosyal Medya Yönetimi",
+            "para": "Sosyal medya yönetimi süreçleri, markaların çevrimiçi varlığını etkili bir şekilde yöneterek hedef kitle ile etkileşimi artırır ve marka bilinirliğini güçlendirir.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
                     "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Sektör Analizi",
+                    "paragraph": "Sosyal medya yönetimi sürecinin ilk adımı, işletmenin faaliyet gösterdiği sektörü ve sektördeki diğer oyuncuları analiz etmektir. Bu aşamada, rakip markaların sosyal medya stratejileri, içerik türleri, etkileşim oranları ve başarıları incelenir. Sektör analizi, işletmenin kendi stratejilerini geliştirirken sektör trendlerini ve rekabet koşullarını göz önünde bulundurmasını sağlar."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
                     "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Trendler",
+                    "paragraph": "Sektör analizi sonrasında, güncel sosyal medya trendleri ve platformlarının kullanım alışkanlıkları göz önünde bulundurulur. Bu aşamada, video içeriklerin yükselişi, hikaye formatlarının popülerliği, influencer pazarlaması gibi önemli trendler incelenir. Trendler, sosyal medya stratejisinin daha etkili olmasını ve hedef kitleyle daha iyi etkileşim kurmasını sağlar."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
                     "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Hedef Kitle Analizi",
+                    "paragraph": "Sosyal medya stratejisinin etkili olabilmesi için hedef kitlenin ihtiyaçları, tercihleri ve davranışları analiz edilir. Bu aşamada, demografik özellikler, ilgi alanları, çevrimiçi davranışlar gibi veriler incelenir. Hedef kitle analizi, içerik stratejisinin kişiselleştirilmesi ve doğru hedefleme stratejilerinin belirlenmesi için önemlidir."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
                     "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                }
-            ]
-        }
-    },
-    {
-        "image": "/images/icon/icon-39.png",
-        "title": "Dijital Medya Stratejileri",
-        "url": "dijital-medya-stratejileri",
-        "description": "Müşteri odaklı dijital medya stratejileri ile markanızın çevrimiçi varlığını güçlendirerek, hedef kitlenizle daha derin ve etkili bağlantılar kurmanıza olanak sağlıyoruz.",
-        "cate": "Marketing",
-        "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
-            "steps": [
-                {
-                    "thumb": "/images/others/process-1.png",
-                    "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-2.png",
-                    "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-3.png",
-                    "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "id": 4,
-                    "thumb": "/images/others/process-4.png",
-                    "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Çalışma Modelleri",
+                    "paragraph": "Hedef kitle analizi doğrultusunda, en uygun sosyal medya çalışma modelleri belirlenir. Bu aşamada, organik içerik stratejileri, reklam kampanyaları, influencer işbirlikleri gibi farklı stratejiler değerlendirilir. Ayrıca, içerik planlaması, etkileşim ölçümü ve kriz yönetimi gibi konular da çalışma modelleri analizine dahildir. Çalışma modelleri analizi, sosyal medya stratejisinin hedeflere uygun ve başarılı olmasını sağlar."
                 }
             ]
         }
@@ -709,151 +474,229 @@
         "description": "Uzman danışmanlarımızla stratejik planlama ve etkili yönetim ile projelerinizi başarıyla hayata geçirmenize yardımcı oluyoruz.",
         "cate": "Business",
         "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "Proje Danışmanlığı",
+            "para": "Proje danışmanlığı süreçleri, projelerin başarılı bir şekilde planlanmasını, yönetilmesini ve tamamlanmasını sağlayarak işletmelerin hedeflerine ulaşmasına destek olur.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
                     "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Sektör Analizi",
+                    "paragraph": "Proje danışmanlığı sürecinin ilk adımı, proje yapılmak istenen sektörü ve sektördeki dinamikleri anlamakla başlar. Bu aşamada, sektördeki rekabet, mevzuatlar, tedarikçiler ve tüketiciler incelenir. Sektör analizi, projenin sektörel ihtiyaçlarını ve zorluklarını belirlemeye yardımcı olur."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
                     "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Trendler",
+                    "paragraph": "Sektör analizi sonrasında, güncel proje yönetimi trendleri ve en iyi uygulamalar göz önünde bulundurulur. Bu aşamada, proje yönetiminde kullanılan teknolojiler, metodolojiler ve süreçler incelenir. Trendler, proje yönetiminin verimliliğini artırmak ve riskleri azaltmak için önemlidir."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
                     "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Proje Analizi",
+                    "paragraph": "Proje danışmanlığı sürecinin temel aşamalarından biri de proje analizidir. Bu aşamada, proje gereksinimleri, hedefleri, kısıtlamaları ve kaynakları belirlenir. Ayrıca, risk analizi yapılır ve proje planı oluşturulur. Proje analizi, projenin başarılı bir şekilde yönetilmesi için temel bir çerçeve sağlar."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
                     "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Çözüm Planı",
+                    "paragraph": "Proje analizi sonucunda elde edilen verilere dayanarak, proje için bir çözüm planı oluşturulur. Bu plan, proje hedeflerini, zaman çizelgesini, bütçeyi ve kaynakları içerir. Ayrıca, proje ekiplerinin rolleri ve sorumlulukları da belirlenir. Çözüm planı, projenin etkili bir şekilde yönetilmesini ve başarıya ulaşmasını sağlar."
                 }
             ]
         }
     },
     {
         "image": "/images/icon/icon-42.png",
-        "title": "Raporlama",
-        "url": "raporlama",
+        "title": "Veri Analizi ve Raporlama",
+        "url": "veri-analizi-raporlama",
         "description": "Veri analizi ve detaylı raporlama ile işletmenizin performansını izleyerek stratejik kararlar almanızı sağlıyoruz.",
         "cate": "Business",
         "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "Raporlama",
+            "para": "Raporlama süreçleri, veri odaklı kararlar almayı sağlayarak işletmelerin performanslarını ölçmelerine, güçlü yönlerini vurgulamalarına ve zayıf noktalarını belirlemelerine yardımcı olur.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
                     "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Veri Analizi",
+                    "paragraph": "Raporlama sürecinin başlangıcı, mevcut verilerin derinlemesine analiz edilmesini içerir. Bu aşamada, veriler incelenir, temizlenir ve düzenlenir. Veri analizi, işletmenin ihtiyaçlarına uygun veri setlerinin belirlenmesini ve anlamlı bilgilerin çıkarılmasını sağlar."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
                     "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Veri Yapısı",
+                    "paragraph": "Veri analizi sonrasında, uygun bir veri yapısı oluşturulur. Bu aşamada, verilerin depolanması, organize edilmesi ve ilişkilendirilmesi için bir veri tabanı veya veri depolama sistemi kullanılır. Veri yapısı, verilerin kolayca erişilebilir olmasını ve doğru şekilde kullanılmasını sağlar."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
                     "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "İhtiyaç Analizi",
+                    "paragraph": "Raporlama sürecinin bir sonraki adımı, kullanıcı ihtiyaçlarının belirlenmesidir. Bu aşamada, işletmenin farklı departmanlarından veya kullanıcı gruplarından gelen raporlama gereksinimleri toplanır. İhtiyaç analizi, raporların hangi verileri içermesi gerektiğini ve nasıl görselleştirilmesi gerektiğini belirler."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
                     "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Raporlama",
+                    "paragraph": "İhtiyaç analizi doğrultusunda, belirlenen raporlama gereksinimlerine uygun raporlar oluşturulur. Bu aşamada, veriler görselleştirilir ve anlamlı grafikler, tablolar veya gösterimler kullanılarak sunulur. Raporlama, işletmenin performansını izlemesine, trendleri anlamasına ve kararlar almasına yardımcı olur."
                 }
             ]
         }
     },
     {
         "image": "/images/icon/icon-43.png",
-        "title": "Hosting",
-        "url": "hosting",
+        "title": "Hosting Danışmanlığı",
+        "url": "hosting-danismanligi",
         "description": "Müşteri ihtiyaçlarına özel olarak belirlenen en uygun hosting çözümleriyle, web sitenizin performansını ve güvenliğini en üst düzeye çıkarmanıza yardımcı oluyoruz.",
         "cate": "Business",
         "process": {
             "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "sectionTitle": "Hosting Danışmanlığı",
+            "para": "Hosting danışmanlığı süreçleri, işletmelerin web sitelerinin performansını optimize ederek güvenilirliklerini artırır ve kullanıcı deneyimini iyileştirir.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
                     "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "İhtiyaç Analizi",
+                    "paragraph": "Hosting danışmanlığı sürecinin başlangıcı, müşterinin ihtiyaçlarını anlamak ve gereksinimleri belirlemektir. Bu aşamada, müşterinin mevcut web sitesi trafiği, depolama ve bant genişliği gereksinimleri, özel gereksinimleri ve büyüme projeksiyonları değerlendirilir. İhtiyaç analizi, doğru hosting çözümünün belirlenmesi için temel bir adımdır."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
                     "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Proje Yapısı",
+                    "paragraph": "İhtiyaç analizi sonrasında, hosting danışmanı müşteriye uygun bir proje yapısı önerir. Bu yapı, sunucu mimarisi, veritabanı yönetimi, güvenlik önlemleri ve yedekleme stratejilerini içerir. Proje yapısı, müşterinin ihtiyaçlarına uygun ve ölçeklenebilir bir hosting çözümü oluşturmayı amaçlar."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
                     "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Kullanım İhtiyacı",
+                    "paragraph": "Proje yapısının belirlenmesinin ardından, müşterinin kullanım ihtiyacına uygun bir hosting çözümü seçilir. Bu aşamada, paylaşımlı hosting, sanal özel sunucular (VPS), bulut hosting veya özel sunucu gibi farklı hosting seçenekleri değerlendirilir. Kullanım ihtiyacı, müşterinin trafik hacmi, performans gereksinimleri ve bütçesi dikkate alınarak belirlenir."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
                     "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Bütçe",
+                    "paragraph": "Son olarak, müşterinin bütçesi doğrultusunda uygun bir hosting çözümü belirlenir. Bu aşamada, hosting danışmanı müşteriye maliyet-etkin bir çözüm sunar ve bütçe sınırları içinde en iyi performansı sağlayan seçenekleri değerlendirir. Bütçe, müşterinin hosting hizmetleri için uzun vadeli sürdürülebilir bir çözüm bulmasına yardımcı olur."
                 }
             ]
         }
     },
     {
-        "image": "/images/icon/icon-44.png",
-        "title": "Veri Analizi",
-        "url": "veri-analizi",
-        "description": "Kapsamlı veri analizi ve anlamlı içgörülerle, işletmenizin stratejik kararlarını veriye dayalı olarak yönlendirmenize yardımcı oluyoruz.",
-        "cate": "Business",
+        "image": "/images/icon/icon-6.png",
+        "title": "Fotoğrafçılık",
+        "url": "fotografcilik",
+        "description": "Fotoğrafçılık hizmetimiz, ürünlerinizi etkileyici ve dikkat çekici görsellerle sunarak markanızı güçlendirir ve satışlarınızı artırır.",
+        "cate": "Content",
         "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "Fotoğrafçılık",
+            "para": "Fotoğrafçılık süreçleri, görsel iletişim aracılığıyla marka imajını güçlendirerek ürünlerin etkileyici bir şekilde sergilenmesini sağlar ve hedef kitleyle daha derin bir bağ kurulmasına olanak tanır.",
             "steps": [
                 {
                     "thumb": "/images/others/process-1.png",
                     "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "İhtiyaç Analizi",
+                    "paragraph": "Fotoğrafçılık sürecinin ilk adımı, müşterinin ihtiyaçlarını ve beklentilerini anlamak için bir ihtiyaç analizi yapmaktır. Bu aşamada, fotoğrafların amacı, hedef kitle, kullanılacağı platformlar ve istenen etki gibi faktörler değerlendirilir. İhtiyaç analizi, fotoğrafçının müşterinin beklentilerini tam olarak anlamasını sağlar."
                 },
                 {
                     "thumb": "/images/others/process-2.png",
                     "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Trendler",
+                    "paragraph": "Fotoğrafçılık dünyasındaki sürekli değişen trendleri takip etmek önemlidir. Bu aşamada, sektördeki güncel trendler, görsel stiller, renk paletleri ve pazarlama teknikleri incelenir. Trendleri takip etmek, fotoğrafların güncel ve etkileyici olmasını sağlar."
                 },
                 {
                     "thumb": "/images/others/process-3.png",
                     "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Çekim Tarzı",
+                    "paragraph": "Her fotoğraf projesi için uygun bir çekim tarzı belirlenmelidir. Bu, ürün fotoğrafçılığı, moda çekimleri, portreler veya manzara fotoğrafçılığı gibi farklı tarzlarda olabilir. Çekim tarzı, fotoğrafın amacına, hedef kitleye ve marka imajına uygun olarak seçilir."
                 },
                 {
                     "id": 4,
                     "thumb": "/images/others/process-4.png",
                     "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+                    "title": "Prodüksiyon",
+                    "paragraph": "Fotoğraf çekimi için, prodüksiyon aşaması önemlidir. Bu aşamada, lokasyon seçimi, ışıklandırma, ekipman temini ve model veya ürün hazırlığı gibi detaylar planlanır. Prodüksiyon süreci, çekimin sorunsuz ve verimli bir şekilde gerçekleşmesini sağlar."
+                }
+            ]
+        }
+    },
+    {
+        "image": "/images/icon/icon-30.png",
+        "title": "Video Prodüksiyon",
+        "url": "video-produksiyon",
+        "description": "Kreatif yaklaşımlarla hazırlanan özgün videolarla, markanızı etkili bir şekilde tanıtarak izleyicilerinizi etkilemenize yardımcı oluyoruz.",
+        "cate": "Content",
+        "process": {
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "Video Prodüksiyon",
+            "para": "Video prodüksiyon süreçleri, markaların hikayelerini etkileyici bir şekilde anlatarak hedef kitle ile güçlü bir bağ kurmalarını ve izleyicileri etkilemelerini sağlar.",
+            "steps": [
+                {
+                    "thumb": "/images/others/process-1.png",
+                    "subtitle": "Adım Bir",
+                    "title": "İhtiyaç Analizi",
+                    "paragraph": "Video prodüksiyon sürecinin başlangıcı, müşterinin ihtiyaçlarını ve beklentilerini anlamak için bir ihtiyaç analizi yapmaktır. Bu aşamada, video içeriğinin amacı, hedef kitle, mesajın iletilme şekli ve kullanılacak platformlar değerlendirilir. İhtiyaç analizi, video prodüksiyonunun doğru strateji ve içerikle şekillenmesini sağlar."
+                },
+                {
+                    "thumb": "/images/others/process-2.png",
+                    "subtitle": "Adım İki",
+                    "title": "Trendler",
+                    "paragraph": "Video prodüksiyonunda güncel trendleri takip etmek önemlidir. Bu aşamada, sektördeki video trendleri, görsel stiller, kurgu teknikleri ve pazarlama yaklaşımları incelenir. Trendleri takip etmek, videoların güncel, ilgi çekici ve izleyiciyi etkileme potansiyelini artırır."
+                },
+                {
+                    "thumb": "/images/others/process-3.png",
+                    "subtitle": "Adım Üç",
+                    "title": "Prodüksiyon",
+                    "paragraph": "Video çekimi sırasında, belirlenen ihtiyaçlara ve trendlere uygun olarak prodüksiyon süreci gerçekleştirilir. Bu aşamada, kamera çekimleri, ses kayıtları, oyuncu yönetimi, sahne düzenlemeleri ve diğer teknik detaylar planlanır ve uygulanır."
+                },
+                {
+                    "id": 4,
+                    "thumb": "/images/others/process-4.png",
+                    "subtitle": "Adım Dört",
+                    "title": "Post Prodüksiyon",
+                    "paragraph": "Çekimler tamamlandıktan sonra, video içeriğinin düzenlenmesi, efektlerin eklenmesi ve son rötuşların yapılması post prodüksiyon aşamasını oluşturur. Bu aşama, çekimlerden elde edilen materyalin profesyonelce işlenmesini ve final ürünün hazırlanmasını sağlar."
+                }
+            ]
+        }
+    },
+    {
+        "image": "/images/icon/icon-31.png",
+        "title": "Editöryal Hizmetler",
+        "url": "editoryal-hizmetler",
+        "description": "Editöryal hizmetlerimiz, dil ve içerik açısından profesyonel bir yaklaşımla metinleri düzenleyerek etkileyici ve tutarlı bir iletişim sağlar.",
+        "cate": "Content",
+        "process": {
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "Editöryal Hizmetler",
+            "para": "Editöryal hizmetler süreçleri, yazılı metinlerin kalitesini artırarak doğru iletişim kurmayı sağlayarak marka itibarını güçlendirir.",
+            "steps": [
+                {
+                    "thumb": "/images/others/process-1.png",
+                    "subtitle": "Adım Bir",
+                    "title": "Metin Değerlendirmesi",
+                    "paragraph": "Editöryal sürecin ilk adımı, metnin içeriğinin ve yapısının değerlendirilmesidir. Bu aşamada, metnin amacı, hedef kitlesi, tutarlılık, anlatım tarzı ve dilbilgisi incelenir."
+                },
+                {
+                    "thumb": "/images/others/process-2.png",
+                    "subtitle": "Adım İki",
+                    "title": "Düzenleme ve Revizyon",
+                    "paragraph": "Metin değerlendirmesi sonrasında, gereken düzenlemeler yapılır ve revizyonlar uygulanır. Bu aşamada, yazım hataları düzeltilir, cümle yapıları gözden geçirilir ve içeriğin akıcılığı sağlanır."
+                },
+                {
+                    "thumb": "/images/others/process-3.png",
+                    "subtitle": "Adım Üç",
+                    "title": "Doğrulama ve Kontrol",
+                    "paragraph": "Düzenleme ve revizyon sürecinin ardından, metin detaylı bir şekilde doğrulanır ve kontrol edilir. Yazım hataları, dilbilgisi yanlışları ve içerik tutarsızlıkları tespit edilir ve düzeltilir."
+                },
+                {
+                    "id": 4,
+                    "thumb": "/images/others/process-4.png",
+                    "subtitle": "Adım Dört",
+                    "title": "Final Değerlendirme ve Onay",
+                    "paragraph": "Metin son olarak bir kez daha incelenir ve son değerlendirme yapılır. Bu aşamada, metnin gereksinimlere uygunluğu kontrol edilir ve son onay verilir. Eğer gerekiyorsa, metin yayına hazırlanır veya ilgili platforma teslim edilir."
                 }
             ]
         }

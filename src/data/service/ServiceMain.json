@@ -585,45 +585,6 @@
         }
     },
     {
-        "image": "/images/icon/icon-6.png",
-        "title": "Fotoğrafçılık",
-        "url": "fotografcilik",
-        "description": "Fotoğrafçılık hizmetimiz, ürünlerinizi etkileyici ve dikkat çekici görsellerle sunarak markanızı güçlendirir ve satışlarınızı artırır.",
-        "cate": "Content",
-        "process": {
-            "sectionSub": "Süreçlerimiz",
-            "sectionTitle": "Fotoğrafçılık",
-            "para": "Fotoğrafçılık süreçleri, görsel iletişim aracılığıyla marka imajını güçlendirerek ürünlerin etkileyici bir şekilde sergilenmesini sağlar ve hedef kitleyle daha derin bir bağ kurulmasına olanak tanır.",
-            "steps": [
-                {
-                    "thumb": "/images/others/process-1.png",
-                    "subtitle": "Adım Bir",
-                    "title": "İhtiyaç Analizi",
-                    "paragraph": "Fotoğrafçılık sürecinin ilk adımı, müşterinin ihtiyaçlarını ve beklentilerini anlamak için bir ihtiyaç analizi yapmaktır. Bu aşamada, fotoğrafların amacı, hedef kitle, kullanılacağı platformlar ve istenen etki gibi faktörler değerlendirilir. İhtiyaç analizi, fotoğrafçının müşterinin beklentilerini tam olarak anlamasını sağlar."
-                },
-                {
-                    "thumb": "/images/others/process-2.png",
-                    "subtitle": "Adım İki",
-                    "title": "Trendler",
-                    "paragraph": "Fotoğrafçılık dünyasındaki sürekli değişen trendleri takip etmek önemlidir. Bu aşamada, sektördeki güncel trendler, görsel stiller, renk paletleri ve pazarlama teknikleri incelenir. Trendleri takip etmek, fotoğrafların güncel ve etkileyici olmasını sağlar."
-                },
-                {
-                    "thumb": "/images/others/process-3.png",
-                    "subtitle": "Adım Üç",
-                    "title": "Çekim Tarzı",
-                    "paragraph": "Her fotoğraf projesi için uygun bir çekim tarzı belirlenmelidir. Bu, ürün fotoğrafçılığı, moda çekimleri, portreler veya manzara fotoğrafçılığı gibi farklı tarzlarda olabilir. Çekim tarzı, fotoğrafın amacına, hedef kitleye ve marka imajına uygun olarak seçilir."
-                },
-                {
-                    "id": 4,
-                    "thumb": "/images/others/process-4.png",
-                    "subtitle": "Adım Dört",
-                    "title": "Prodüksiyon",
-                    "paragraph": "Fotoğraf çekimi için, prodüksiyon aşaması önemlidir. Bu aşamada, lokasyon seçimi, ışıklandırma, ekipman temini ve model veya ürün hazırlığı gibi detaylar planlanır. Prodüksiyon süreci, çekimin sorunsuz ve verimli bir şekilde gerçekleşmesini sağlar."
-                }
-            ]
-        }
-    },
-    {
         "image": "/images/icon/icon-30.png",
         "title": "Video Prodüksiyon",
         "url": "video-produksiyon",
@@ -658,6 +619,45 @@
                     "subtitle": "Adım Dört",
                     "title": "Post Prodüksiyon",
                     "paragraph": "Çekimler tamamlandıktan sonra, video içeriğinin düzenlenmesi, efektlerin eklenmesi ve son rötuşların yapılması post prodüksiyon aşamasını oluşturur. Bu aşama, çekimlerden elde edilen materyalin profesyonelce işlenmesini ve final ürünün hazırlanmasını sağlar."
+                }
+            ]
+        }
+    },
+    {
+        "image": "/images/icon/icon-6.png",
+        "title": "Fotoğrafçılık",
+        "url": "fotografcilik",
+        "description": "Fotoğrafçılık hizmetimiz, ürünlerinizi etkileyici ve dikkat çekici görsellerle sunarak markanızı güçlendirir ve satışlarınızı artırır.",
+        "cate": "Content",
+        "process": {
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "Fotoğrafçılık",
+            "para": "Fotoğrafçılık süreçleri, görsel iletişim aracılığıyla marka imajını güçlendirerek ürünlerin etkileyici bir şekilde sergilenmesini sağlar ve hedef kitleyle daha derin bir bağ kurulmasına olanak tanır.",
+            "steps": [
+                {
+                    "thumb": "/images/others/process-1.png",
+                    "subtitle": "Adım Bir",
+                    "title": "İhtiyaç Analizi",
+                    "paragraph": "Fotoğrafçılık sürecinin ilk adımı, müşterinin ihtiyaçlarını ve beklentilerini anlamak için bir ihtiyaç analizi yapmaktır. Bu aşamada, fotoğrafların amacı, hedef kitle, kullanılacağı platformlar ve istenen etki gibi faktörler değerlendirilir. İhtiyaç analizi, fotoğrafçının müşterinin beklentilerini tam olarak anlamasını sağlar."
+                },
+                {
+                    "thumb": "/images/others/process-2.png",
+                    "subtitle": "Adım İki",
+                    "title": "Trendler",
+                    "paragraph": "Fotoğrafçılık dünyasındaki sürekli değişen trendleri takip etmek önemlidir. Bu aşamada, sektördeki güncel trendler, görsel stiller, renk paletleri ve pazarlama teknikleri incelenir. Trendleri takip etmek, fotoğrafların güncel ve etkileyici olmasını sağlar."
+                },
+                {
+                    "thumb": "/images/others/process-3.png",
+                    "subtitle": "Adım Üç",
+                    "title": "Çekim Tarzı",
+                    "paragraph": "Her fotoğraf projesi için uygun bir çekim tarzı belirlenmelidir. Bu, ürün fotoğrafçılığı, moda çekimleri, portreler veya manzara fotoğrafçılığı gibi farklı tarzlarda olabilir. Çekim tarzı, fotoğrafın amacına, hedef kitleye ve marka imajına uygun olarak seçilir."
+                },
+                {
+                    "id": 4,
+                    "thumb": "/images/others/process-4.png",
+                    "subtitle": "Adım Dört",
+                    "title": "Prodüksiyon",
+                    "paragraph": "Fotoğraf çekimi için, prodüksiyon aşaması önemlidir. Bu aşamada, lokasyon seçimi, ışıklandırma, ekipman temini ve model veya ürün hazırlığı gibi detaylar planlanır. Prodüksiyon süreci, çekimin sorunsuz ve verimli bir şekilde gerçekleşmesini sağlar."
                 }
             ]
         }

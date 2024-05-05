@@ -156,6 +156,45 @@
         }
     },
     {
+        "image": "/images/icon/icon-27.png",
+        "title": "Website Tasarımı",
+        "url": "website-tasarimi",
+        "description": "Modern tasarım trendlerini ve kullanıcı deneyimi prensiplerini birleştirerek, etkileyici ve işlevsel web siteleri tasarlayarak markanızın çevrimiçi varlığını güçlendiriyoruz.",
+        "cate": "Design",
+        "process": {
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "Website Tasarımı",
+            "para": "Website tasarımı süreçleri, kullanıcı deneyimini artırarak markanın çevrimiçi varlığını güçlendirir ve hedef kitle ile etkileşimi maksimize eder.",
+            "steps": [
+                {
+                    "thumb": "/images/others/process-1.png",
+                    "subtitle": "Adım Bir",
+                    "title": "Sektör Analizi",
+                    "paragraph": "Website tasarımı sürecinin ilk adımı, işletmenin faaliyet gösterdiği sektörü ve hedef kitlesini anlamaktır. Bu aşamada, pazar araştırması yapılır, rakip websiteleri incelenir ve sektöre özgü ihtiyaçlar ve beklentiler belirlenir. Sektör analizi, websitenin stratejik hedeflerine ve kullanıcı ihtiyaçlarına uygun olarak planlanmasını sağlar."
+                },
+                {
+                    "thumb": "/images/others/process-2.png",
+                    "subtitle": "Adım İki",
+                    "title": "Trendler",
+                    "paragraph": "Sektör analizi sonrasında, güncel web tasarım trendleri ve kullanıcı davranışları göz önüne alınır. Bu aşamada, renk paletleri, tipografi, görsel stiller ve kullanıcı deneyimi trendleri incelenir. Trendler, websitenin modern ve etkileyici bir görünüme sahip olmasını sağlar ve kullanıcıların ilgisini çekmesine yardımcı olur."
+                },
+                {
+                    "thumb": "/images/others/process-3.png",
+                    "subtitle": "Adım Üç",
+                    "title": "Tasarım",
+                    "paragraph": "Trendlerin ve sektör analizinin ışığında, websitenin görsel ve kullanıcı arayüzü (UI/UX) tasarlanır. Bu aşamada, wireframe'ler ve mockup'lar oluşturularak websitenin yapısı belirlenir ve görsel unsurların yerleşimi planlanır. Tasarım aşaması, kullanıcı deneyimini iyileştirmeyi ve markanın mesajını etkili bir şekilde iletmeyi amaçlar."
+                },
+                {
+                    "id": 4,
+                    "thumb": "/images/others/process-4.png",
+                    "subtitle": "Adım Dört",
+                    "title": "Geliştirme",
+                    "paragraph": "Tasarım aşamasında oluşturulan planlar doğrultusunda, websitenin kodlaması gerçekleştirilir. Frontend ve backend geliştirme süreçleriyle, tasarlanan websitenin işlevselliği sağlanır. Bu aşamada, websitenin mobil uyumluluğu, hızı ve güvenliği gibi teknik unsurlar da dikkate alınır. Geliştirme süreci, websitenin kullanılabilirliğini ve performansını artırmayı hedefler."
+                }
+            ]
+        }
+    },
+    {
         "image": "/images/icon/icon-3.png",
         "title": "Dijital Reklamlar",
         "url": "dijital-reklamlar",
@@ -278,46 +317,6 @@
         "url": "icerik-uretimi",
         "description": "Yaratıcı yaklaşımlarla özgün içerikler üreterek, markanızın hikayesini en etkili şekilde anlatmanıza ve hedef kitlenizi etkilemenize yardımcı oluyoruz.",
         "cate": "Content",
-        "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
-            "steps": [
-                {
-                    "thumb": "/images/others/process-1.png",
-                    "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-2.png",
-                    "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-3.png",
-                    "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "id": 4,
-                    "thumb": "/images/others/process-4.png",
-                    "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                }
-            ]
-        }
-    },
-
-    {
-        "image": "/images/icon/icon-27.png",
-        "title": "Website Tasarımı",
-        "url": "website-tasarimi",
-        "description": "Modern tasarım trendlerini ve kullanıcı deneyimi prensiplerini birleştirerek, etkileyici ve işlevsel web siteleri tasarlayarak markanızın çevrimiçi varlığını güçlendiriyoruz.",
-        "cate": "Design",
         "process": {
             "sectionSub": "Process",
             "sectionTitle": "Our logo design process",

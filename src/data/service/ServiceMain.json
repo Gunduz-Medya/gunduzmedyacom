@@ -234,6 +234,45 @@
         }
     },
     {
+        "image": "/images/icon/icon-4.png",
+        "title": "Grafik Tasarım",
+        "url": "grafik-tasarim",
+        "description": "Estetik açıdan çarpıcı ve işlevsel grafik tasarımlarla markanızın görsel kimliğini güçlendirerek etkileyici bir iz bırakmanızı sağlıyoruz.",
+        "cate": "Design",
+        "process": {
+            "sectionSub": "Süreçlerimiz",
+            "sectionTitle": "Grafik Tasarım",
+            "para": "Grafik tasarım süreçleri, görsel iletişim araçlarıyla marka kimliğinin güçlendirilmesini sağlayarak etkili bir marka algısı oluşturur.",
+            "steps": [
+                {
+                    "thumb": "/images/others/process-1.png",
+                    "subtitle": "Adım Bir",
+                    "title": "Sektör Analizi",
+                    "paragraph": "Grafik tasarım sürecinin ilk adımı, müşterinin ihtiyaçlarını ve işletmenin hedeflerini anlamak için sektör analizi yapmaktır. Bu aşamada, müşterinin hedef kitlesi, rakiplerinin grafik tasarım stratejileri ve sektördeki genel trendler incelenir. Sektör analizi, grafik tasarımın hedeflenen mesajı ve marka kimliğini etkili bir şekilde iletmesini sağlar."
+                },
+                {
+                    "thumb": "/images/others/process-2.png",
+                    "subtitle": "Adım İki",
+                    "title": "Trendler",
+                    "paragraph": "Sektör analizi sonrasında, güncel grafik tasarım trendleri ve müşteri beklentileri göz önünde bulundurulur. Bu aşamada, renk paletleri, tipografi stilleri, görsel unsurlar ve kullanıcı deneyimi trendleri incelenir. Trendler, grafik tasarımın modern ve ilgi çekici bir görünüme sahip olmasını sağlar."
+                },
+                {
+                    "thumb": "/images/others/process-3.png",
+                    "subtitle": "Adım Üç",
+                    "title": "Tasarım",
+                    "paragraph": "Trendler ve sektör analizinin ışığında, grafik tasarımın oluşturulmasına geçilir. Bu aşamada, müşterinin istekleri ve ihtiyaçları doğrultusunda, logolar, broşürler, web siteleri veya diğer görsel iletişim araçları için tasarımlar oluşturulur. Tasarım aşaması, grafik öğelerin yerleşimi, renk seçimi, tipografi ve görsel uyum gibi unsurların dikkatlice planlandığı kritik bir süreçtir."
+                },
+                {
+                    "id": 4,
+                    "thumb": "/images/others/process-4.png",
+                    "subtitle": "Adım Dört",
+                    "title": "Test",
+                    "paragraph": "Tasarım aşamasında oluşturulan grafik tasarımlar, hedef kitle tarafından değerlendirilir ve test edilir. Bu aşamada, odak grupları veya anketler aracılığıyla geri bildirim toplanır ve tasarımların etkiliği değerlendirilir. Testler, grafik tasarımın hedeflenen amaca uygun olup olmadığını belirlemek ve gerekirse iyileştirmeler yapmak için önemlidir."
+                }
+            ]
+        }
+    },
+    {
         "image": "/images/icon/icon-3.png",
         "title": "Dijital Reklamlar",
         "url": "dijital-reklamlar",
@@ -389,45 +428,7 @@
             ]
         }
     },
-    {
-        "image": "/images/icon/icon-4.png",
-        "title": "Grafik Tasarım",
-        "url": "grafik-tasarim",
-        "description": "Estetik açıdan çarpıcı ve işlevsel grafik tasarımlarla markanızın görsel kimliğini güçlendirerek etkileyici bir iz bırakmanızı sağlıyoruz.",
-        "cate": "Design",
-        "process": {
-            "sectionSub": "Process",
-            "sectionTitle": "Our logo design process",
-            "para": "Our comprehensive logo design strategy ensures a perfectly crafted logo for your business.",
-            "steps": [
-                {
-                    "thumb": "/images/others/process-1.png",
-                    "subtitle": "Adım Bir",
-                    "title": "Discover",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-2.png",
-                    "subtitle": "Adım İki",
-                    "title": "Prototype",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "thumb": "/images/others/process-3.png",
-                    "subtitle": "Adım Üç",
-                    "title": "Test",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                },
-                {
-                    "id": 4,
-                    "thumb": "/images/others/process-4.png",
-                    "subtitle": "Adım Dört",
-                    "title": "Build",
-                    "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
-                }
-            ]
-        }
-    },
+    
     {
         "image": "/images/icon/icon-30.png",
         "title": "Video Üretimi",

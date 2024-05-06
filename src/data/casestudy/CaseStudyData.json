@@ -8,7 +8,51 @@
         "count_visit": "30",
         "excerpt": "Farklı konularda içerik üretimi sağlayan, bağımlılık yaratacak ve saatlerce ekran başından kaldırmayacak birbirinden özel sayfalar... Başka hiçbir sosyal medya sayfasına ya da kanalına ihtiyacınız kalmayacak.",
         "details": "<p>From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.</p> <p>Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart.<p/>",
-        "solution": "<p>From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.</p> <p>Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart. together for the first time. We provide elegant solutions.</p>"
+        "solution": "<p>From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.</p> <p>Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart. together for the first time. We provide elegant solutions.</p>",
+        "subProjects": [
+            {
+                "id": 1,
+                "title": "Movie Part X",
+                "details": "Lorem ipsum",
+                "thumb": "/images/others/process-1.png"
+            },
+            {
+                "id": 2,
+                "title": "Motivation Part X",
+                "details": "Lorem ipsum",
+                "thumb": "/images/others/process-1.png"
+            },
+            {
+                "id": 3,
+                "title": "Sports Part X",
+                "details": "Lorem ipsum",
+                "thumb": "/images/others/process-1.png"
+            },
+            {
+                "id": 4,
+                "title": "History Part X",
+                "details": "Lorem ipsum",
+                "thumb": "/images/others/process-1.png"
+            },
+            {
+                "id": 5,
+                "title": "Nature Part X",
+                "details": "Lorem ipsum",
+                "thumb": "/images/others/process-1.png"
+            },
+            {
+                "id": 6,
+                "title": "Architecture Part X",
+                "details": "Lorem ipsum",
+                "thumb": "/images/others/process-1.png"
+            },
+            {
+                "id": 7,
+                "title": "Food Part X",
+                "details": "Lorem ipsum",
+                "thumb": "/images/others/process-1.png"
+            }
+        ]
     },
     {
         "id": 2,

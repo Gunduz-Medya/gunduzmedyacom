@@ -1,19 +1,16 @@
+import FsLightbox from 'fslightbox-react';
 import React, { useState } from 'react';
-import { useParams } from 'react-router-dom';
+import { FaInstagram, FaPlay, FaSpotify, FaTiktok, FaYoutube } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
+import { Link, useParams } from 'react-router-dom';
+import Tilty from 'react-tilty';
+import SEO from '../common/SEO';
 import FooterOne from '../common/footer/FooterOne';
 import HeaderOne from '../common/header/HeaderOne';
-import SEO from '../common/SEO';
-import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import CaseStudyData from '../data/casestudy/CaseStudyData.json';
 import BcrumbBannerTwo from '../elements/breadcrumb/BcrumbBannerTwo';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
-import SectionTitle from '../elements/section-title/SectionTitle';
 import { slugify } from '../utils';
-import { FaPlay } from "react-icons/fa";
-import ProcessOne from '../component/process/ProcessOne';
-import CounterUp from '../component/counterup/CounterUp';
-import FsLightbox from 'fslightbox-react';
-import Tilty from 'react-tilty';
 
 const allCaseData = CaseStudyData;
 
@@ -25,8 +22,10 @@ const CaseDetails = () => {
 
     const getCaseData = allCaseData.filter(data => slugify(data.title) === caseSlug);
     const detailsCase = getCaseData[0];
-    
+
     const [toggler, setToggler] = useState(false);
+
+    console.log(detailsCase.subProjects)
 
     return (
         <>
@@ -34,31 +33,68 @@ const CaseDetails = () => {
             <ColorSwitcher />
             <main className="main-wrapper">
                 <HeaderOne />
-                <BcrumbBannerTwo 
+                <BcrumbBannerTwo
                     title={detailsCase.title}
-                    paragraph ={detailsCase.excerpt}
+                    paragraph={detailsCase.excerpt}
                     mainThumb={detailsCase.thumb}
                 />
 
                 <div className="section-padding case-study-brief bg-color-mercury">
                     <div className="container">
-                        <div className="row align-items-xl-center">
-                        <div className="col-lg-6">
+                        {detailsCase.subProjects.map((data) => (
+                            <div key={data.id} className={`process-work ${(data.id % 2 === 0) ? "content-reverse" : ""}`}>
+                                <div className="col-lg-6">
+                                    <div className="case-study-featured-thumb">
+                                        <Tilty perspective={2000}>
+                                            <img src={process.env.PUBLIC_URL + data.thumb} alt="Case Study" />
+                                        </Tilty>
+                                    </div>
+                                </div>
+                                <div className="col-xl-5 col-lg-6 offset-xl-1">
+                                    <div className="case-study-featured">
+                                        <div className="section-heading heading-left">
+                                            <h2 className="title">{data.title}</h2>
+                                            <div dangerouslySetInnerHTML={{ __html: detailsCase.details }}></div>
+                                            <div className="footer-social-link">
+                                                <ul className="list-unstyled">
+                                                    <li><Link to="https://www.instagram.com/moviepartx"><FaInstagram /></Link></li>
+                                                    <li><Link to="https://x.com/moviepartx_"><FaXTwitter /></Link></li>
+                                                    <li><Link to="https://www.youtube.com/@moviepartx"><FaYoutube /></Link></li>
+                                                    <li><Link to="https://www.youtube.com/@moviepartx"><FaSpotify /></Link></li>
+                                                    <li><Link to="https://www.youtube.com/@moviepartx"><FaTiktok /></Link></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        ))}
+                        {/* <div className="row align-items-xl-center">
+                            <div className="col-lg-6">
                                 <div className="case-study-featured-thumb">
-                                <Tilty perspective={2000}>
-                                    <img src={process.env.PUBLIC_URL + detailsCase.thumb} alt="Case Study" />
-                                </Tilty>
+                                    <Tilty perspective={2000}>
+                                        <img src={process.env.PUBLIC_URL + detailsCase.thumb} alt="Case Study" />
+                                    </Tilty>
                                 </div>
                             </div>
                             <div className="col-xl-5 col-lg-6 offset-xl-1">
                                 <div className="case-study-featured">
                                     <div className="section-heading heading-left">
-                                        <h2 className="title">{detailsCase.title}</h2>
-                                        <div dangerouslySetInnerHTML={{__html: detailsCase.details}}></div>
+                                        <h2 className="title">{detailsCase.subProjects.title}</h2>
+                                        <div dangerouslySetInnerHTML={{ __html: detailsCase.details }}></div>
+                                        <div className="footer-social-link">
+                                            <ul className="list-unstyled">
+                                                <li><Link to="https://www.instagram.com/moviepartx"><FaInstagram /></Link></li>
+                                                <li><Link to="https://x.com/moviepartx_"><FaXTwitter /></Link></li>
+                                                <li><Link to="https://www.youtube.com/@moviepartx"><FaYoutube /></Link></li>
+                                                <li><Link to="https://www.youtube.com/@moviepartx"><FaSpotify /></Link></li>
+                                                <li><Link to="https://www.youtube.com/@moviepartx"><FaTiktok /></Link></li>
+                                            </ul>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
 
@@ -68,15 +104,15 @@ const CaseDetails = () => {
                             <div className="col-lg-8 offset-lg-2">
                                 <div className="section-heading heading-left">
                                     <h2 className="title">Solutions</h2>
-                                    <div dangerouslySetInnerHTML={{__html: detailsCase.solution}}></div>
+                                    <div dangerouslySetInnerHTML={{ __html: detailsCase.solution }}></div>
                                 </div>
                                 <div className="about-expert">
                                     <div className="thumbnail">
                                         <img src={process.env.PUBLIC_URL + "/images/about/about-1.png"} alt="Thumbnail" />
                                         <div className="popup-video">
-                                            <button className="play-btn" onClick={ () => setToggler(!toggler) }><FaPlay /></button>
+                                            <button className="play-btn" onClick={() => setToggler(!toggler)}><FaPlay /></button>
                                         </div>
-                                        <FsLightbox toggler={ toggler } sources={ ['https://www.youtube.com/watch?v=1iIZeIy7TqM'] }/>
+                                        <FsLightbox toggler={toggler} sources={['https://www.youtube.com/watch?v=1iIZeIy7TqM']} />
                                     </div>
                                 </div>
                             </div>
@@ -87,24 +123,7 @@ const CaseDetails = () => {
                         <li className="shape shape-3"><img src={process.env.PUBLIC_URL + "/images/others/bubble-1.png"} alt="Line" /></li>
                     </ul>
                 </div>
-
-                <ProcessOne />
-                <div className="section section-padding">
-                    <div className="container">
-                    <SectionTitle 
-                        subtitle=""
-                        title="Work We Finished"
-                        description="In vel varius turpis, non dictum sem. Aenean in efficitur ipsum, in egestas ipsum. Mauris in mi ac tellus."
-                        textAlignment=""
-                        textColor=""
-                    />
-                    <div className="row">
-                        <CounterUp colSize="col-lg-3 col-sm-6" layoutStyle="counterup-style-2" evenTopMargin="mt--90 mt_md--0" />
-                    </div>
-                    </div>
-                </div>
-                <CtaLayoutOne />
-            <FooterOne parentClass="" />
+                <FooterOne parentClass="" />
             </main>
         </>
     )

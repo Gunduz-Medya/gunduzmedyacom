@@ -14,43 +14,92 @@
                 "id": 1,
                 "title": "Movie Part X",
                 "details": "Lorem ipsum",
-                "thumb": "/images/others/process-1.png"
+                "thumb": "/images/others/process-1.png",
+                "socials": {
+                    "instagram": "//www.instagram.com/moviepartx",
+                    "x": "//x.com/moviepartx_",
+                    "youtube": "//www.youtube.com/@moviepartx",
+                    "spotify": "//open.spotify.com/user/31quvbj3zebtrwa7mn7xeyu45l3e",
+                    "tiktok": "//www.tiktok.com/@moviepartx"
+                }
             },
             {
                 "id": 2,
                 "title": "Motivation Part X",
                 "details": "Lorem ipsum",
-                "thumb": "/images/others/process-1.png"
+                "thumb": "/images/others/process-1.png",
+                "socials": {
+                    "instagram": "https://www.instagram.com/moviepartx",
+                    "x": "",
+                    "youtube": "",
+                    "spotify": "",
+                    "tiktok": ""
+                }
             },
             {
                 "id": 3,
                 "title": "Sports Part X",
                 "details": "Lorem ipsum",
-                "thumb": "/images/others/process-1.png"
+                "thumb": "/images/others/process-1.png",
+                "socials": {
+                    "instagram": "https://www.instagram.com/moviepartx",
+                    "x": "",
+                    "youtube": "",
+                    "spotify": "",
+                    "tiktok": ""
+                }
             },
             {
                 "id": 4,
                 "title": "History Part X",
                 "details": "Lorem ipsum",
-                "thumb": "/images/others/process-1.png"
+                "thumb": "/images/others/process-1.png",
+                "socials": {
+                    "instagram": "https://www.instagram.com/moviepartx",
+                    "x": "",
+                    "youtube": "",
+                    "spotify": "",
+                    "tiktok": ""
+                }
             },
             {
                 "id": 5,
                 "title": "Nature Part X",
                 "details": "Lorem ipsum",
-                "thumb": "/images/others/process-1.png"
+                "thumb": "/images/others/process-1.png",
+                "socials": {
+                    "instagram": "https://www.instagram.com/moviepartx",
+                    "x": "",
+                    "youtube": "",
+                    "spotify": "",
+                    "tiktok": ""
+                }
             },
             {
                 "id": 6,
                 "title": "Architecture Part X",
                 "details": "Lorem ipsum",
-                "thumb": "/images/others/process-1.png"
+                "thumb": "/images/others/process-1.png",
+                "socials": {
+                    "instagram": "https://www.instagram.com/moviepartx",
+                    "x": "",
+                    "youtube": "",
+                    "spotify": "",
+                    "tiktok": ""
+                }
             },
             {
                 "id": 7,
                 "title": "Food Part X",
                 "details": "Lorem ipsum",
-                "thumb": "/images/others/process-1.png"
+                "thumb": "/images/others/process-1.png",
+                "socials": {
+                    "instagram": "https://www.instagram.com/moviepartx",
+                    "x": "",
+                    "youtube": "",
+                    "spotify": "",
+                    "tiktok": ""
+                }
             }
         ]
     },

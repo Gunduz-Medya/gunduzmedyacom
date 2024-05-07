@@ -25,8 +25,6 @@ const CaseDetails = () => {
 
     const [toggler, setToggler] = useState(false);
 
-    console.log(detailsCase.subProjects)
-
     return (
         <>
             <SEO title={detailsCase.title} />
@@ -41,7 +39,7 @@ const CaseDetails = () => {
 
                 <div className="section-padding case-study-brief bg-color-mercury">
                     <div className="container">
-                        {detailsCase.subProjects.map((data) => (
+                        {detailsCase.subProjects ? detailsCase.subProjects.map((data) => (
                             <div key={data.id} className={`process-work ${(data.id % 2 === 0) ? "content-reverse" : ""}`}>
                                 <div className="col-lg-6">
                                     <div className="case-study-featured-thumb">
@@ -57,18 +55,22 @@ const CaseDetails = () => {
                                             <div dangerouslySetInnerHTML={{ __html: detailsCase.details }}></div>
                                             <div className="footer-social-link">
                                                 <ul className="list-unstyled">
-                                                    <li><Link to="https://www.instagram.com/moviepartx"><FaInstagram /></Link></li>
-                                                    <li><Link to="https://x.com/moviepartx_"><FaXTwitter /></Link></li>
-                                                    <li><Link to="https://www.youtube.com/@moviepartx"><FaYoutube /></Link></li>
-                                                    <li><Link to="https://www.youtube.com/@moviepartx"><FaSpotify /></Link></li>
-                                                    <li><Link to="https://www.youtube.com/@moviepartx"><FaTiktok /></Link></li>
+                                                    <li><Link to={data.socials.instagram}><FaInstagram /></Link></li>
+                                                    <li><Link to={data.socials.x}><FaXTwitter /></Link></li>
+                                                    <li><Link to={data.socials.youtube}><FaYoutube /></Link></li>
+                                                    <li><Link to={data.socials.spotify}><FaSpotify /></Link></li>
+                                                    <li><Link to={data.socials.tiktok}><FaTiktok /></Link></li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        ))}
+                        )) : (
+                            <div>
+                                Hazırlanıyor...
+                            </div>
+                        )}
                         {/* <div className="row align-items-xl-center">
                             <div className="col-lg-6">
                                 <div className="case-study-featured-thumb">

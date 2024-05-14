@@ -10,7 +10,7 @@ const AboutFive = () => {
                 <div className="col-lg-7">
                     <div className="about-team">
                     <div className="thumbnail">
-                        <img src={process.env.PUBLIC_URL + "/images/about/about-2.png"} alt="thumbnail" />
+                        <img src={process.env.PUBLIC_URL + "/images/hakkimizda/ileri-teknoloji-cozumlerimiz.jpg"} alt="thumbnail" />
                     </div>
                     </div>
                 </div>

@@ -11,7 +11,7 @@ const AboutFour = () => {
                 <div className="row">
                     <div className="col-xl-7 col-lg-6">
                         <div className="case-study-featured-thumb text-start">
-                            <img src={process.env.PUBLIC_URL + "/images/others/case-study-4.png"} alt="travel" />
+                            <img src={process.env.PUBLIC_URL + "/images/hakkimizda/dunya-standartlarinda-urun-gelistirme.jpg"} alt="travel" />
                         </div>
                     </div>
                     <div className="col-xl-5 col-lg-6">
@@ -23,7 +23,7 @@ const AboutFour = () => {
                                 <p>Profesyonel ekibimizle, müşterilerimizin başarılarına katkıda bulunmayı amaçlarız.</p>
                                 <Link to={process.env.PUBLIC_URL + "/hizmetler"} className="axil-btn btn-fill-primary btn-large">Hizmetler</Link>
                             </div>
-                            <div className="case-study-counterup">
+                            {/* <div className="case-study-counterup">
                                 <div className="single-counterup">
                                     <h2 className="count-number">
                                         <TrackVisibility once>
@@ -50,7 +50,7 @@ const AboutFour = () => {
                                     </h2>
                                     <span className="counter-title">Teslim edilen proje sayısı</span>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

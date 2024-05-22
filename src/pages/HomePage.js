@@ -12,7 +12,7 @@ import ServicePropOne from '../component/service/ServicePropOne';
 import SectionTitle from '../elements/section-title/SectionTitle';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 
-const DigitalAgency = () => {
+const HomePage = () => {
 
     return (
         <>
@@ -70,5 +70,5 @@ const DigitalAgency = () => {
     )
 }
 
-export default DigitalAgency;
+export default HomePage;
 

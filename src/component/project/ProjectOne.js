@@ -11,11 +11,15 @@ const filters = [
     },
     {
 		id: 2,
-		label: "Web Tasarım",
+		label: "İnternet Sitesi",
     },
     {
 		id: 3,
-		label: "Mobil Uygulama",
+		label: "Danışmanlık",
+    },
+    {
+		id: 4,
+		label: "Kurumsal Kimlik",
     }
 ];
 

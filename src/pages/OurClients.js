@@ -1,6 +1,6 @@
 import React from 'react';
 import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import Header from '../common/header/Header';
 import SEO from '../common/SEO';
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
@@ -14,7 +14,7 @@ const OurClients = () => {
         <SEO title="Our Clients" />
         <ColorSwitcher />
             <main className="main-wrapper">
-                <HeaderOne />
+                <Header />
                 <BcrumbBannerOne 
                 title="Our Clients"
                 paragraph ="We work closely with our clients in order to deliver the best results"

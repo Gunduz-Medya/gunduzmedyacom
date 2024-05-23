@@ -6,7 +6,7 @@ import { Link, useParams } from 'react-router-dom';
 import Tilty from 'react-tilty';
 import SEO from '../common/SEO';
 import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import Header from '../common/header/Header';
 import CaseStudyData from '../data/casestudy/CaseStudyData.json';
 import BcrumbBannerTwo from '../elements/breadcrumb/BcrumbBannerTwo';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
@@ -30,7 +30,7 @@ const CaseDetails = () => {
             <SEO title={detailsCase.title} />
             <ColorSwitcher />
             <main className="main-wrapper">
-                <HeaderOne />
+                <Header />
                 <BcrumbBannerTwo
                     title={detailsCase.title}
                     paragraph={detailsCase.excerpt}

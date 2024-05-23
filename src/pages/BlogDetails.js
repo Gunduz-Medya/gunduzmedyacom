@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useParams } from 'react-router-dom';
 import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import Header from '../common/header/Header';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import BlogData from "../data/blog/BlogData.json";
 import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
@@ -59,7 +59,7 @@ const BlogDetails = () => {
             <SEO title={detailsBlog.title} />
             <ColorSwitcher />
             <main className="main-wrapper">
-                <HeaderOne />
+                <Header />
                 <BreadCrumbOne 
                 title={detailsBlog.title}
                 page="Blog"

@@ -1,6 +1,6 @@
 import React from 'react';
 import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import Header from '../common/header/Header';
 import SEO from '../common/SEO';
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
@@ -15,7 +15,7 @@ const CaseStudy = () => {
         <SEO title="Case Study" />
         <ColorSwitcher />
             <main className="main-wrapper">
-                <HeaderOne />
+                <Header />
                 <BcrumbBannerOne 
                 title="Projelerimiz"
                 paragraph ="İnternette olmaktan keyif aldığımız her an, üretmekten keyif aldığımız projeler geliştiriyoruz."

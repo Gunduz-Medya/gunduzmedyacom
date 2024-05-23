@@ -2,7 +2,7 @@ import React from 'react';
 import SEO from '../common/SEO';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import Header from '../common/header/Header';
 import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
 import FormTwo from '../component/contact/FormTwo';
 import SectionTitle from '../elements/section-title/SectionTitle';
@@ -16,7 +16,7 @@ const Contact = () => {
             <SEO title="İletişim" />
             <ColorSwitcher />
             <main className="main-wrapper">
-                <HeaderOne />
+                <Header />
                 <BreadCrumbOne 
                 title="İletişim"
                 page="İletişim"

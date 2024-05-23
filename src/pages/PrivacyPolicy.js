@@ -1,6 +1,6 @@
 import React from 'react';
 import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import Header from '../common/header/Header';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
@@ -14,7 +14,7 @@ const PrivacyPolicy = () => {
             <SEO title="Privacy Policy" />
             <ColorSwitcher />
             <main className="main-wrapper">
-                <HeaderOne />
+                <Header />
                 <BreadCrumbOne
                     title="Gizlilik Politikası"
                     page="Gizlilik Politikası"

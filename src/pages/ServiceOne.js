@@ -1,6 +1,6 @@
 import React from 'react';
 import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import Header from '../common/header/Header';
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 import SEO from '../common/SEO';
@@ -29,7 +29,7 @@ const ServiceOne = () => {
             <SEO title="Hizmetler" />
             <ColorSwitcher />
             <main className="main-wrapper">
-                <HeaderOne />
+                <Header />
                 <BcrumbBannerOne
                     title="Global ürünler tasarlıyor ve geliştiriyoruz"
                     paragraph="Yüzlerce ürün ve 10 yıllık tecrübeyle, tam döngülü yazılım geliştirme hizmetleri sunuyoruz."

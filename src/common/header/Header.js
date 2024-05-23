@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
 import Logo from '../../elements/logo/Logo';
+import Nav from './Nav';
 import OffcanvasMenu from './OffcanvasMenu';
 import StickyHeader from './StickyHeader';
-import { FaFacebookF, FaLinkedin, FaBehance } from "react-icons/fa";
-import { FaXTwitter } from "react-icons/fa6";
 import SwitcherHeader from '../../elements/switcher/SwitcherHeader';
+import MobileMenu from './MobileMenu';
 
 
-const HeaderThree = () => {
+const Header = () => {
 
     const [showOffcanvas, setShowOffcanvas] = useState(false);
 
@@ -16,31 +16,49 @@ const HeaderThree = () => {
 
     const sticky = StickyHeader(100);
 
+    const MobileMenuHandler = () => {
+        document.querySelector('.mobilemenu-popup').classList.toggle("show");
+        document.querySelector('body').classList.toggle("mobilemenu-show");
+
+        var elements = document.querySelectorAll('.mobilemenu-popup .menu-item-has-children > a');
+
+        for (var i in elements) {
+            if (elements.hasOwnProperty(i)) {
+                elements[i].onclick = function () {
+                    this.parentElement.querySelector('.axil-submenu').classList.toggle("active");
+                    this.classList.toggle("open");
+                }
+            }
+        }
+    }
+
+
     return (
         <>
-            <header className="header axil-header header-style-3">
+            <header className="header axil-header header-style-1">
                 <div className={`axil-mainmenu ${sticky ? "axil-sticky" : ""}`}>
                     <div className="container">
                         <div className="header-navbar">
                             <div className="header-logo">
-                                <Logo limage="/images/logo.svg"
-                                dimage="/images/logo-3.svg"
-                                simage="/images/logo-2.svg"
+                                <Logo limage="/images/gunduzmedya-logo.png"
+                                    dimage="/images/gunduzmedya-logo-dark.png"
+                                    simage="/images/gunduzmedya-logo.png"
                                 />
+                            </div>
+                            <div className="header-main-nav">
+                                <Nav />
                             </div>
                             <div className="header-action">
                                 <ul className="list-unstyled">
-                                    <li className="header-social-link">
-                                        <ul className="social-icon-list list-unstyled">
-                                            <li><a href="https://facebook.com/"><FaFacebookF /></a></li>
-                                            <li><a href="https://twitter.com/"><FaXTwitter /></a></li>
-                                            <li><a href="https://www.linkedin.com/"><FaLinkedin /></a></li>
-                                            <li><a href="https://www.behance.net/"><FaBehance /></a></li>
-                                        </ul>
-                                    </li>
-
-                                    <li className="sidemenu-btn">
+                                    <li className="sidemenu-btn d-lg-block d-none">
                                         <button className="btn-wrap" onClick={OffcanvasHandleShow}>
+                                            <span></span>
+                                            <span></span>
+                                            <span></span>
+                                        </button>
+                                    </li>
+                                    <li className="mobile-menu-btn sidemenu-btn d-lg-none d-block">
+                                        <button className="btn-wrap" onClick={MobileMenuHandler}>
                                             <span></span>
                                             <span></span>
                                             <span></span>
@@ -56,8 +74,9 @@ const HeaderThree = () => {
                 </div>
             </header>
             <OffcanvasMenu offcanvasShow={showOffcanvas} offcanvasHide={OffcanvasHandleClose} />
+            <MobileMenu MobileHandler={MobileMenuHandler} />
         </>
     )
 }
 
-export default HeaderThree;
+export default Header;

@@ -1,7 +1,7 @@
 import React from 'react';
 import {useParams} from 'react-router-dom';
 import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import Header from '../common/header/Header';
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import SectionTitle from '../elements/section-title/SectionTitle';
@@ -30,7 +30,7 @@ const ServiceDetails = () => {
         <SEO title={detailsService.title} />
         <ColorSwitcher />
         <main className="main-wrapper">
-            <HeaderOne />
+            <Header />
             <BcrumbBannerOne 
             title={detailsService.title}
             paragraph ={detailsService.description}

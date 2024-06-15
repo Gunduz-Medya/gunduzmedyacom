@@ -1,7 +1,7 @@
 /*-------------------------
    Header Styles
 -------------------------*/
-.axil-header {
+.gm-header {
     position: absolute;
     width: 100%;
     left: 0;
@@ -41,8 +41,8 @@
         }
     }
     &.header-style-1 {
-        .axil-mainmenu {
-            &.axil-sticky {
+        .gm-mainmenu {
+            &.gm-sticky {
                  .header-navbar {
                     .header-logo {
                         .light-version-logo {
@@ -57,7 +57,7 @@
         }
     } 
     &.header-style-2 {
-        .axil-mainmenu {
+        .gm-mainmenu {
             padding: 50px 80px;
             @media #{$laptop-device} {
                 padding: 35px 15px;
@@ -68,7 +68,7 @@
             @media #{$large-mobile} {
                 padding: 30px 0;
             }
-            &.axil-sticky {
+            &.gm-sticky {
                 padding: 15px 80px;
                 @media #{$laptop-device} {
                     padding: 15px;
@@ -86,8 +86,8 @@
         }
     }
     &.header-style-3 {
-        .axil-mainmenu {
-            &.axil-sticky {
+        .gm-mainmenu {
+            &.gm-sticky {
                  .header-navbar {
                     .header-logo {
                         .light-version-logo {
@@ -125,7 +125,7 @@
             }
             .mainmenu {
                 .menu-item-has-children {
-                    .axil-submenu {
+                    .gm-submenu {
                         background-color: var(--color-dark);
                         li {
                             a {
@@ -159,8 +159,8 @@
             }
         }
         
-        .axil-mainmenu {
-            &.axil-sticky {
+        .gm-mainmenu {
+            &.gm-sticky {
                 background-color: var(--color-dark);
             }
         }
@@ -194,7 +194,7 @@
 }
 
 
-.axil-mainmenu {
+.gm-mainmenu {
     padding: 50px 0;
     transition: var(--transition);
     @media #{$laptop-device} {
@@ -203,7 +203,7 @@
     @media #{$smlg-device} {
         padding: 30px 0;
     }
-    &.axil-sticky {
+    &.gm-sticky {
         position: fixed;
         top: 0;
         right: 0;
@@ -298,7 +298,7 @@
                 font-size: 14px;
             }
         }
-        .axil-submenu {
+        .gm-submenu {
             position: absolute;
             top: 100%;
             left: 20px;
@@ -355,7 +355,7 @@
             }
         }
         &:hover {
-            .axil-submenu {
+            .gm-submenu {
                 opacity: 1;
                 visibility: visible;
                 z-index: 9;
@@ -813,8 +813,8 @@
         }
     }
    
-    .axil-mainmenu {
-        &.axil-sticky {
+    .gm-mainmenu {
+        &.gm-sticky {
             animation: none;
         }
     }
@@ -837,7 +837,7 @@
                 }
             }
             .menu-item-has-children {
-                .axil-submenu {
+                .gm-submenu {
                     display: none;
                     position: initial;
                     visibility: visible;
@@ -861,7 +861,7 @@
                     }
                 }
                 &.menu-item-open {
-                    .axil-submenu {
+                    .gm-submenu {
                         display: block;
                     }
                 }

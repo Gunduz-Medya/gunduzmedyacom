@@ -19,7 +19,7 @@ const filters = [
     },
     {
 		id: 4,
-		label: "Kurumsal Kimlik",
+		label: "Yazılım Projesi",
     }
 ];
 

@@ -1,11 +1,10 @@
 import React, { useState } from 'react';
 import Logo from '../../elements/logo/Logo';
+import SwitcherHeader from '../../elements/switcher/SwitcherHeader';
+import MobileMenu from './MobileMenu';
 import Nav from './Nav';
 import OffcanvasMenu from './OffcanvasMenu';
 import StickyHeader from './StickyHeader';
-import SwitcherHeader from '../../elements/switcher/SwitcherHeader';
-import MobileMenu from './MobileMenu';
-
 
 const Header = () => {
 
@@ -25,18 +24,17 @@ const Header = () => {
         for (var i in elements) {
             if (elements.hasOwnProperty(i)) {
                 elements[i].onclick = function () {
-                    this.parentElement.querySelector('.axil-submenu').classList.toggle("active");
+                    this.parentElement.querySelector('.gm-submenu').classList.toggle("active");
                     this.classList.toggle("open");
                 }
             }
         }
     }
 
-
     return (
         <>
-            <header className="header axil-header header-style-1">
-                <div className={`axil-mainmenu ${sticky ? "axil-sticky" : ""}`}>
+            <header className="header gm-header header-style-1">
+                <div className={`gm-mainmenu ${sticky ? "gm-sticky" : ""}`}>
                     <div className="container">
                         <div className="header-navbar">
                             <div className="header-logo">

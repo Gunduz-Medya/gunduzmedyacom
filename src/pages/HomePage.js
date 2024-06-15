@@ -6,7 +6,6 @@ import AboutOne from '../component/about/AboutOne';
 import BannerOne from '../component/banner/BannerOne';
 import BlogOne from '../component/blog/BlogOne';
 import BrandOne from '../component/brand/BrandOne';
-import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import ProjectOne from '../component/project/ProjectOne';
 import ServicePropOne from '../component/service/ServicePropOne';
 import SectionTitle from '../elements/section-title/SectionTitle';
@@ -63,7 +62,7 @@ const HomePage = () => {
             </div> */}
                 <BrandOne />
                 <BlogOne />
-                <CtaLayoutOne />
+                {/* <CtaLayoutOne /> */}
                 <FooterOne parentClass="" />
             </main>
         </>

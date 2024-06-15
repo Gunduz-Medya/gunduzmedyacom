@@ -318,7 +318,7 @@
                     color: var(--dark-body-text);
                 }
             }
-            .axil-submenu {
+            .gm-submenu {
                 background-color: var(--dark-bg-color);
                 li {
                     a {
@@ -335,7 +335,7 @@
         }
     } 
     
-    .axil-mainmenu.axil-sticky {
+    .gm-mainmenu.gm-sticky {
         background-color: var(--dark-bg-color);
         .header-action {
             .social-icon-list {
@@ -348,7 +348,7 @@
         }
     }
 
-    .axil-header {
+    .gm-header {
         .header-navbar {
             .header-logo {
                 .light-version-logo {
@@ -360,8 +360,8 @@
             }
         }
         &.header-style-1 {
-             .axil-mainmenu {
-                &.axil-sticky {
+             .gm-mainmenu {
+                &.gm-sticky {
                      .header-navbar {
                         .header-logo {
                             .sticky-logo {
@@ -373,8 +373,8 @@
             }
         }
         &.header-style-3 {
-             .axil-mainmenu {
-                &.axil-sticky {
+             .gm-mainmenu {
+                &.gm-sticky {
                      .header-navbar {
                         .header-logo {
                             .sticky-logo {
@@ -411,7 +411,7 @@
                         }
                     }
                     .menu-item-has-children {
-                        .axil-submenu {
+                        .gm-submenu {
                             li {
                                 a {
                                     color: var(--dark-body-text);
@@ -502,7 +502,7 @@
                     border-bottom-color: var(--dark-border-gray);
                 }
                 .menu-item-has-children {
-                    .axil-submenu {
+                    .gm-submenu {
                         background-color: transparent;
                         li {
                             a {

@@ -488,7 +488,7 @@ html {
 
 .mainmenu {
     >.menu-item-has-children {
-        .axil-submenu {
+        .gm-submenu {
             li {
                 a {
                     &:after {
@@ -501,11 +501,11 @@ html {
     }
 } 
 
-.mainmenu > .menu-item-has-children .axil-submenu {
+.mainmenu > .menu-item-has-children .gm-submenu {
     left: auto;
     right: 20px;
 }
-.mainmenu > .menu-item-has-children:hover .axil-submenu {
+.mainmenu > .menu-item-has-children:hover .gm-submenu {
     right: 0;
 }
 
@@ -934,7 +934,7 @@ html {
 
 
 // Onepage 
-.onepage-template .axil-header .header-navbar .header-main-nav {
+.onepage-template .gm-header .header-navbar .header-main-nav {
     margin-right: 50px;
     margin-left: 0;
     @media only screen and (max-width: 991px) {

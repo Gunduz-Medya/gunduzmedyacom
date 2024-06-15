@@ -18,16 +18,16 @@
     {
         "id": 3,
         "image": "/images/project/project-3.png",
-        "title": "Digital Agency",
-        "category": ["Website", "UI/UX"],
+        "title": "Part X Network",
+        "category": ["İçerik Üretimi","İnternet Sitesi"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
         "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
     },
     {
         "id": 4,
         "image": "/images/project/project-4.png",
-        "title": "Plan Management",
-        "category": ["Branding", "Website", "Mobile"],
+        "title": "Data Big Bank",
+        "category": ["Yazılım Projesi"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
         "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
     },

@@ -1,14 +1,13 @@
 import React from 'react';
+import SEO from '../common/SEO';
 import FooterOne from '../common/footer/FooterOne';
 import Header from '../common/header/Header';
-import SEO from '../common/SEO';
-import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
-import CtaLayoutOne from '../component/cta/CtaLayoutOne';
-import ColorSwitcher from '../elements/switcher/ColorSwitcher';
-import ProcessOne from '../component/process/ProcessOne';
-import AboutThree from '../component/about/AboutThree';
-import AboutFour from '../component/about/AboutFour';
 import AboutFive from '../component/about/AboutFive';
+import AboutFour from '../component/about/AboutFour';
+import AboutThree from '../component/about/AboutThree';
+import ProcessOne from '../component/process/ProcessOne';
+import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
+import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 
 
 const AboutUs = () => {
@@ -27,7 +26,7 @@ const AboutUs = () => {
                 <AboutThree />
                 <AboutFive />
                 <ProcessOne />
-                <CtaLayoutOne />
+               {/*  <CtaLayoutOne /> */}
                 <FooterOne parentClass="" />
             </main>
         </>

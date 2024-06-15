@@ -8,7 +8,7 @@ const BrandOne = () => {
         <div className="section section-padding-2 bg-color-dark">
         <div className="container">
             <SectionTitle 
-                subtitle="Müşterilerimiz"
+                subtitle="İş Birliklerimiz"
                 title="Yıllardır güvenen listemiz..."
                 description="Fikirleri projelendirme süreçlerinde müşterilerimizle en uygun yapıyı kuruyoruz."
                 textAlignment="heading-light-left"

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { FaPlay } from 'react-icons/fa';
 import FsLightbox from 'fslightbox-react';
-import SectionTitle from '../../elements/section-title/SectionTitle';
+import GMSectionTitle from '../../elements/section-title/GMSectionTitle';
 
 
 const VideoTwo = () => {
@@ -12,7 +12,7 @@ const VideoTwo = () => {
         <>
             <div className="section section-padding-equal">
                 <div className="container">
-                    <SectionTitle 
+                    <GMSectionTitle 
                         subtitle="Experts in field"
                         title="Design startup <br> movement"
                         description=""

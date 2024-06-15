@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import FooterOne from '../common/footer/FooterOne';
-import Header from '../common/header/Header';
+import GMFooter from '../common/footer/GMFooter';
+import Header from '../common/header/GMHeader';
 import SEO from '../common/SEO';
 import BlogGridTwo from '../component/blog/BlogGridTwo';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
@@ -41,7 +41,7 @@ const BlogArchive = () => {
                     </div>
                 </div>
                 <CtaLayoutOne />
-            <FooterOne parentClass="" />
+            <GMFooter parentClass="" />
             </main>
         </>
     )

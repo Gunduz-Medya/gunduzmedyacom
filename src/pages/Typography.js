@@ -1,6 +1,6 @@
 import React from 'react';
-import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import GMFooter from '../common/footer/GMFooter';
+import HeaderOne from '../common/header/GMHeaderOne';
 import SEO from '../common/SEO';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
@@ -66,7 +66,7 @@ const Typography = () => {
                     </div>
                 </div>
                 <CtaLayoutOne />
-                <FooterOne parentClass="" />
+                <GMFooter parentClass="" />
             </main>
         </>
     )

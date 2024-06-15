@@ -1,13 +1,13 @@
 import React from 'react';
-import SectionTitle from '../../elements/section-title/SectionTitle';
-import BlogListOne from '../../component/blog/BlogListOne';
+import GMSectionTitle from '../../elements/section-title/GMSectionTitle';
+import BlogListOne from './BlogListOne';
 
 
-const BlogOne = () => {
+const GMBlog = () => {
     return (
         <div className="section section-padding-equal">
             <div className="container">
-                <SectionTitle 
+                <GMSectionTitle 
                     subtitle="Neler Oluyor?"
                     title="Faydalı İçerikler"
                     description="Daha fazla bilgi edinmek için zengin ve faydalı içeriklerle dolu blog yazılarımıza göz atın."
@@ -28,4 +28,4 @@ const BlogOne = () => {
     )
 }
 
-export default BlogOne;
+export default GMBlog;

@@ -1,6 +1,6 @@
 import React from 'react';
-import FooterOne from '../common/footer/FooterOne';
-import HeaderTwo from '../common/header/HeaderTwo';
+import GMFooter from '../common/footer/GMFooter';
+import HeaderTwo from '../common/header/GMHeaderTwo';
 import SEO from '../common/SEO';
 import BannerTwo from '../component/banner/BannerTwo';
 import BlogOne from '../component/blog/BlogOne';
@@ -25,7 +25,7 @@ const CreativeAgency = () => {
             <BannerTwo />
             <div className="section section-padding">
                 <div className="container">
-                <SectionTitle 
+                <GMSectionTitle 
                     subtitle="What We Can Do For You"
                     title="Services we can <br> help you with"
                     description=""
@@ -49,7 +49,7 @@ const CreativeAgency = () => {
             <BrandOne />
             <BlogOne />
             <CtaLayoutOne />
-            <FooterOne parentClass="" />
+            <GMFooter parentClass="" />
         </main>
         </>
     )

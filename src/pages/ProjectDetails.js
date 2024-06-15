@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link, useParams} from 'react-router-dom';
-import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import GMFooter from '../common/footer/GMFooter';
+import HeaderOne from '../common/header/GMHeaderOne';
 import BcrumbBannerTwo from '../elements/breadcrumb/BcrumbBannerTwo';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import { slugify } from '../utils';
@@ -85,7 +85,7 @@ const ProjectDetails = () => {
             </section>
             <VideoOne />
             <CtaLayoutOne />
-        <FooterOne parentClass="" />
+        <GMFooter parentClass="" />
         </main>
         </>
     )

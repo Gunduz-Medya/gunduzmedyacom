@@ -4,7 +4,7 @@ import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import ScrollToTop from './component/scrollToTop/ScrollToTop';
 
 // HomePage
-import HomePage from './pages/HomePage';
+import GMHomePage from './pages/GMHomePage';
 
 // Blog Import
 import BlogArchive from './pages/Archive';
@@ -36,7 +36,7 @@ const App = () => {
 		<Router>
 			<ScrollToTop>
 				<Routes>
-					<Route path={process.env.PUBLIC_URL + "/"} element={<HomePage />} />
+					<Route path={process.env.PUBLIC_URL + "/"} element={<GMHomePage />} />
 
 					{/* Pages  */}
 					<Route path={process.env.PUBLIC_URL + "/hakkimizda"} element={<AboutUs />} />
@@ -49,7 +49,7 @@ const App = () => {
 					<Route path={process.env.PUBLIC_URL + "/iletisim"} element={<Contact />} />
 					<Route path={process.env.PUBLIC_URL + "/privacy-policy"} element={<PrivacyPolicy />} />
 					<Route path={process.env.PUBLIC_URL + "/terms-use"} element={<TermsOfUse />} />
-					
+
 					<Route path={process.env.PUBLIC_URL + "*"} element={<ErrorPage />} />
 
 					<Route path={process.env.PUBLIC_URL + "/pek-yakinda"} element={<ComingSoon />} />

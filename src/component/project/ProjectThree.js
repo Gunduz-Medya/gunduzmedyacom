@@ -1,5 +1,5 @@
 import React from 'react';
-import SectionTitle from '../../elements/section-title/SectionTitle';
+import GMSectionTitle from '../../elements/section-title/GMSectionTitle';
 import ProjectPropTwo from './itemProp/ProjectPropTwo';
 import ProjectData from "../../data/project/ProjectData.json";
 
@@ -10,7 +10,7 @@ const ProjectThree = () => {
     return (
         <div className="section section-padding pb--80 pb_lg--40 pb_md--20 pb_sm--0">
         <div className="container">
-            <SectionTitle 
+            <GMSectionTitle 
             subtitle="Featured Case study"
             title="Photography &amp; drawing"
             description=""

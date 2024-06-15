@@ -1,5 +1,5 @@
 import React from 'react';
-import SectionTitle from '../../elements/section-title/SectionTitle';
+import GMSectionTitle from '../../elements/section-title/GMSectionTitle';
 import TestimonialPropOne from './TestimonialPropOne';
 import { FaLinkedinIn, FaDribbble, FaBehance } from "react-icons/fa";
 
@@ -7,7 +7,7 @@ const TestimonialTwo = () => {
     return (
         <div className="section section-padding-equal">
             <div className="container">
-                <SectionTitle 
+                <GMSectionTitle 
                     subtitle="Testimonial"
                     title="From getting started"
                     description="Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue sed eu leo eget risus imperdiet."

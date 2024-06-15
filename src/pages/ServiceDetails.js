@@ -1,10 +1,10 @@
 import React from 'react';
 import {useParams} from 'react-router-dom';
-import FooterOne from '../common/footer/FooterOne';
-import Header from '../common/header/Header';
+import GMFooter from '../common/footer/GMFooter';
+import Header from '../common/header/GMHeader';
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
-import SectionTitle from '../elements/section-title/SectionTitle';
+import GMSectionTitle from '../elements/section-title/GMSectionTitle';
 import ProjectPropOne from '../component/project/itemProp/ProjectPropOne';
 import { slugify } from '../utils';
 import ServiceData from "../data/service/ServiceMain.json";
@@ -40,7 +40,7 @@ const ServiceDetails = () => {
             <AboutTwo />
            
             <div className="section section-padding bg-color-light pb--70">
-                <SectionTitle 
+                <GMSectionTitle 
                     subtitle={detailsService.process.sectionSub}
                     title={detailsService.process.sectionTitle}
                     description={detailsService.process.para}
@@ -74,7 +74,7 @@ const ServiceDetails = () => {
             </div>
             <div className="section section-padding">
                 <div className="container">
-                    <SectionTitle 
+                    <GMSectionTitle 
                         subtitle="Our Project"
                         title="Featured Designs"
                         description=""
@@ -95,7 +95,7 @@ const ServiceDetails = () => {
                 </ul>
             </div>
             <CtaLayoutOne />
-        <FooterOne parentClass="" />
+        <GMFooter parentClass="" />
         </main>
         </>
     )

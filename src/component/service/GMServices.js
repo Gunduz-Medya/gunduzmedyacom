@@ -3,10 +3,9 @@ import { Link } from 'react-router-dom';
 import ServiceData from "../../data/service/ServiceMain.json";
 import { slugify } from '../../utils';
 
-
 const AllData = ServiceData;
 
-const ServicePropOne = ({colSize, serviceStyle, itemShow, marginTop}) => {
+const GMServices = ({colSize, serviceStyle, itemShow, marginTop}) => {
 
 	const topMargin = (index) => {
 		if (marginTop === "yes") {
@@ -44,4 +43,4 @@ const ServicePropOne = ({colSize, serviceStyle, itemShow, marginTop}) => {
     )
 }
 
-export default ServicePropOne;
+export default GMServices;

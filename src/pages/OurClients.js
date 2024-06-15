@@ -1,6 +1,6 @@
 import React from 'react';
-import FooterOne from '../common/footer/FooterOne';
-import Header from '../common/header/Header';
+import GMFooter from '../common/footer/GMFooter';
+import Header from '../common/header/GMHeader';
 import SEO from '../common/SEO';
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
@@ -29,7 +29,7 @@ const OurClients = () => {
                     </div>
                 </div>
                 <CtaLayoutOne />
-                <FooterOne parentClass="" />
+                <GMFooter parentClass="" />
             </main>
         </>
     )

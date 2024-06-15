@@ -1,6 +1,6 @@
 import React from 'react';
-import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import GMFooter from '../common/footer/GMFooter';
+import HeaderOne from '../common/header/GMHeaderOne';
 import SEO from '../common/SEO';
 import BannerFour from '../component/banner/BannerFour';
 import BlogOne from '../component/blog/BlogOne';
@@ -24,7 +24,7 @@ const HomeStartup = () => {
         <BrandOne />
         <BlogOne />
         <CtaLayoutOne />
-        <FooterOne />
+        <GMFooter />
         </main>
         </>
     )

@@ -1,11 +1,11 @@
 import React from 'react';
-import FooterOne from '../common/footer/FooterOne';
-import Header from '../common/header/Header';
+import GMFooter from '../common/footer/GMFooter';
+import Header from '../common/header/GMHeader';
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 import SEO from '../common/SEO';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
-import SectionTitle from '../elements/section-title/SectionTitle';
+import GMSectionTitle from '../elements/section-title/GMSectionTitle';
 import ServiceProp from '../component/service/ServiceProp';
 import ServiceData from "../data/service/ServiceMain.json";
 import { slugify } from '../utils';
@@ -67,7 +67,7 @@ const ServiceOne = () => {
 
                     <div className="section section-padding bg-color-light" id="section2">
                         <div className="container">
-                            <SectionTitle
+                            <GMSectionTitle
                                 subtitle="Hizmetlerimiz"
                                 title="Yazılım Geliştirme"
                                 description=""
@@ -83,7 +83,7 @@ const ServiceOne = () => {
 
                     <div className="section section-padding" id="section1">
                         <div className="container">
-                            <SectionTitle
+                            <GMSectionTitle
                                 subtitle="Hizmetlerimiz"
                                 title="Tasarım Hizmetleri"
                                 description=""
@@ -100,7 +100,7 @@ const ServiceOne = () => {
 
                     <div className="section section-padding bg-color-light" id="section3">
                         <div className="container">
-                            <SectionTitle
+                            <GMSectionTitle
                                 subtitle="Hizmetlerimiz"
                                 title="Reklam ve Pazarlama"
                                 description=""
@@ -116,7 +116,7 @@ const ServiceOne = () => {
 
                     <div className="section section-padding" id="section4">
                         <div className="container">
-                            <SectionTitle
+                            <GMSectionTitle
                                 subtitle="Hizmetlerimiz"
                                 title="İş Geliştirme ve Danışmanlık"
                                 description=""
@@ -132,7 +132,7 @@ const ServiceOne = () => {
 
                     {/* <div className="section section-padding" id="section5">
                         <div className="container">
-                            <SectionTitle
+                            <GMSectionTitle
                                 subtitle="Service"
                                 title="Technology"
                                 description=""
@@ -148,7 +148,7 @@ const ServiceOne = () => {
 
                     <div className="section section-padding bg-color-light" id="section6">
                         <div className="container">
-                            <SectionTitle
+                            <GMSectionTitle
                                 subtitle="Hizmetlerimiz"
                                 title="İçerik Üretimi"
                                 description=""
@@ -163,7 +163,7 @@ const ServiceOne = () => {
                     </div>
                 </div>
                 <CtaLayoutOne />
-                <FooterOne parentClass="" />
+                <GMFooter parentClass="" />
             </main>
         </>
     )

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useParams } from 'react-router-dom';
-import FooterOne from '../common/footer/FooterOne';
-import Header from '../common/header/Header';
+import GMFooter from '../common/footer/GMFooter';
+import Header from '../common/header/GMHeader';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import BlogData from "../data/blog/BlogData.json";
 import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
@@ -146,7 +146,7 @@ const BlogDetails = () => {
                     </div>
                 </div>
                 <CtaLayoutOne />
-            <FooterOne parentClass="" />
+            <GMFooter parentClass="" />
             </main>
         </>
     )

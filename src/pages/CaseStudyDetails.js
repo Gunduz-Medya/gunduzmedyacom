@@ -5,8 +5,8 @@ import { FaXTwitter } from "react-icons/fa6";
 import { Link, useParams } from 'react-router-dom';
 import Tilty from 'react-tilty';
 import SEO from '../common/SEO';
-import FooterOne from '../common/footer/FooterOne';
-import Header from '../common/header/Header';
+import GMFooter from '../common/footer/GMFooter';
+import Header from '../common/header/GMHeader';
 import CaseStudyData from '../data/casestudy/CaseStudyData.json';
 import BcrumbBannerTwo from '../elements/breadcrumb/BcrumbBannerTwo';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
@@ -125,7 +125,7 @@ const CaseDetails = () => {
                         <li className="shape shape-3"><img src={process.env.PUBLIC_URL + "/images/others/bubble-1.png"} alt="Line" /></li>
                     </ul>
                 </div>
-                <FooterOne parentClass="" />
+                <GMFooter parentClass="" />
             </main>
         </>
     )

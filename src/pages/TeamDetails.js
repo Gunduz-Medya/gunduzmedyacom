@@ -1,7 +1,7 @@
 import React from 'react';
 import {useParams} from 'react-router-dom';
-import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import GMFooter from '../common/footer/GMFooter';
+import HeaderOne from '../common/header/GMHeaderOne';
 import SEO from '../common/SEO';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
@@ -66,7 +66,7 @@ const TeamDetails = () => {
                 </div>
 
                 <CtaLayoutOne />
-                <FooterOne parentClass="" />
+                <GMFooter parentClass="" />
             </main>
         </>
     )

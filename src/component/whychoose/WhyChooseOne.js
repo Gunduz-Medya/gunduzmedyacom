@@ -1,6 +1,6 @@
 import React from 'react';
 import Accordion from 'react-bootstrap/Accordion';
-import SectionTitle from '../../elements/section-title/SectionTitle';
+import GMSectionTitle from '../../elements/section-title/GMSectionTitle';
 import { FaCompress, FaCode, FaGlobe } from 'react-icons/fa';
 
 
@@ -11,7 +11,7 @@ const WhyChooseOne = () => {
             <div className="row">
             <div className="col-lg-6">
                 <div className="why-choose-us">
-                <SectionTitle 
+                <GMSectionTitle 
                     subtitle="About Us"
                     title="Why branding matters?"
                     description="Ut condimentum enim nec diam convallis mollis. Sed felis quam, semper dapibus purus sed, rhoncus ullamcorper lacus."

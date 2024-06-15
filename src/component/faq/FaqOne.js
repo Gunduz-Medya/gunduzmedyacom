@@ -1,6 +1,6 @@
 import React from 'react';
 import Accordion from 'react-bootstrap/Accordion';
-import SectionTitle from '../../elements/section-title/SectionTitle';
+import GMSectionTitle from '../../elements/section-title/GMSectionTitle';
 import FaqData from '../../data/faq/FaqData.json';
 
 const allData = FaqData;
@@ -12,7 +12,7 @@ const FaqOne = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-5 col-xl-4">
-                        <SectionTitle 
+                        <GMSectionTitle 
                             subtitle="Pricing Plan"
                             title="Frequently asked questions"
                             description="Aenean hendrerit laoreet vehicula. Nullam convallis augue at enim gravida pellentesque."

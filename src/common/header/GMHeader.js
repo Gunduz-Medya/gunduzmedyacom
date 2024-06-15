@@ -6,7 +6,7 @@ import Nav from './Nav';
 import OffcanvasMenu from './OffcanvasMenu';
 import StickyHeader from './StickyHeader';
 
-const Header = () => {
+const GMHeader = () => {
 
     const [showOffcanvas, setShowOffcanvas] = useState(false);
 
@@ -77,4 +77,4 @@ const Header = () => {
     )
 }
 
-export default Header;
+export default GMHeader;

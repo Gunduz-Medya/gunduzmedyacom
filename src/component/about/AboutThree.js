@@ -1,5 +1,5 @@
 import React from 'react';
-import SectionTitle from '../../elements/section-title/SectionTitle';
+import GMSectionTitle from '../../elements/section-title/GMSectionTitle';
 
 const Datas = [
     {
@@ -36,7 +36,7 @@ const AboutThree = () => {
     return (
         <div className="section section-padding bg-color-dark pb--80 pb_lg--40 pb_md--20">
             <div className="container">
-                <SectionTitle 
+                <GMSectionTitle 
                     subtitle="Vizyonumuz"
                     title="Vizyon Başlığı"
                     description=""

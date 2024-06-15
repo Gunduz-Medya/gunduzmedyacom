@@ -1,7 +1,7 @@
 import React from 'react';
 import SEO from '../common/SEO';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
-import FooterOne from '../common/footer/FooterOne';
+import GMFooter from '../common/footer/GMFooter';
 import BlogOne from '../component/blog/BlogOne';
 import BrandOne from '../component/brand/BrandOne';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
@@ -10,7 +10,7 @@ import ProjectOne from '../component/project/ProjectOne';
 import ServicePropOne from '../component/service/ServicePropOne';
 import SectionTitle from '../elements/section-title/SectionTitle';
 import BannerFive from '../component/banner/BannerFive';
-import HeaderFour from '../common/header/HeaderFour';
+import HeaderFour from '../common/header/GMHeaderFour';
 
 const CorporateAgency = () => {
 
@@ -24,7 +24,7 @@ const CorporateAgency = () => {
 
         <div className="section section-padding">
             <div className="container">
-            <SectionTitle 
+            <GMSectionTitle 
                 subtitle="What We Can Do For You"
                 title="Services we can <br> help you with"
                 description=""
@@ -47,7 +47,7 @@ const CorporateAgency = () => {
         <BrandOne />
         <BlogOne />
         <CtaLayoutOne />
-        <FooterOne />
+        <GMFooter />
         </main>
         </>
     )

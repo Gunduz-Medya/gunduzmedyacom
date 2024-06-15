@@ -1,6 +1,6 @@
 import React from 'react';
-import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import GMFooter from '../common/footer/GMFooter';
+import HeaderOne from '../common/header/GMHeaderOne';
 import SEO from '../common/SEO';
 import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
@@ -33,7 +33,7 @@ const Testimonials = () => {
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-8">
-                            <SectionTitle 
+                            <GMSectionTitle 
                                 subtitle=""
                                 title="Google Reviews"
                                 description="Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue sed eu leo eget risus imperdiet."
@@ -57,7 +57,7 @@ const Testimonials = () => {
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-8">
-                            <SectionTitle 
+                            <GMSectionTitle 
                                 subtitle=""
                                 title="Facebook Reviews"
                                 description="Aenean hendrerit laoreet vehicula. Nullam convallis augue at enim gravida pellentesque."
@@ -85,7 +85,7 @@ const Testimonials = () => {
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-8">
-                            <SectionTitle 
+                            <GMSectionTitle 
                                 subtitle=""
                                 title="Yelp Reviews"
                                 description="Aenean hendrerit laoreet vehicula. Nullam convallis augue at enim gravida pellentesque."
@@ -106,7 +106,7 @@ const Testimonials = () => {
                 </div>
 
                 <CtaLayoutOne />
-                <FooterOne parentClass="" />
+                <GMFooter parentClass="" />
             </main>
         </>
     )

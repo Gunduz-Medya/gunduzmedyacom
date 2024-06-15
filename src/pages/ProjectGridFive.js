@@ -1,6 +1,6 @@
 import React from 'react';
-import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import GMFooter from '../common/footer/GMFooter';
+import HeaderOne from '../common/header/GMHeaderOne';
 import SEO from '../common/SEO';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
@@ -26,7 +26,7 @@ const ProjectGridFive = () => {
             />
             <ProjectFive colSize ="row-cols-sm-2 row-cols-lg-3 row-cols-xl-4" parentClass="project-column-4" perPageShow="8"/>
             <CtaLayoutOne />
-            <FooterOne parentClass="" />
+            <GMFooter parentClass="" />
         </main>
         </>
     )

@@ -1,13 +1,13 @@
 import React from 'react';
-import SectionTitle from '../../elements/section-title/SectionTitle';
+import GMSectionTitle from '../../elements/section-title/GMSectionTitle';
 import BrandItem from './BrandItem';
 
 
-const BrandOne = () => {
+const GMPartners = () => {
     return (
         <div className="section section-padding-2 bg-color-dark">
         <div className="container">
-            <SectionTitle 
+            <GMSectionTitle 
                 subtitle="İş Birliklerimiz"
                 title="Yıllardır güvenen listemiz..."
                 description="Fikirleri projelendirme süreçlerinde müşterilerimizle en uygun yapıyı kuruyoruz."
@@ -25,4 +25,4 @@ const BrandOne = () => {
     )
 }
 
-export default BrandOne;
+export default GMPartners;

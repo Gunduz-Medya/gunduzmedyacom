@@ -1,5 +1,5 @@
 import React from 'react';
-import SectionTitle from '../../elements/section-title/SectionTitle';
+import GMSectionTitle from '../../elements/section-title/GMSectionTitle';
 import ProjectPropTwo from './itemProp/ProjectPropTwo';
 import ProjectData from "../../data/project/ProjectData.json";
 import { Link } from 'react-router-dom';
@@ -10,7 +10,7 @@ const ProjectTwo = () => {
     return (
         <div className="section section-padding-equal bg-color-dark">
             <div className="container">
-            <SectionTitle 
+            <GMSectionTitle 
                 subtitle="Case study"
                 title="Selected projects"
                 description="Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue eget risus imperdiet."

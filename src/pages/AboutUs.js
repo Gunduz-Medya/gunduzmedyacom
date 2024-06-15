@@ -1,7 +1,7 @@
 import React from 'react';
 import SEO from '../common/SEO';
-import FooterOne from '../common/footer/FooterOne';
-import Header from '../common/header/Header';
+import GMFooter from '../common/footer/GMFooter';
+import Header from '../common/header/GMHeader';
 import AboutFive from '../component/about/AboutFive';
 import AboutFour from '../component/about/AboutFour';
 import AboutThree from '../component/about/AboutThree';
@@ -27,7 +27,7 @@ const AboutUs = () => {
                 <AboutFive />
                 <ProcessOne />
                {/*  <CtaLayoutOne /> */}
-                <FooterOne parentClass="" />
+                <GMFooter parentClass="" />
             </main>
         </>
     )

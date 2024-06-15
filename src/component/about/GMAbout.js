@@ -2,7 +2,7 @@ import React from 'react';
 import FormOne from '../contact/FormOne';
 
 
-const AboutOne = () => {
+const GMAbout = () => {
     return (
         <section className="section section-padding-equal bg-color-light">
             <div className="container">
@@ -35,4 +35,4 @@ const AboutOne = () => {
     )
 }
 
-export default AboutOne;
+export default GMAbout;

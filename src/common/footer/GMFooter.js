@@ -7,7 +7,7 @@ import { slugify } from '../../utils';
 
 const getServiceData = ServiceData;
 
-const FooterOne = ({parentClass}) => {
+const GMFooter = ({parentClass}) => {
     
     return (
         <footer className={`footer-area ${parentClass}`}>
@@ -110,4 +110,4 @@ const FooterOne = ({parentClass}) => {
     )
 }
 
-export default FooterOne;
+export default GMFooter;

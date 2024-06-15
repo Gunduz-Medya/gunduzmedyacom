@@ -1,12 +1,12 @@
 import React from 'react';
-import SectionTitle from '../../elements/section-title/SectionTitle';
+import GMSectionTitle from '../../elements/section-title/GMSectionTitle';
 import TestimonialPropOne from './TestimonialPropOne';
 
 const TestimonialOne = () => {
     return (
         <div className="section section-padding">
             <div className="container">
-                <SectionTitle 
+                <GMSectionTitle 
                     subtitle="Testimonial"
                     title="From getting started"
                     description="Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue sed eu leo eget risus imperdiet."

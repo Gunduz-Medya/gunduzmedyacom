@@ -1,6 +1,6 @@
 import React from 'react';
-import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import GMFooter from '../common/footer/GMFooter';
+import HeaderOne from '../common/header/GMHeaderOne';
 import SEO from '../common/SEO';
 import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
@@ -24,7 +24,7 @@ const PricingTable = () => {
                 />
                 <div className="section section-padding">
                     <div className="container">
-                        <SectionTitle 
+                        <GMSectionTitle 
                             subtitle="Pricing Plan"
                             title="Find the Right Plan."
                             description="Flexible pricing options for freelancers <br> and design teams."
@@ -39,7 +39,7 @@ const PricingTable = () => {
                 </div>
                 <FaqOne />
                 <CtaLayoutOne />
-                <FooterOne parentClass="" />
+                <GMFooter parentClass="" />
             </main>
         </>
     )

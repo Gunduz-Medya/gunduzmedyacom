@@ -1,11 +1,11 @@
 import React from 'react';
 import SEO from '../common/SEO';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
-import FooterOne from '../common/footer/FooterOne';
-import Header from '../common/header/Header';
+import GMFooter from '../common/footer/GMFooter';
+import Header from '../common/header/GMHeader';
 import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
 import FormTwo from '../component/contact/FormTwo';
-import SectionTitle from '../elements/section-title/SectionTitle';
+import GMSectionTitle from '../elements/section-title/GMSectionTitle';
 import ContactLocation from '../component/contact/ContactLocation';
 
 
@@ -54,7 +54,7 @@ const Contact = () => {
 
             <div className="section section-padding bg-color-dark overflow-hidden">
                 <div className="container">
-                    <SectionTitle 
+                    <GMSectionTitle 
                         subtitle="Gündüz Medya"
                         title="Ofislerimiz"
                         description=""
@@ -71,7 +71,7 @@ const Contact = () => {
                 </ul>
             </div>
 
-            <FooterOne parentClass="pt--150 pt_lg--100 pt_md--80 pt_sm--60" />
+            <GMFooter parentClass="pt--150 pt_lg--100 pt_md--80 pt_sm--60" />
             </main>
         </>
     )

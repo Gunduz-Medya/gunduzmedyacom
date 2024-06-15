@@ -1,5 +1,5 @@
 import React from 'react';
-import HeaderThree from '../common/header/HeaderThree';
+import HeaderThree from '../common/header/GMHeaderThree';
 import SEO from '../common/SEO';
 import BannerThree from '../component/banner/BannerThree';
 import ProjectTwo from '../component/project/ProjectTwo';
@@ -31,7 +31,7 @@ const PersonalPortfolio = () => {
                     <div className="row">
                         <div className="col-lg-6">
                             <div className="contact-address mb--30">
-                            <SectionTitle 
+                            <GMSectionTitle 
                                 subtitle="Need a designer?"
                                 title="Let’s work together"
                                 description=""

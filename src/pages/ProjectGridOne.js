@@ -1,6 +1,6 @@
 import React from 'react';
-import FooterOne from '../common/footer/FooterOne';
-import HeaderOne from '../common/header/HeaderOne';
+import GMFooter from '../common/footer/GMFooter';
+import HeaderOne from '../common/header/GMHeaderOne';
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 import SEO from '../common/SEO';
@@ -25,7 +25,7 @@ const ProjectGridOne = () => {
             />
             <ProjectOne />
             <CtaLayoutOne />
-            <FooterOne parentClass="" />
+            <GMFooter parentClass="" />
         </main>
         </>
     )

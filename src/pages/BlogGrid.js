@@ -1,6 +1,6 @@
 import React from 'react';
-import FooterOne from '../common/footer/FooterOne';
-import Header from '../common/header/Header';
+import GMFooter from '../common/footer/GMFooter';
+import Header from '../common/header/GMHeader';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
 import BlogSidebar from '../component/blog/BlogSidebar';
@@ -34,7 +34,7 @@ const BlogGridView = () => {
                     </div>
                 </div>
                 <CtaLayoutOne />
-            <FooterOne parentClass="" />
+            <GMFooter parentClass="" />
             </main>
         </>
     )

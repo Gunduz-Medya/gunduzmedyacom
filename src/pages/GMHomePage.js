@@ -9,6 +9,7 @@ import GMPartners from '../component/brand/GMPartners';
 import GMBlog from '../component/blog/GMBlog';
 import GMFooter from '../common/footer/GMFooter';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
+import { Link } from 'react-router-dom';
 
 const GMHomePage = () => {
 
@@ -19,7 +20,7 @@ const GMHomePage = () => {
                 <GMHeader />
                 <GMMainPageBanner />
                 <div className="section section-padding-2 bg-color-dark">
-                    <div className="container">
+                    <div className="container">""
                         <GMSectionTitle
                             subtitle="Hizmetlerimiz"
                             title="Dijital Ürünler Tasarlıyor ve Geliştiriyoruz"
@@ -29,6 +30,9 @@ const GMHomePage = () => {
                         />
                         <div className='row'>
                             <GMServices colSize="col-xl-4 col-md-6" serviceStyle="" itemShow="6" />
+                            <div className='text-center'>
+                                <Link to={process.env.PUBLIC_URL + "/hizmetler"} className="axil-btn btn-fill-primary btn-large">Tüm Hizmetlerimiz</Link>
+                            </div>
                         </div>
                     </div>
                     <ul className="list-unstyled shape-group-10">

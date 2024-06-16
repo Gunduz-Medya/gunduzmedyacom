@@ -2,25 +2,25 @@ import React from 'react';
 
 const Data = [
     {
-        image: "/images/brand/brand-1.png"
+        image: "/images/partners/adobe-logo.svg"
     },
     {
-        image: "/images/brand/brand-2.png"
+        image: "/images/partners/canva-logo.svg"
     },
     {
-        image: "/images/brand/brand-3.png"
+        image: "/images/partners/figma-logo.svg"
     },
     {
-        image: "/images/brand/brand-4.png"
+        image: "/images/partners/intellij-idea-logo.svg"
     },
     {
-        image: "/images/brand/brand-5.png"
+        image: "/images/partners/digitalocean-logo.svg"
     },
     {
-        image: "/images/brand/brand-6.png"
+        image: "/images/partners/google-cloud-logo.svg"
     },
     {
-        image: "/images/brand/brand-7.png"
+        image: "/images/partners/atlassian-logo.svg"
     },
     {
         image: "/images/brand/brand-8.png"

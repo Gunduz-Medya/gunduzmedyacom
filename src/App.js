@@ -47,7 +47,7 @@ const App = () => {
 					<Route path={process.env.PUBLIC_URL + "/hizmetler/:slug"} element={<ServiceDetails />} />
 					{/* Company */}
 					<Route path={process.env.PUBLIC_URL + "/iletisim"} element={<Contact />} />
-					<Route path={process.env.PUBLIC_URL + "/privacy-policy"} element={<PrivacyPolicy />} />
+					<Route path={process.env.PUBLIC_URL + "/gizlilik-politikasi"} element={<PrivacyPolicy />} />
 					<Route path={process.env.PUBLIC_URL + "/terms-use"} element={<TermsOfUse />} />
 
 					<Route path={process.env.PUBLIC_URL + "*"} element={<ErrorPage />} />

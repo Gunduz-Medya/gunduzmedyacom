@@ -9,8 +9,8 @@ const GMPartners = () => {
         <div className="container">
             <GMSectionTitle 
                 subtitle="İş Birliklerimiz"
-                title="Yıllardır güvenen listemiz..."
-                description="Fikirleri projelendirme süreçlerinde müşterilerimizle en uygun yapıyı kuruyoruz."
+                title="Profesyonellerle çalışıyoruz..."
+                description="Fikirleri projelendirme süreçlerinde müşterilerimizle en uygun yapıyı en doğru araçlarla kuruyoruz."
                 textAlignment="heading-light-left"
                 textColor=""
             />

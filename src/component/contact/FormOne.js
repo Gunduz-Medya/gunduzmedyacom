@@ -38,15 +38,15 @@ const FormOne = () => {
         <form ref={form} onSubmit={sendEmail} className="axil-contact-form">
         <div className="form-group">
             <label>Adınız</label>
-            <input type="text" className="form-control" name="contact-name" placeholder="John Smith" required />
+            <input type="text" className="form-control" name="contact-name" placeholder="Adınız Soyadınız" required />
         </div>
         <div className="form-group">
             <label>Email Adresiniz</label>
-            <input type="email" className="form-control" name="contact-email" placeholder="example@mail.com" required />
+            <input type="email" className="form-control" name="contact-email" placeholder="email@adresiniz.com" required />
         </div>
         <div className="form-group mb--40">
             <label>Almak İstediğiniz Hizmet</label>
-            <input type="tel" className="form-control" name="contact-phone" placeholder="+123456789" required />
+            <input type="text" className="form-control" name="contact-message" placeholder="Almak istediğiniz hizmet" required />
         </div>
         <div className="form-group">
             <button type="submit" className="axil-btn btn-fill-primary btn-fluid btn-primary" name="submit-btn">Teklif Al</button>

@@ -7,21 +7,21 @@ import { slugify } from '../../utils';
 
 const getServiceData = ServiceData;
 
-const GMFooter = ({parentClass}) => {
-    
+const GMFooter = ({ parentClass }) => {
+
     return (
         <footer className={`footer-area ${parentClass}`}>
             <div className="container">
                 <div className="footer-top">
                     <div className="footer-social-link">
                         <ul className="list-unstyled">
-                            <li><Link to="https://www.facebook.com/gunduzmedya"><FaFacebookF /></Link></li>
-                            <li><Link to="https://twitter.com/gunduzmedya_"><FaXTwitter /></Link></li>
-                            <li><Link to="https://tr.pinterest.com/gunduzmedya/"><FaPinterestP /></Link></li>
-                            <li><Link to="https://www.linkedin.com/company/78433546"><FaLinkedin /></Link></li>
-                            <li><Link to="https://www.instagram.com/gunduz_medya"><FaInstagram /></Link></li>
-                            <li><Link to="https://dribbble.com/gunduzmedya"><FaDribbble /></Link></li>
-                            <li><Link to="https://www.behance.net/"><FaBehance /></Link></li>
+                            <li><Link to={{ pathname: "//www.facebook.com/gunduzmedya" }} target='_blank'><FaFacebookF /></Link></li>
+                            <li><Link to={{ pathname: "//twitter.com/gunduzmedya_" }} target='_blank'><FaXTwitter /></Link></li>
+                            <li><Link to={{ pathname: "//tr.pinterest.com/gunduzmedya/" }} target='_blank'><FaPinterestP /></Link></li>
+                            <li><Link to={{ pathname: "//www.linkedin.com/company/78433546" }} target='_blank'><FaLinkedin /></Link></li>
+                            <li><Link to={{ pathname: "//www.instagram.com/gunduz_medya" }} target='_blank'><FaInstagram /></Link></li>
+                            <li><Link to={{ pathname: "//dribbble.com/gunduzmedya" }} target='_blank'><FaDribbble /></Link></li>
+                            <li><Link to={{ pathname: "//www.behance.net/gunduzmedya" }} target='_blank'><FaBehance /></Link></li>
                         </ul>
                     </div>
                 </div>
@@ -63,10 +63,10 @@ const GMFooter = ({parentClass}) => {
                                         <h6 className="widget-title">Kaynaklar</h6>
                                         <div className="footer-menu-link">
                                             <ul className="list-unstyled">
-                                                <li><Link to={process.env.PUBLIC_URL + "/blog-grid"}>Blog</Link></li>
-                                                <li> <Link to={process.env.PUBLIC_URL + "/case-study"}>Örnek Çalışmalar</Link></li>
-                                                <li><Link to={process.env.PUBLIC_URL + "/project-grid-one"}>Portfolyo</Link></li>
-                                                <li><Link to={process.env.PUBLIC_URL + "/project-grid-one"}>Önerilenler</Link></li>
+                                                <li><Link to={process.env.PUBLIC_URL + "/blog"}>Blog</Link></li>
+                                                <li> <Link to={process.env.PUBLIC_URL + "/projeler"}>Projeler</Link></li>
+                                                <li><Link to={process.env.PUBLIC_URL + "/hizmetler"}>Hizmetler</Link></li>
+                                                <li><Link to={process.env.PUBLIC_URL + "/hakkimizda"}>Hakkımzda</Link></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -76,8 +76,8 @@ const GMFooter = ({parentClass}) => {
                                         <h6 className="widget-title">Destek</h6>
                                         <div className="footer-menu-link">
                                             <ul className="list-unstyled">
-                                                <li><Link to={process.env.PUBLIC_URL + "/contact"}>İletişim</Link></li>
-                                                <li> <Link to={process.env.PUBLIC_URL + "/privacy-policy"}>Gizlilik Politikası</Link></li>
+                                                <li><Link to={process.env.PUBLIC_URL + "/iletisim"}>İletişim</Link></li>
+                                                <li> <Link to={process.env.PUBLIC_URL + "/gizlilik-politikasi"}>Gizlilik Politikası</Link></li>
                                                 <li><Link to={process.env.PUBLIC_URL + "/terms-use"}>Şartlar ve Koşullar</Link></li>
                                             </ul>
                                         </div>
@@ -87,7 +87,7 @@ const GMFooter = ({parentClass}) => {
                         </div>
                     </div>
                 </div>
-                <div className="footer-bottom"> 
+                <div className="footer-bottom">
                     <div className="row">
                         <div className="col-md-6">
                             <div className="footer-copyright">
@@ -97,7 +97,7 @@ const GMFooter = ({parentClass}) => {
                         <div className="col-md-6">
                             <div className="footer-bottom-link">
                                 <ul className="list-unstyled">
-                                    <li><Link to={process.env.PUBLIC_URL + "/privacy-policy"}>Gizlilik Politikası</Link></li>
+                                    <li><Link to={process.env.PUBLIC_URL + "/gizlilik-politikasi"}>Gizlilik Politikası</Link></li>
                                     <li><Link to={process.env.PUBLIC_URL + "/terms-use"}>Şartlar ve Koşullar</Link></li>
                                     <li><Link to={process.env.PUBLIC_URL + "/terms-use"}>Çerez Politikası</Link></li>
                                 </ul>

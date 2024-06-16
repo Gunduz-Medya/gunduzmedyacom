@@ -5,25 +5,25 @@ const Data = [
         image: "/images/partners/adobe-logo.svg"
     },
     {
+        image: "/images/partners/atlassian-logo.svg"
+    },
+    {
         image: "/images/partners/canva-logo.svg"
-    },
-    {
-        image: "/images/partners/figma-logo.svg"
-    },
-    {
-        image: "/images/partners/intellij-idea-logo.svg"
     },
     {
         image: "/images/partners/digitalocean-logo.svg"
     },
     {
+        image: "/images/partners/figma-logo.svg"
+    },
+    {
         image: "/images/partners/google-cloud-logo.svg"
     },
     {
-        image: "/images/partners/atlassian-logo.svg"
+        image: "/images/partners/GMGpt-logo.svg"
     },
     {
-        image: "/images/brand/brand-8.png"
+        image: "/images/partners/jetbrains-logo.svg"
     }
 ]
 

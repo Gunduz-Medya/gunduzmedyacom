@@ -1,27 +1,25 @@
 [
     {
         "id": 1,
-        "title": "Follow your own design process, whatever gets you to the outcome.",
-        "post_date": "Apr 16, 2022",
-        "read_time": "9 min to read",
+        "title": "Yapay zeka kullanarak içerikler üretmenin rahatlığı",
+        "post_date": "June 16, 2024",
+        "read_time": "2 min to read",
         "thumb": "images/blog/thumb_5.png",
         "large_thumb": "images/blog/large_thumb_5.png",
-        "category": "Information technology",
+        "category": "Yapay Zeka",
         "format": "standard",
-        "excerpt": "Want to know the one thing that every successful digital marketer does first to ensure they get the biggest return on their marketing budget?",
+        "excerpt": "Yapay zeka, içerik üretim sürecini hızlandırarak yüksek kaliteli ve hedef kitleye uygun içerikler oluşturmayı kolaylaştırır, böylece yaratıcı verimliliği artırır.",
         "body": [
-            "<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.</p>", 
-            "<p>Habitasse per feugiat aliquam luctus accumsan curae, suspendisse aliquam taciti eros neque, aenean sit iaculis risus commodo ut sociosqu rhoncus potenti tristique placerat sit tempus, duis erat feugiat cras sociosqu porta ut praesent, fermentum donec convallis tellus vulputate duis nibh rhoncus phasellus dui massa nisl.</p>", 
-            "<p> Whether you’re kicking off a new campaign or looking to revamp your strategy, the lessons you’ll learn will be universal to all small business email marketing.</p>",
-            "<p>MailChimp is an email marketing service provider founded in 2001. It has 9 million users that collectively send over 15 billion emails through the service each month.</p>",
-            "<h3 class='title mb--30'>Habitasse per feugiat aliquam luctus</h3>",
-            "<p>Email is a crucial channel in any marketing mix, and never has this been truer than for today’s entrepreneur. Curious what to say? How to say it? How often to hit “send”? Each bite-sized lesson delivers core concepts, guiding questions, and tactical how-to resources.</p>",
-            "<p>Whether you’re kicking off a new campaign or looking to revamp your strategy, the lessons you’ll learn will be universal to all small business email marketing.</p>",
-            "<h3 class='title mb--30'>Habitasse per feugiat aliquam luctus accumsan curae</h3>",
-            "<p>Email is a crucial channel in any marketing mix, and never has this been truer than for today’s entrepreneur. Curious what to say? How to say it? How often to hit “send”? Each bite-sized lesson delivers core concepts, guiding questions, and tactical how-to resources.</p>"
+            "<p>Yapay zeka (YZ) kullanarak içerik üretimi, modern dijital dünyada devrim yaratmıştır. YZ'nin sunduğu rahatlık ve kolaylık, özellikle içerik oluşturma sürecinde belirgin hale gelmektedir. Geleneksel yöntemlerle saatler, hatta günler sürebilecek bir yazıyı, YZ destekli araçlar sayesinde dakikalar içinde üretmek mümkündür. Bu araçlar, dilin gramer yapısını anlama ve geniş bir bilgi tabanına erişim sağlama yetenekleri sayesinde yüksek kaliteli ve tutarlı içerikler sunar.</p>",
+            "<p>YZ'nin en büyük avantajlarından biri, kullanıcıların yaratıcı süreci optimize etmelerine olanak tanımasıdır. YZ araçları, belirli bir konu hakkında bilgi toplamak, makaleler oluşturmak, blog yazıları yazmak veya sosyal medya içerikleri hazırlamak gibi çeşitli görevleri kolayca yerine getirebilir. Bu, içerik üreticilerine daha fazla zaman kazandırır ve yaratıcı enerjilerini daha stratejik alanlara yönlendirmelerine olanak tanır.</p>", 
+            "<p>Ayrıca, YZ'nin sürekli öğrenme ve gelişme yeteneği, içerik kalitesini zamanla artırır. Kullanıcıların geri bildirimleri ve çeşitli veri setleriyle beslenen YZ modelleri, daha kişiselleştirilmiş ve hedef kitleye uygun içerikler üretme yeteneğine sahiptir. Bu, özellikle dijital pazarlama ve kişisel markalaşma alanlarında büyük bir avantaj sağlar.</p>", 
+            "<p>Sonuç olarak, YZ kullanarak içerik üretimi, hem profesyonel içerik üreticileri hem de bireysel kullanıcılar için büyük bir kolaylık sunar. Yaratıcılığı ve verimliliği artırarak, daha hızlı ve etkili içerikler oluşturmayı mümkün kılar. Bu da dijital dünyada rekabetçi kalmanın ve başarılı olmanın anahtarıdır.</p>"
         ],
-        "features_img": ["/images/blog/blog-8.png", "/images/blog/blog-9.png"],
-        "author_name": "Theresa Underwood",
+        "features_img": [
+            "/images/blog/blog-8.png",
+            "/images/blog/blog-9.png"
+        ],
+        "author_name": "Gündüz Medya",
         "author_avatar": "images/blog/author-1.png",
         "author_para": "Email is a crucial channel in any marketing mix, and never has this been truer than for today’s entrepreneur. Curious what to say.",
         "social": [
@@ -34,7 +32,6 @@
                 "pinterst": "https://www.pinterest.com/",
                 "dribble": "https://dribbble.com/",
                 "behance": "https://www.behance.net/"
-
             }
         ]
     },
@@ -44,12 +41,16 @@
         "post_date": "Mar 10, 2022",
         "read_time": "9 min to read",
         "thumb": "images/blog/thumb_1.png",
-        "large_thumb": ["images/blog/large_thumb_1.png", "images/blog/large_thumb_2.png", "images/blog/large_thumb_3.png"],
+        "large_thumb": [
+            "images/blog/large_thumb_1.png",
+            "images/blog/large_thumb_2.png",
+            "images/blog/large_thumb_3.png"
+        ],
         "category": "Agency News",
         "format": "gallery",
         "excerpt": "Want to know the one thing that every successful digital marketer does first to ensure they get the biggest return on their marketing budget?",
         "body": [
-            "<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.</p>", 
+            "<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.</p>",
             "<p>Habitasse per feugiat aliquam luctus accumsan curae, suspendisse aliquam taciti eros neque, aenean sit iaculis risus commodo ut sociosqu rhoncus potenti tristique placerat sit tempus, duis erat feugiat cras sociosqu porta ut praesent, fermentum donec convallis tellus vulputate duis nibh rhoncus phasellus dui massa nisl.</p>",
             "<p> Whether you’re kicking off a new campaign or looking to revamp your strategy, the lessons you’ll learn will be universal to all small business email marketing.</p>",
             "<p>MailChimp is an email marketing service provider founded in 2001. It has 9 million users that collectively send over 15 billion emails through the service each month.</p>",
@@ -59,7 +60,10 @@
             "<h3 class='title mb--30'>Habitasse per feugiat aliquam luctus accumsan curae</h3>",
             "<p>Email is a crucial channel in any marketing mix, and never has this been truer than for today’s entrepreneur. Curious what to say? How to say it? How often to hit “send”? Each bite-sized lesson delivers core concepts, guiding questions, and tactical how-to resources.</p>"
         ],
-        "features_img": ["/images/blog/blog-8.png", "/images/blog/blog-9.png"],
+        "features_img": [
+            "/images/blog/blog-8.png",
+            "/images/blog/blog-9.png"
+        ],
         "author_name": "Theresa Underwood",
         "author_avatar": "images/blog/author-1.png",
         "author_para": "Email is a crucial channel in any marketing mix, and never has this been truer than for today’s entrepreneur. Curious what to say.",
@@ -73,7 +77,6 @@
                 "pinterst": "https://www.pinterest.com/",
                 "dribble": "https://dribbble.com/",
                 "behance": "https://www.behance.net/"
-
             }
         ]
     },
@@ -88,8 +91,8 @@
         "format": "video",
         "excerpt": "Want to know the one thing that every successful digital marketer does first to ensure they get the biggest return on their marketing budget?",
         "body": [
-            "<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.</p>", 
-            "<p>Habitasse per feugiat aliquam luctus accumsan curae, suspendisse aliquam taciti eros neque, aenean sit iaculis risus commodo ut sociosqu rhoncus potenti tristique placerat sit tempus, duis erat feugiat cras sociosqu porta ut praesent, fermentum donec convallis tellus vulputate duis nibh rhoncus phasellus dui massa nisl.</p>", 
+            "<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.</p>",
+            "<p>Habitasse per feugiat aliquam luctus accumsan curae, suspendisse aliquam taciti eros neque, aenean sit iaculis risus commodo ut sociosqu rhoncus potenti tristique placerat sit tempus, duis erat feugiat cras sociosqu porta ut praesent, fermentum donec convallis tellus vulputate duis nibh rhoncus phasellus dui massa nisl.</p>",
             "<p> Whether you’re kicking off a new campaign or looking to revamp your strategy, the lessons you’ll learn will be universal to all small business email marketing.</p>",
             "<p>MailChimp is an email marketing service provider founded in 2001. It has 9 million users that collectively send over 15 billion emails through the service each month.</p>",
             "<h3 class='title mb--30'>Habitasse per feugiat aliquam luctus</h3>",
@@ -98,7 +101,10 @@
             "<h3 class='title mb--30'>Habitasse per feugiat aliquam luctus accumsan curae</h3>",
             "<p>Email is a crucial channel in any marketing mix, and never has this been truer than for today’s entrepreneur. Curious what to say? How to say it? How often to hit “send”? Each bite-sized lesson delivers core concepts, guiding questions, and tactical how-to resources.</p>"
         ],
-        "features_img": ["/images/blog/blog-8.png", "/images/blog/blog-9.png"],
+        "features_img": [
+            "/images/blog/blog-8.png",
+            "/images/blog/blog-9.png"
+        ],
         "author_name": "Alina Rose",
         "author_avatar": "images/blog/author-2.png",
         "author_para": "Email is a crucial channel in any marketing mix, and never has this been truer than for today’s entrepreneur. Curious what to say.",
@@ -112,7 +118,6 @@
                 "pinterst": "https://www.pinterest.com/",
                 "dribble": "https://dribbble.com/",
                 "behance": "https://www.behance.net/"
-
             }
         ]
     },
@@ -127,8 +132,8 @@
         "format": "standard",
         "excerpt": "Want to know the one thing that every successful digital marketer does first to ensure they get the biggest return on their marketing budget?",
         "body": [
-            "<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.</p>", 
-            "<p>Habitasse per feugiat aliquam luctus accumsan curae, suspendisse aliquam taciti eros neque, aenean sit iaculis risus commodo ut sociosqu rhoncus potenti tristique placerat sit tempus, duis erat feugiat cras sociosqu porta ut praesent, fermentum donec convallis tellus vulputate duis nibh rhoncus phasellus dui massa nisl.</p>", 
+            "<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.</p>",
+            "<p>Habitasse per feugiat aliquam luctus accumsan curae, suspendisse aliquam taciti eros neque, aenean sit iaculis risus commodo ut sociosqu rhoncus potenti tristique placerat sit tempus, duis erat feugiat cras sociosqu porta ut praesent, fermentum donec convallis tellus vulputate duis nibh rhoncus phasellus dui massa nisl.</p>",
             "<p> Whether you’re kicking off a new campaign or looking to revamp your strategy, the lessons you’ll learn will be universal to all small business email marketing.</p>",
             "<p>MailChimp is an email marketing service provider founded in 2001. It has 9 million users that collectively send over 15 billion emails through the service each month.</p>",
             "<h3 class='title mb--30'>Habitasse per feugiat aliquam luctus</h3>",
@@ -137,7 +142,10 @@
             "<h3 class='title mb--30'>Habitasse per feugiat aliquam luctus accumsan curae</h3>",
             "<p>Email is a crucial channel in any marketing mix, and never has this been truer than for today’s entrepreneur. Curious what to say? How to say it? How often to hit “send”? Each bite-sized lesson delivers core concepts, guiding questions, and tactical how-to resources.</p>"
         ],
-        "features_img": ["/images/blog/blog-8.png", "/images/blog/blog-9.png"],
+        "features_img": [
+            "/images/blog/blog-8.png",
+            "/images/blog/blog-9.png"
+        ],
         "author_name": "Alina Rose",
         "author_avatar": "images/blog/author-2.png",
         "author_para": "Email is a crucial channel in any marketing mix, and never has this been truer than for today’s entrepreneur. Curious what to say.",
@@ -151,7 +159,6 @@
                 "pinterst": "https://www.pinterest.com/",
                 "dribble": "https://dribbble.com/",
                 "behance": "https://www.behance.net/"
-
             }
         ]
     },
@@ -166,8 +173,8 @@
         "format": "standard",
         "excerpt": "Want to know the one thing that every successful digital marketer does first to ensure they get the biggest return on their marketing budget?",
         "body": [
-            "<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.</p>", 
-            "<p>Habitasse per feugiat aliquam luctus accumsan curae, suspendisse aliquam taciti eros neque, aenean sit iaculis risus commodo ut sociosqu rhoncus potenti tristique placerat sit tempus, duis erat feugiat cras sociosqu porta ut praesent, fermentum donec convallis tellus vulputate duis nibh rhoncus phasellus dui massa nisl.</p>", 
+            "<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.</p>",
+            "<p>Habitasse per feugiat aliquam luctus accumsan curae, suspendisse aliquam taciti eros neque, aenean sit iaculis risus commodo ut sociosqu rhoncus potenti tristique placerat sit tempus, duis erat feugiat cras sociosqu porta ut praesent, fermentum donec convallis tellus vulputate duis nibh rhoncus phasellus dui massa nisl.</p>",
             "<p> Whether you’re kicking off a new campaign or looking to revamp your strategy, the lessons you’ll learn will be universal to all small business email marketing.</p>",
             "<p>MailChimp is an email marketing service provider founded in 2001. It has 9 million users that collectively send over 15 billion emails through the service each month.</p>",
             "<h3 class='title mb--30'>Habitasse per feugiat aliquam luctus</h3>",
@@ -176,7 +183,10 @@
             "<h3 class='title mb--30'>Habitasse per feugiat aliquam luctus accumsan curae</h3>",
             "<p>Email is a crucial channel in any marketing mix, and never has this been truer than for today’s entrepreneur. Curious what to say? How to say it? How often to hit “send”? Each bite-sized lesson delivers core concepts, guiding questions, and tactical how-to resources.</p>"
         ],
-        "features_img": ["/images/blog/blog-8.png", "/images/blog/blog-9.png"],
+        "features_img": [
+            "/images/blog/blog-8.png",
+            "/images/blog/blog-9.png"
+        ],
         "author_name": "Alina Rose",
         "author_avatar": "images/blog/author-2.png",
         "author_para": "Email is a crucial channel in any marketing mix, and never has this been truer than for today’s entrepreneur. Curious what to say.",
@@ -190,7 +200,6 @@
                 "pinterst": "https://www.pinterest.com/",
                 "dribble": "https://dribbble.com/",
                 "behance": "https://www.behance.net/"
-
             }
         ]
     }

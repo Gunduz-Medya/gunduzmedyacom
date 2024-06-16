@@ -1,19 +1,18 @@
+import FsLightbox from 'fslightbox-react';
 import React, { useState } from 'react';
+import { FaAngleLeft, FaAngleRight, FaPlay } from "react-icons/fa";
 import { useParams } from 'react-router-dom';
+import Slider from "react-slick";
+import SEO from '../common/SEO';
 import GMFooter from '../common/footer/GMFooter';
 import Header from '../common/header/GMHeader';
-import CtaLayoutOne from '../component/cta/CtaLayoutOne';
+import BlogAuthor from '../component/blog/BlogAuthor';
+import BlogListOne from '../component/blog/BlogListOne';
+import BlogSidebar from '../component/blog/BlogSidebar';
+import Comment from '../component/blog/Comment';
 import BlogData from "../data/blog/BlogData.json";
 import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
-import BlogSidebar from '../component/blog/BlogSidebar';
-import BlogAuthor from '../component/blog/BlogAuthor';
-import Comment from '../component/blog/Comment';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
-import SEO from '../common/SEO';
-import { FaPlay, FaAngleRight, FaAngleLeft } from "react-icons/fa";
-import FsLightbox from 'fslightbox-react';
-import Slider from "react-slick";
-import BlogListOne from '../component/blog/BlogListOne';
 
 
 const allBlogData = BlogData;
@@ -32,14 +31,14 @@ const BlogDetails = () => {
     function SlickNextArrow(props) {
         const { className, onClick } = props;
         return (
-          <div className={className} onClick={onClick}><FaAngleRight /></div>
+            <div className={className} onClick={onClick}><FaAngleRight /></div>
         );
     }
 
     function SlickPrevArrow(props) {
         const { className, onClick } = props;
         return (
-          <div className={className} onClick={onClick}><FaAngleLeft /></div>
+            <div className={className} onClick={onClick}><FaAngleLeft /></div>
         );
     }
 
@@ -51,8 +50,8 @@ const BlogDetails = () => {
         slidesToScroll: 1,
         nextArrow: <SlickNextArrow />,
         prevArrow: <SlickPrevArrow />,
-       
-      };
+
+    };
 
     return (
         <>
@@ -60,9 +59,9 @@ const BlogDetails = () => {
             <ColorSwitcher />
             <main className="main-wrapper">
                 <Header />
-                <BreadCrumbOne 
-                title={detailsBlog.title}
-                page="Blog"
+                <BreadCrumbOne
+                    title={detailsBlog.title}
+                    page="Blog"
                 />
                 <div className="section-padding-equal">
                     <div className="container">
@@ -72,25 +71,25 @@ const BlogDetails = () => {
                                     <div className="single-blog-content blog-grid">
                                         <div className="post-thumbnail">
                                             {
-                                                Array.isArray(detailsBlog.large_thumb) ? 
-                                                <Slider {...slideSettings} className="slick-arrow-nav">
-                                                    {detailsBlog.large_thumb.map((data, index) => (
-                                                        <div className="slide-item" key={index}>
-                                                            <img src={`${process.env.PUBLIC_URL}/${data}`} alt="Blog" />
-                                                        </div>
-                                                    ))}
-                                                    
-                                                </Slider> 
-                                                : <img src={`${process.env.PUBLIC_URL}/${detailsBlog.large_thumb}`} alt="Blog" />
+                                                Array.isArray(detailsBlog.large_thumb) ?
+                                                    <Slider {...slideSettings} className="slick-arrow-nav">
+                                                        {detailsBlog.large_thumb.map((data, index) => (
+                                                            <div className="slide-item" key={index}>
+                                                                <img src={`${process.env.PUBLIC_URL}/${data}`} alt="Blog" />
+                                                            </div>
+                                                        ))}
+
+                                                    </Slider>
+                                                    : <img src={`${process.env.PUBLIC_URL}/${detailsBlog.large_thumb}`} alt="Blog" />
                                             }
-                                           
+
                                             {detailsBlog.format === "video" ?
                                                 <>
                                                     <div className="popup-video">
-                                                        <button className="play-btn" onClick={ () => setToggler(!toggler) }><FaPlay /></button>
-                                                    </div> 
-                                                    <FsLightbox toggler={ toggler } sources={ ['https://www.youtube.com/watch?v=1iIZeIy7TqM'] }/>
-                                                </> 
+                                                        <button className="play-btn" onClick={() => setToggler(!toggler)}><FaPlay /></button>
+                                                    </div>
+                                                    <FsLightbox toggler={toggler} sources={['https://www.youtube.com/watch?v=1iIZeIy7TqM']} />
+                                                </>
                                                 : ""
                                             }
 
@@ -107,9 +106,9 @@ const BlogDetails = () => {
                                                 </ul>
                                             </div>
                                         </div>
-                                        {detailsBlog.body.map((data, i) =>(
-                                            <div key={i} dangerouslySetInnerHTML={{__html: data}}></div>
-                                            
+                                        {detailsBlog.body.map((data, i) => (
+                                            <div key={i} dangerouslySetInnerHTML={{ __html: data }}></div>
+
                                         ))}
 
                                         <div className="row">
@@ -120,7 +119,7 @@ const BlogDetails = () => {
                                                     </div>
                                                 </div>
                                             ))}
-                                            
+
                                         </div>
                                     </div>
                                 </div>
@@ -145,8 +144,7 @@ const BlogDetails = () => {
                         </div>
                     </div>
                 </div>
-                <CtaLayoutOne />
-            <GMFooter parentClass="" />
+                <GMFooter parentClass="" />
             </main>
         </>
     )

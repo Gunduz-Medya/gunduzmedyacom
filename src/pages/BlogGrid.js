@@ -1,12 +1,11 @@
 import React from 'react';
+import SEO from '../common/SEO';
 import GMFooter from '../common/footer/GMFooter';
 import Header from '../common/header/GMHeader';
-import CtaLayoutOne from '../component/cta/CtaLayoutOne';
-import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
-import BlogSidebar from '../component/blog/BlogSidebar';
 import BlogGridOne from '../component/blog/BlogGridOne';
+import BlogSidebar from '../component/blog/BlogSidebar';
+import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
-import SEO from '../common/SEO';
 
 
 const BlogGridView = () => {
@@ -18,7 +17,7 @@ const BlogGridView = () => {
             <main className="main-wrapper">
                 <Header />
                 <BreadCrumbOne 
-                title="Blogs"
+                title="Blog"
                 page="Blog"
                 />
                 <div className="section-padding-equal">
@@ -33,7 +32,6 @@ const BlogGridView = () => {
                        </div>
                     </div>
                 </div>
-                <CtaLayoutOne />
             <GMFooter parentClass="" />
             </main>
         </>

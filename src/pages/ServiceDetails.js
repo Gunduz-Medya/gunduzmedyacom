@@ -94,7 +94,6 @@ const ServiceDetails = () => {
                     <li className="shape shape-3"><img src={process.env.PUBLIC_URL + "/images/others/bubble-1.png"} alt="Line" /></li>
                 </ul>
             </div>
-            <CtaLayoutOne />
         <GMFooter parentClass="" />
         </main>
         </>

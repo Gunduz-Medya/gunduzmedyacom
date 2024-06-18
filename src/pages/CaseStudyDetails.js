@@ -4,7 +4,6 @@ import { FaInstagram, FaPlay, FaSpotify, FaTiktok, FaYoutube } from "react-icons
 import { FaXTwitter } from "react-icons/fa6";
 import { Link, useParams } from 'react-router-dom';
 import Tilty from 'react-tilty';
-import SEO from '../common/SEO';
 import GMFooter from '../common/footer/GMFooter';
 import Header from '../common/header/GMHeader';
 import CaseStudyData from '../data/casestudy/CaseStudyData.json';
@@ -27,7 +26,6 @@ const CaseDetails = () => {
 
     return (
         <>
-            <SEO title={detailsCase.title} />
             <ColorSwitcher />
             <main className="main-wrapper">
                 <Header />
@@ -71,32 +69,6 @@ const CaseDetails = () => {
                                 Hazırlanıyor...
                             </div>
                         )}
-                        {/* <div className="row align-items-xl-center">
-                            <div className="col-lg-6">
-                                <div className="case-study-featured-thumb">
-                                    <Tilty perspective={2000}>
-                                        <img src={process.env.PUBLIC_URL + detailsCase.thumb} alt="Case Study" />
-                                    </Tilty>
-                                </div>
-                            </div>
-                            <div className="col-xl-5 col-lg-6 offset-xl-1">
-                                <div className="case-study-featured">
-                                    <div className="section-heading heading-left">
-                                        <h2 className="title">{detailsCase.subProjects.title}</h2>
-                                        <div dangerouslySetInnerHTML={{ __html: detailsCase.details }}></div>
-                                        <div className="footer-social-link">
-                                            <ul className="list-unstyled">
-                                                <li><Link to="https://www.instagram.com/moviepartx"><FaInstagram /></Link></li>
-                                                <li><Link to="https://x.com/moviepartx_"><FaXTwitter /></Link></li>
-                                                <li><Link to="https://www.youtube.com/@moviepartx"><FaYoutube /></Link></li>
-                                                <li><Link to="https://www.youtube.com/@moviepartx"><FaSpotify /></Link></li>
-                                                <li><Link to="https://www.youtube.com/@moviepartx"><FaTiktok /></Link></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> */}
                     </div>
                 </div>
 

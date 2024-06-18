@@ -40,29 +40,6 @@ const GMMainPageBanner = () => {
                     </div>
                 </div>
             </div>
-            <ul className="list-unstyled shape-group-21">
-                <li className="shape shape-1">
-                    <img src={process.env.PUBLIC_URL + "/images/others/bubble-39.png"} alt="Bubble" />
-                </li>
-                <li className="shape shape-2">
-                    <img src={process.env.PUBLIC_URL + "/images/others/bubble-38.png"} alt="Bubble" />
-                </li>
-                <li className="shape shape-3">
-                    <img src={process.env.PUBLIC_URL + "/images/others/bubble-14.png"} alt="Bubble" />
-                </li>
-                <li className="shape shape-4">
-                    <img src={process.env.PUBLIC_URL + "/images/others/bubble-14.png"} alt="Bubble" />
-                </li>
-                <li className="shape shape-5">
-                    <img src={process.env.PUBLIC_URL + "/images/others/bubble-14.png"} alt="Bubble" />
-                </li>
-                <li className="shape shape-6">
-                    <img src={process.env.PUBLIC_URL + "/images/others/bubble-40.png"} alt="Bubble" />
-                </li>
-                <li className="shape shape-7">
-                    <img src={process.env.PUBLIC_URL + "/images/others/bubble-41.png"} alt="Bubble" />
-                </li>
-            </ul>
         </div>
     )
 }

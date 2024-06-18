@@ -26,6 +26,7 @@ import Contact from './pages/Contact';
 import OurClients from './pages/OurClients';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import TermsOfUse from './pages/TermsOfUse';
+import CookiePolicy from './pages/CookiePolicy';
 
 // Css Import
 import './assets/scss/app.scss';
@@ -48,7 +49,8 @@ const App = () => {
 					{/* Company */}
 					<Route path={process.env.PUBLIC_URL + "/iletisim"} element={<Contact />} />
 					<Route path={process.env.PUBLIC_URL + "/gizlilik-politikasi"} element={<PrivacyPolicy />} />
-					<Route path={process.env.PUBLIC_URL + "/terms-use"} element={<TermsOfUse />} />
+					<Route path={process.env.PUBLIC_URL + "/sartlar-ve-kosullar"} element={<TermsOfUse />} />
+					<Route path={process.env.PUBLIC_URL + "/cerez-politikasi"} element={<CookiePolicy />} />
 
 					<Route path={process.env.PUBLIC_URL + "*"} element={<ErrorPage />} />
 

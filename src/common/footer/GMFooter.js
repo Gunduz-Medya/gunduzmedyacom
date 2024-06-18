@@ -78,7 +78,7 @@ const GMFooter = ({ parentClass }) => {
                                             <ul className="list-unstyled">
                                                 <li><Link to={process.env.PUBLIC_URL + "/iletisim"}>İletişim</Link></li>
                                                 <li> <Link to={process.env.PUBLIC_URL + "/gizlilik-politikasi"}>Gizlilik Politikası</Link></li>
-                                                <li><Link to={process.env.PUBLIC_URL + "/terms-use"}>Şartlar ve Koşullar</Link></li>
+                                                <li><Link to={process.env.PUBLIC_URL + "/sartlar-ve-kosullar"}>Şartlar ve Koşullar</Link></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -98,8 +98,8 @@ const GMFooter = ({ parentClass }) => {
                             <div className="footer-bottom-link">
                                 <ul className="list-unstyled">
                                     <li><Link to={process.env.PUBLIC_URL + "/gizlilik-politikasi"}>Gizlilik Politikası</Link></li>
-                                    <li><Link to={process.env.PUBLIC_URL + "/terms-use"}>Şartlar ve Koşullar</Link></li>
-                                    <li><Link to={process.env.PUBLIC_URL + "/terms-use"}>Çerez Politikası</Link></li>
+                                    <li><Link to={process.env.PUBLIC_URL + "/sartlar-ve-kosullar"}>Şartlar ve Koşullar</Link></li>
+                                    <li><Link to={process.env.PUBLIC_URL + "/cerez-politikasi"}>Çerez Politikası</Link></li>
                                 </ul>
                             </div>
                         </div>

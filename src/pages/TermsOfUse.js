@@ -11,39 +11,54 @@ const TermsOfUse = () => {
 
     return (
         <>
-            <SEO title="Terms Of Use" />
             <ColorSwitcher />
             <main className="main-wrapper">
                 <Header />
-                <BreadCrumbOne 
-                title="Terms Of Use"
-                page="Terms Of Use"
+                <BreadCrumbOne
+                    title="Şartlar ve Koşullar"
+                    page="Şartlar ve Koşullar"
                 />
                 <div className="section-padding privacy-policy-area">
                     <div className="container">
                         <div className="row justify-content-center">
                             <div className="col-lg-10">
                                 <div className="privacy-policy-content">
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
-                                <h4>Nam liber tempor cum soluta</h4>
-                                <p>Sed nec ex vitae justo molestie maximus. Sed ut neque sit amet libero rhoncus tempor. Fusce tempor quam libero, varius congue magna tempus vitae. Donec a justo nec elit sagittis sagittis eu a ante. Vivamus rutrum elit odio. Donec gravida id ligula ut faucibus. Aenean convallis ligula orci, ut congue nunc sodales ut. In ultrices elit malesuada velit ornare, eget dictum velit hendrerit. Praesent bibendum blandit lectus, eu congue neque mollis in. Pellentesque metus diam, hendrerit in purus fringilla, accumsan bibendum sapien. Nunc non facilisis sem.
-                                </p>
-                                <h4>About Abstrak</h4>
-                                <p>In dapibus, nibh sit amet pulvinar convallis, massa nunc tincidunt nunc, a pretium risus nulla ut dui. Ut ut condimentum tellus, dapibus volutpat est. Integer ullamcorper iaculis blandit. Pellentesque id tempus urna. Quisque luctus cursus imperdiet. <a href="mailto:example@abstrak.com">example@abstrak.com</a> </p>
-                                <h4>Nam liber tempor cum soluta</h4>
-                                <p>Putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-                                <h4>Nam liber tempor cum soluta</h4>
-                                <p>Nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
-                                <h4>Mirum est notare quam</h4>
-                                <p>Littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
+                                    <p>Gündüz Medya'ya ("Şirket", "biz", "bizim", "bize") hoş geldiniz! www.gunduzmedya.com ("Site") adresindeki internet sitemize erişerek, aşağıdaki şartlar ve koşullara ("Şartlar") uymayı ve bağlı kalmayı kabul etmiş olursunuz. Lütfen bu Şartları dikkatlice okuyun. Bu Şartları kabul etmiyorsanız, Sitemizi kullanmamalısınız.</p>
+                                    <h4>Şartların Kabulü</h4>
+                                    <p>Sitemize erişerek ve kullanarak, bu Şartları ve Gizlilik Politikamızı kabul etmiş olursunuz. Şartların herhangi bir kısmını kabul etmiyorsanız, Sitemizi kullanmamalısınız.</p>
+                                    <h4>Şartlarda Değişiklikler</h4>
+                                    <p>Gündüz Medya, bu Şartları herhangi bir zamanda değiştirme veya yenileme hakkını saklı tutar. Bu değişiklikler hakkında Sitemizde bildirimde bulunacağız. Değişikliklerin yayınlanmasının ardından Sitemizi kullanmaya devam etmeniz, bu değişiklikleri kabul ettiğiniz anlamına gelir.</p>
+                                    <h4>Sitenin Kullanımı</h4>
+                                    <p>Sitemizi yalnızca yasal amaçlarla ve üçüncü şahısların haklarını ihlal etmeyen veya kısıtlamayan bir şekilde kullanmayı kabul edersiniz. Şunları yapmamayı kabul edersiniz:</p>
+                                    <ul>
+                                        <li>Sitemizi herhangi bir yerel, ulusal veya uluslararası yasa veya düzenlemeyi ihlal edecek şekilde kullanmak.</li>
+                                        <li>Gündüz Medya'ya zarar verecek, yasa dışı, dolandırıcı veya zararlı davranışlarda bulunmak.</li>
+                                        <li>İstenmeyen veya yetkisiz reklam, tanıtım materyalleri, spam veya diğer talep türlerini iletmek.</li>
+                                    </ul>
+                                    <h4>Fikri Mülkiyet</h4>
+                                    <p>Sitede görüntülenen tüm içerikler, ticari markalar, hizmet markaları, logolar ve fikri mülkiyet hakları Gündüz Medya'ya veya lisans verenlerine aittir. Gündüz Medya'nın önceden yazılı izni olmadan Siteden herhangi bir içeriği kullanamaz, çoğaltamaz veya dağıtamazsınız.</p>
+                                    <h4>Sorumluluğun Sınırlandırılması</h4>
+                                    <p>Kanunen izin verilen en geniş ölçüde, Gündüz Medya, dolaylı, tesadüfi, özel, netice kabilinden doğan veya cezai tazminat taleplerinden, veya kar kaybı veya gelir kaybından, doğrudan veya dolaylı olarak, veya veri kaybı, kullanım kaybı, itibar kaybı veya diğer soyut kayıplardan sorumlu tutulamaz:</p>
+                                    <ul>
+                                        <li>Sitemize erişiminiz veya kullanmanız veya erişememeniz veya kullanamamanız.</li>
+                                        <li>Sunucularımıza yetkisiz erişim veya bunların kullanımı ve/veya bu sunucularda saklanan kişisel bilgilere yetkisiz erişim veya bunların kullanımı.</li>
+                                    </ul>
+                                    <h4>Tazminat</h4>
+                                    <p>Gündüz Medya'yı, iştiraklerini ve bunların ilgili yöneticilerini, memurlarını, çalışanlarını ve temsilcilerini; Sitemizi kullanımınızdan, bu Şartların ihlalinden veya üçüncü şahıs haklarının ihlalinden kaynaklanan herhangi bir iddia, zarar, yükümlülük, kayıp, maliyet veya borç ve masraflardan zarar görmemesi için tazmin etmeyi ve zararını karşılamayı kabul edersiniz.</p>
+                                    <h4>Geçerli Hukuk</h4>
+                                    <p>Bu Şartlar, hukukun ihtilafı hükümlerine bakılmaksızın Türkiye kanunlarına göre yönetilecek ve yorumlanacaktır. Herhangi bir ihtilafın çözümü için Türkiye içinde bulunan mahkemelerin kişisel yargı yetkisine tabi olmayı kabul edersiniz.</p>
+                                    <h4>İletişim</h4>
+                                    <p>Bu Şartlar hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin:</p>
+                                    <ul>
+                                        <li>E-posta: baris@gunduzmedya.com</li>
+                                        <li>Adres: İstanbul</li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
-                <CtaLayoutOne />
-            <GMFooter parentClass="" />
+                <GMFooter parentClass="" />
             </main>
         </>
     )

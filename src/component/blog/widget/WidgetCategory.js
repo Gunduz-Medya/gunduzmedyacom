@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import {flatDeep, slugify, containsObject} from '../../../utils';
+import { flatDeep, slugify, containsObject } from '../../../utils';
 import BlogData from "../../../data/blog/BlogData.json";
 
 
@@ -20,7 +20,7 @@ const WidgetCategory = () => {
             count: 1
         }
         const objIndex = containsObject(obj, categories);
-        if(objIndex !== -1){
+        if (objIndex !== -1) {
             const prevCount = categories[objIndex].count;
             categories[objIndex] = {
                 title: cat.trim(),
@@ -34,9 +34,9 @@ const WidgetCategory = () => {
 
     return (
         <ul className="category-list list-unstyled">
-            {categories.map((data) =>(
+            {categories.map((data) => (
                 <li key={data.slug}>
-                    <Link to={process.env.PUBLIC_URL + `/category/${data.slug}`}>{data.title}</Link>
+                    <Link to={process.env.PUBLIC_URL + `/kategori/${data.slug}`}>{data.title}</Link>
                 </li>
             ))}
         </ul>

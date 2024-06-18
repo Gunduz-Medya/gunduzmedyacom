@@ -27,7 +27,6 @@ const CaseStudy = () => {
                         <CaseStudyProp />
                     </div>
                 </div>
-                <CtaLayoutOne />
                 <GMFooter parentClass="" />
             </main>
         </>

@@ -3,7 +3,6 @@ import React, { useState } from 'react';
 import { FaAngleLeft, FaAngleRight, FaPlay } from "react-icons/fa";
 import { useParams } from 'react-router-dom';
 import Slider from "react-slick";
-import SEO from '../common/SEO';
 import GMFooter from '../common/footer/GMFooter';
 import Header from '../common/header/GMHeader';
 import BlogAuthor from '../component/blog/BlogAuthor';
@@ -55,7 +54,6 @@ const BlogDetails = () => {
 
     return (
         <>
-            <SEO title={detailsBlog.title} />
             <ColorSwitcher />
             <main className="main-wrapper">
                 <Header />

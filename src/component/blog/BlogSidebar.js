@@ -8,20 +8,13 @@ import { FaXTwitter } from "react-icons/fa6";
 const BlogSidebar = () => {
     return (
         <div className="axil-sidebar">
-            <div className="widget widget-search">
-                <h4 className="widget-title">Search</h4>
-                <form action="#" className="blog-search">
-                    <input type="text" placeholder="Search…" />
-                    <button className="search-button"><FaSearch /></button>
-                </form>
-            </div>
             <div className="widget widget-categories">
-                <h4 className="widget-title">Categories</h4>
+                <h4 className="widget-title">Kategoriler</h4>
                 <WidgetCategory />
             </div>
             <div className="widget widge-social-share">
                 <div className="blog-share">
-                    <h5 className="title">Follow:</h5>
+                    <h5 className="title">Takip:</h5>
                     <ul className="social-list list-unstyled">
                         <li><a href="https://facebook.com/"><FaFacebookF /></a></li>
                         <li><a href="https://twitter.com/"><FaXTwitter /></a></li>
@@ -33,7 +26,7 @@ const BlogSidebar = () => {
                 </div>
             </div>
             <div className="widget widget-recent-post">
-                <h4 className="widget-title">Recent post</h4>
+                <h4 className="widget-title">Son Yazılar</h4>
                 <WidgetPost />
             </div>
             <div className="widget widget-banner-ad">

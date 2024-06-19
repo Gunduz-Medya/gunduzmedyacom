@@ -1,11 +1,10 @@
 import React from 'react';
+import SEO from '../common/SEO';
 import GMFooter from '../common/footer/GMFooter';
 import Header from '../common/header/GMHeader';
-import SEO from '../common/SEO';
-import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
-import CtaLayoutOne from '../component/cta/CtaLayoutOne';
-import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 import CaseStudyProp from '../component/casestudy/CaseStudyProp';
+import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
+import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 
 
 const CaseStudy = () => {

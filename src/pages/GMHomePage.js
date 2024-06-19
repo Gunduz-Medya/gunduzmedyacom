@@ -39,7 +39,7 @@ const GMHomePage = () => {
                 <GMAbout />
                 <GMProjects />
                 <GMPartners />
-                <GMBlog />
+               {/*  <GMBlog /> */}
                 <GMFooter parentClass="" />
             </main>
         </>

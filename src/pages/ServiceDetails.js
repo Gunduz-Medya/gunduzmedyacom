@@ -1,18 +1,17 @@
 import React from 'react';
-import {useParams} from 'react-router-dom';
+import { useParams } from 'react-router-dom';
+import Tilty from 'react-tilty';
+import SEO from '../common/SEO';
 import GMFooter from '../common/footer/GMFooter';
 import Header from '../common/header/GMHeader';
-import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
-import CtaLayoutOne from '../component/cta/CtaLayoutOne';
-import GMSectionTitle from '../elements/section-title/GMSectionTitle';
-import ProjectPropOne from '../component/project/itemProp/ProjectPropOne';
-import { slugify } from '../utils';
-import ServiceData from "../data/service/ServiceMain.json";
-import ProjectData from "../data/project/ProjectData.json";
 import AboutTwo from '../component/about/AboutTwo';
+import ProjectPropOne from '../component/project/itemProp/ProjectPropOne';
+import ProjectData from "../data/project/ProjectData.json";
+import ServiceData from "../data/service/ServiceMain.json";
+import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
+import GMSectionTitle from '../elements/section-title/GMSectionTitle';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
-import SEO from '../common/SEO';
-import Tilty from 'react-tilty';
+import { slugify } from '../utils';
 
 const allServiceData = ServiceData;
 const getProjectData = ProjectData;

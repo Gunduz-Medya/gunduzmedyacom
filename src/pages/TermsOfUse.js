@@ -1,10 +1,8 @@
 import React from 'react';
 import GMFooter from '../common/footer/GMFooter';
 import Header from '../common/header/GMHeader';
-import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
-import SEO from '../common/SEO';
 
 
 const TermsOfUse = () => {

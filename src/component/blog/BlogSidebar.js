@@ -1,9 +1,9 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import WidgetPost from './widget/WidgetPost';
-import WidgetCategory from './widget/WidgetCategory';
-import { FaSearch, FaFacebookF, FaInstagram, FaLinkedinIn, FaPinterest, FaYoutube} from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaLinkedinIn, FaPinterest, FaYoutube } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
+import { Link } from 'react-router-dom';
+import WidgetCategory from './widget/WidgetCategory';
+import WidgetPost from './widget/WidgetPost';
 
 const BlogSidebar = () => {
     return (

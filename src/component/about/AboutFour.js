@@ -7,12 +7,12 @@ const AboutFour = () => {
         <div className="section section-padding case-study-featured-area">
             <div className="container">
                 <div className="row">
-                    <div className="col-xl-7 col-lg-6">
+                    <div className="col-xl-4 col-lg-3">
                         <div className="case-study-featured-thumb text-start">
-                            <img src={process.env.PUBLIC_URL + "/images/hakkimizda/dunya-standartlarinda-urun-gelistirme.jpg"} alt="travel" />
+                            <img src={process.env.PUBLIC_URL + "/images/hakkimizda/dunya-standartlarinda-urun-gelistirme.svg"} alt="travel" />
                         </div>
                     </div>
-                    <div className="col-xl-5 col-lg-6">
+                    <div className="col-xl-8 col-lg-9">
                         <div className="case-study-featured">
                             <div className="section-heading heading-left">
                                 <span className="subtitle">Misyonumuz</span>

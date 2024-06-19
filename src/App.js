@@ -13,14 +13,14 @@ import BlogGridView from './pages/BlogGrid';
 import BlogCategory from './pages/Category';
 
 // Service 
-import ServiceDetails from './pages/ServiceDetails';
-import ServiceOne from './pages/ServiceOne';
+import GMServices from './pages/GMServicesPage';
+import GMServiceDetails from './pages/GMServiceDetailsPage';
 
 // Pages 
 import ErrorPage from './pages/404';
-import AboutUs from './pages/AboutUs';
-import CaseStudy from './pages/CaseStudy';
-import CaseDetails from './pages/CaseStudyDetails';
+import GMAboutUs from './pages/GMAboutUsPage';
+import GMProjects from './pages/GMProjectsPage';
+import GMProjectDetails from './pages/GMProjectDetailsPage';
 import ComingSoon from './pages/ComingSoon';
 import Contact from './pages/Contact';
 import OurClients from './pages/OurClients';
@@ -40,22 +40,19 @@ const App = () => {
 					<Route path={process.env.PUBLIC_URL + "/"} element={<GMHomePage />} />
 
 					{/* Pages  */}
-					<Route path={process.env.PUBLIC_URL + "/hakkimizda"} element={<AboutUs />} />
-					<Route path={process.env.PUBLIC_URL + "/projeler"} element={<CaseStudy />} />
-					<Route path={process.env.PUBLIC_URL + "/proje-detayi/:slug"} element={<CaseDetails />} />
+					<Route path={process.env.PUBLIC_URL + "/hakkimizda"} element={<GMAboutUs />} />
 					{/* Service */}
-					<Route path={process.env.PUBLIC_URL + "/hizmetler/"} element={<ServiceOne />} />
-					<Route path={process.env.PUBLIC_URL + "/hizmetler/:slug"} element={<ServiceDetails />} />
+					<Route path={process.env.PUBLIC_URL + "/hizmetler/"} element={<GMServices />} />
+					<Route path={process.env.PUBLIC_URL + "/hizmetler/:slug"} element={<GMServiceDetails />} />
+
+					<Route path={process.env.PUBLIC_URL + "/projeler"} element={<GMProjects />} />
+					<Route path={process.env.PUBLIC_URL + "/proje-detayi/:slug"} element={<GMProjectDetails />} />
+
 					{/* Company */}
 					<Route path={process.env.PUBLIC_URL + "/iletisim"} element={<Contact />} />
 					<Route path={process.env.PUBLIC_URL + "/gizlilik-politikasi"} element={<PrivacyPolicy />} />
 					<Route path={process.env.PUBLIC_URL + "/sartlar-ve-kosullar"} element={<TermsOfUse />} />
 					<Route path={process.env.PUBLIC_URL + "/cerez-politikasi"} element={<CookiePolicy />} />
-
-					<Route path={process.env.PUBLIC_URL + "*"} element={<ErrorPage />} />
-
-					<Route path={process.env.PUBLIC_URL + "/pek-yakinda"} element={<ComingSoon />} />
-
 					<Route path={process.env.PUBLIC_URL + "/is-ortaklarimiz"} element={<OurClients />} />
 
 					{/* Blogs */}
@@ -64,6 +61,8 @@ const App = () => {
 					<Route path={process.env.PUBLIC_URL + "/kategori/:slug"} element={<BlogCategory />} />
 					<Route path={process.env.PUBLIC_URL + "/arsiv/:slug"} element={<BlogArchive />} />
 
+					<Route path={process.env.PUBLIC_URL + "/pek-yakinda"} element={<ComingSoon />} />
+					<Route path={process.env.PUBLIC_URL + "*"} element={<ErrorPage />} />
 				</Routes>
 			</ScrollToTop>
 		</Router>

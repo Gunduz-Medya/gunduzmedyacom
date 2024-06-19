@@ -8,13 +8,12 @@ import GMFooter from '../common/footer/GMFooter';
 import Header from '../common/header/GMHeader';
 import CaseStudyData from '../data/casestudy/CaseStudyData.json';
 import BcrumbBannerTwo from '../elements/breadcrumb/BcrumbBannerTwo';
-import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 import { slugify } from '../utils';
 
 const allCaseData = CaseStudyData;
 
 
-const CaseDetails = () => {
+const GMProjectDetails = () => {
 
     const params = useParams();
     const caseSlug = params.slug;
@@ -26,7 +25,6 @@ const CaseDetails = () => {
 
     return (
         <>
-            <ColorSwitcher />
             <main className="main-wrapper">
                 <Header />
                 <BcrumbBannerTwo
@@ -103,4 +101,4 @@ const CaseDetails = () => {
     )
 }
 
-export default CaseDetails;
+export default GMProjectDetails;

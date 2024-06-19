@@ -1,21 +1,18 @@
 import React from 'react';
-import GMHeader from '../common/header/GMHeader';
-import GMMainPageBanner from '../component/banner/GMMainPageBanner';
-import GMSectionTitle from '../elements/section-title/GMSectionTitle';
-import GMServices from '../component/service/GMServices';
-import GMAbout from '../component/about/GMAbout';
-import GMProjects from '../component/project/GMProjects';
-import GMPartners from '../component/brand/GMPartners';
-import GMBlog from '../component/blog/GMBlog';
-import GMFooter from '../common/footer/GMFooter';
-import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 import { Link } from 'react-router-dom';
+import GMFooter from '../common/footer/GMFooter';
+import GMHeader from '../common/header/GMHeader';
+import GMAbout from '../component/about/GMAbout';
+import GMMainPageBanner from '../component/banner/GMMainPageBanner';
+import GMPartners from '../component/brand/GMPartners';
+import GMProjects from '../component/project/GMProjects';
+import GMServices from '../component/service/GMServices';
+import GMSectionTitle from '../elements/section-title/GMSectionTitle';
 
 const GMHomePage = () => {
 
     return (
         <>
-            <ColorSwitcher />
             <main className="main-wrapper">
                 <GMHeader />
                 <GMMainPageBanner />

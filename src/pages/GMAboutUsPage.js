@@ -1,5 +1,4 @@
 import React from 'react';
-import SEO from '../common/SEO';
 import GMFooter from '../common/footer/GMFooter';
 import Header from '../common/header/GMHeader';
 import AboutFive from '../component/about/AboutFive';
@@ -7,15 +6,11 @@ import AboutFour from '../component/about/AboutFour';
 import AboutThree from '../component/about/AboutThree';
 import ProcessOne from '../component/process/ProcessOne';
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
-import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 
-
-const AboutUs = () => {
+const GMAboutUs = () => {
 
     return (
         <>
-            <SEO title="Hakkımızda" />
-            <ColorSwitcher />
             <main className="main-wrapper">
                 <Header />
                 <BcrumbBannerOne
@@ -26,11 +21,11 @@ const AboutUs = () => {
                 <AboutThree />
                 <AboutFive />
                 <ProcessOne />
-               {/*  <CtaLayoutOne /> */}
+                {/*  <CtaLayoutOne /> */}
                 <GMFooter parentClass="" />
             </main>
         </>
     )
 }
 
-export default AboutUs;
+export default GMAboutUs;

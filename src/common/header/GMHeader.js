@@ -46,7 +46,7 @@ const GMHeader = () => {
                             <div className="header-main-nav">
                                 <Nav />
                             </div>
-                            <div className="header-action">
+                            {/* <div className="header-action">
                                 <ul className="list-unstyled">
                                     <li className="sidemenu-btn d-lg-block d-none">
                                         <button className="btn-wrap" onClick={OffcanvasHandleShow}>
@@ -66,7 +66,7 @@ const GMHeader = () => {
                                         <SwitcherHeader />
                                     </li>
                                 </ul>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

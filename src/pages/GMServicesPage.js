@@ -1,7 +1,7 @@
 import React from 'react';
 import GMFooter from '../common/footer/GMFooter';
 import Header from '../common/header/GMHeader';
-import CtaLayoutOne from '../component/cta/CtaLayoutOne';
+import SplashCta from '../component/cta/SplashCta';
 import ServiceProp from '../component/service/ServiceProp';
 import ServiceData from "../data/service/ServiceMain.json";
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
@@ -31,31 +31,29 @@ const GMServices = () => {
                 />
                 <div className="service-scroll-navigation-area">
 
-                    {/* Service Nav */}
-
                     <nav id="onepagenav" className="service-scroll-nav navbar onepagefixed">
                         <div className="container">
                             <ul className="nav nav-pills">
                                 <li className="nav-item">
-                                    <a className="nav-link" href="#section2">Yazılım Geliştirme</a>
+                                    <a className="nav-link" href="#yazilim-gelistirme">Yazılım Geliştirme</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="#section1">Tasarım Hizmetleri</a>
+                                    <a className="nav-link" href="#tasarim-hizmetleri">Tasarım Hizmetleri</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="#section3">Reklam ve Pazarlama</a>
+                                    <a className="nav-link" href="#reklam-ve-pazarlama">Reklam ve Pazarlama</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="#section4">İş Geliştirme ve Danışmanlık</a>
+                                    <a className="nav-link" href="#is-gelistirme-ve-danismanligi">İş Geliştirme ve Danışmanlık</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="#section6">İçerik Üretimi</a>
+                                    <a className="nav-link" href="#icerik-uretimi">İçerik Üretimi</a>
                                 </li>
                             </ul>
                         </div>
                     </nav>
 
-                    <div className="section section-padding bg-color-dark" id="section2">
+                    <div className="section section-padding bg-color-dark" id="yazilim-gelistirme">
                         <div className="container">
                             <GMSectionTitle
                                 subtitle="Hizmetlerimiz"
@@ -71,7 +69,7 @@ const GMServices = () => {
                         </div>
                     </div>
 
-                    <div className="section section-padding" id="section1">
+                    <div className="section section-padding" id="tasarim-hizmetleri">
                         <div className="container">
                             <GMSectionTitle
                                 subtitle="Hizmetlerimiz"
@@ -88,7 +86,7 @@ const GMServices = () => {
                     </div>
 
 
-                    <div className="section section-padding bg-color-dark" id="section3">
+                    <div className="section section-padding bg-color-dark" id="reklam-ve-pazarlama">
                         <div className="container">
                             <GMSectionTitle
                                 subtitle="Hizmetlerimiz"
@@ -104,7 +102,7 @@ const GMServices = () => {
                         </div>
                     </div>
 
-                    <div className="section section-padding" id="section4">
+                    <div className="section section-padding" id="is-gelistirme-ve-danismanligi">
                         <div className="container">
                             <GMSectionTitle
                                 subtitle="Hizmetlerimiz"
@@ -120,7 +118,7 @@ const GMServices = () => {
                         </div>
                     </div>
 
-                    <div className="section section-padding bg-color-dark" id="section6">
+                    <div className="section section-padding bg-color-dark" id="icerik-uretimi">
                         <div className="container">
                             <GMSectionTitle
                                 subtitle="Hizmetlerimiz"
@@ -136,7 +134,7 @@ const GMServices = () => {
                         </div>
                     </div>
                 </div>
-                <CtaLayoutOne />
+                <SplashCta />
                 <GMFooter parentClass="" />
             </main>
         </>

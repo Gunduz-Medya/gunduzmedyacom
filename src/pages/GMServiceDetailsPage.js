@@ -29,8 +29,8 @@ const GMServiceDetails = () => {
                 <BcrumbBannerOne
                     title={detailsService.title}
                     paragraph={detailsService.description}
-                    styleClass="1"
-                    mainThumb="/images/banner/banner-thumb-4.png"
+                    styleClass=""
+                    mainThumb=""
                 />
                 <AboutTwo />
 

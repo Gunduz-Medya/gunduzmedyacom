@@ -14,8 +14,8 @@ const GMProjects = () => {
                 <BcrumbBannerOne
                     title="Projelerimiz"
                     paragraph="İnternette olmaktan keyif aldığımız her an, üretmekten keyif aldığımız projeler geliştiriyoruz."
-                    styleClass="thumbnail-3"
-                    mainThumb="/images/banner/banner-thumb-5.png"
+                    styleClass=""
+                    mainThumb=""
                 />
                 <div className="pt--250 pt_lg--200 pt_md--100 pt_sm--80 case-study-page-area">
                     <div className="container">

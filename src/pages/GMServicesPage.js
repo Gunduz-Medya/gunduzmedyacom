@@ -30,29 +30,6 @@ const GMServices = () => {
                     mainThumb="/images/banner/banner-thumb-4.png"
                 />
                 <div className="service-scroll-navigation-area">
-
-                    <nav id="onepagenav" className="service-scroll-nav navbar onepagefixed">
-                        <div className="container">
-                            <ul className="nav nav-pills">
-                                <li className="nav-item">
-                                    <a className="nav-link" href="#yazilim-gelistirme">Yazılım Geliştirme</a>
-                                </li>
-                                <li className="nav-item">
-                                    <a className="nav-link" href="#tasarim-hizmetleri">Tasarım Hizmetleri</a>
-                                </li>
-                                <li className="nav-item">
-                                    <a className="nav-link" href="#reklam-ve-pazarlama">Reklam ve Pazarlama</a>
-                                </li>
-                                <li className="nav-item">
-                                    <a className="nav-link" href="#is-gelistirme-ve-danismanligi">İş Geliştirme ve Danışmanlık</a>
-                                </li>
-                                <li className="nav-item">
-                                    <a className="nav-link" href="#icerik-uretimi">İçerik Üretimi</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </nav>
-
                     <div className="section section-padding bg-color-dark" id="yazilim-gelistirme">
                         <div className="container">
                             <GMSectionTitle

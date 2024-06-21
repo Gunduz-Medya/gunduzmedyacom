@@ -64,7 +64,22 @@ const GMProjectDetails = () => {
                             </div>
                         )) : (
                             <div>
-                                Hazırlanıyor...
+                               <div className="col-lg-6">
+                                    <div className="case-study-featured-thumb">
+                                        <Tilty perspective={2000}>
+                                            <img src={process.env.PUBLIC_URL + detailsCase.thumb} alt="Case Study" />
+                                        </Tilty>
+                                    </div>
+                                </div>
+                                <div className="col-xl-5 col-lg-6 offset-xl-1">
+                                    <div className="case-study-featured">
+                                        <div className="section-heading heading-left">
+                                            <h2 className="title">{detailsCase.title}</h2>
+                                            <div dangerouslySetInnerHTML={{ __html: detailsCase.details }}></div>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         )}
                     </div>

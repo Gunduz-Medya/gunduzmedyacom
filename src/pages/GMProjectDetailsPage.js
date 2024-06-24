@@ -64,7 +64,7 @@ const GMProjectDetails = () => {
                             </div>
                         )) : (
                             <div>
-                               <div className="col-lg-6">
+                                <div className="col-lg-6">
                                     <div className="case-study-featured-thumb">
                                         <Tilty perspective={2000}>
                                             <img src={process.env.PUBLIC_URL + detailsCase.thumb} alt="Case Study" />
@@ -76,7 +76,7 @@ const GMProjectDetails = () => {
                                         <div className="section-heading heading-left">
                                             <h2 className="title">{detailsCase.title}</h2>
                                             <div dangerouslySetInnerHTML={{ __html: detailsCase.details }}></div>
-                                            
+
                                         </div>
                                     </div>
                                 </div>

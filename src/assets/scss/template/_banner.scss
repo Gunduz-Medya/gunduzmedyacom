@@ -2,7 +2,7 @@
     Banner
 -------------------------*/
 .banner {
-    padding: 255px 0 0;
+    padding: 220px 0 0;
     position: relative;
     z-index: 2;
     min-height: 800px;
@@ -173,15 +173,19 @@
             }
         }
         .banner-thumbnail {
+            img {
+                width: 74%;
+            }
             z-index: 5;
             .large-thumb {
+                text-align: center;
                 @media #{$laptop-device} {
                     img {
                         width: 74%;
                     }
                 }
                 @media #{$sm-layout} {
-                    // display: none;
+                     display: none;
                 }
             }
             .large-thumb-2 {

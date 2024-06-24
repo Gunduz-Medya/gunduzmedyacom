@@ -31,9 +31,9 @@ const GMHeader = () => {
                     <div className="container">
                         <div className="header-navbar">
                             <div className="header-logo">
-                                <Logo limage="/images/gunduzmedya-logo.png"
+                                <Logo limage="/images/gunduz-medya-logo-light.png"
                                     dimage="/images/gunduzmedya-logo-dark.png"
-                                    simage="/images/gunduzmedya-logo.png"
+                                    simage="/images/gunduz-medya-logo-light.png"
                                 />
                             </div>
                             <div className="header-main-nav">

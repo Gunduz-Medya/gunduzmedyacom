@@ -22,7 +22,7 @@ const GMHomePage = () => {
                             subtitle="Hizmetlerimiz"
                             title="Dijital Ürünler Tasarlıyor ve Geliştiriyoruz"
                             description="10 yılın ve 100'den fazla ürünün ardından, ekibimiz sizi etkileyici sonuçlarla buluşturan yazılım geliştirme hizmetleri sunmaya hazır. Hayal ettiğiniz her türlü projeyi bizimle gerçekleştirebilirsiniz!"
-                            textAlignment="heading-light-left"
+                            textAlignment="heading-light"
                             textColor=""
                         />
                         <div className='row'>

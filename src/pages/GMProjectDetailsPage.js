@@ -40,7 +40,7 @@ const GMProjectDetails = () => {
                                 <div className="col-lg-6">
                                     <div className="case-study-featured-thumb">
                                         <Tilty perspective={2000}>
-                                            <img src={process.env.PUBLIC_URL + data.thumb} alt="Case Study" />
+                                            <img src={process.env.REACT_APP_PUBLIC_URL_LOCAL + data.thumb} alt="Case Study" />
                                         </Tilty>
                                     </div>
                                 </div>

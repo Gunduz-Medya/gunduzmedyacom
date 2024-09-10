@@ -45,11 +45,11 @@ const GMServiceDetails = () => {
                     <div className="container">
                         {detailsService.process.steps.map((data, index) => (
                             <div key={index} className={`process-work ${(index % 2 === 1) ? "content-reverse" : ""}`}>
-                                <Tilty perspective={2000} className="serviceThumb">
-                                    <div className="thumbnail">
-                                        <img src={process.env.PUBLIC_URL + data.thumb} alt="Thumbnail" />
-                                    </div>
-                                </Tilty>
+                                {/*<Tilty perspective={2000} className="serviceThumb">*/}
+                                {/*    <div className="thumbnail">*/}
+                                {/*        <img src={process.env.PUBLIC_URL + data.thumb} alt="Thumbnail" />*/}
+                                {/*    </div>*/}
+                                {/*</Tilty>*/}
                                 <div className="content">
                                     <span className="subtitle">{data.subtitle}</span>
                                     <h3 className="title">{data.title}</h3>
@@ -70,8 +70,8 @@ const GMServiceDetails = () => {
                 <div className="section section-padding">
                     <div className="container">
                         <GMSectionTitle
-                            subtitle="Our Project"
-                            title="Featured Designs"
+                            subtitle="Projeler"
+                            title="Sizler için seçtiklerimiz"
                             description=""
                             textAlignment=""
                             textColor=""
